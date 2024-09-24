@@ -1,0 +1,294 @@
+Added Component: Designator=M1(EC200U)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Quectel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetM1_1 Pin=M1-1
+Added Net: Name=NetM1_1
+Added Pin To Net: NetName=NetM1_2 Pin=M1-2
+Added Net: Name=NetM1_2
+Added Pin To Net: NetName=NetM1_3 Pin=M1-3
+Added Net: Name=NetM1_3
+Added Pin To Net: NetName=NetM1_4 Pin=M1-4
+Added Net: Name=NetM1_4
+Added Pin To Net: NetName=NetM1_5 Pin=M1-5
+Added Net: Name=NetM1_5
+Added Pin To Net: NetName=NetM1_6 Pin=M1-6
+Added Net: Name=NetM1_6
+Added Pin To Net: NetName=NetM1_7 Pin=M1-7
+Added Net: Name=NetM1_7
+Added Pin To Net: NetName=NetM1_8 Pin=M1-8
+Added Net: Name=NetM1_8
+Added Pin To Net: NetName=NetM1_9 Pin=M1-9
+Added Net: Name=NetM1_9
+Added Pin To Net: NetName=NetM1_10 Pin=M1-10
+Added Net: Name=NetM1_10
+Added Pin To Net: NetName=NetM1_11 Pin=M1-11
+Added Net: Name=NetM1_11
+Added Pin To Net: NetName=NetM1_12 Pin=M1-12
+Added Net: Name=NetM1_12
+Added Pin To Net: NetName=NetM1_13 Pin=M1-13
+Added Net: Name=NetM1_13
+Added Pin To Net: NetName=NetM1_14 Pin=M1-14
+Added Net: Name=NetM1_14
+Added Pin To Net: NetName=NetM1_15 Pin=M1-15
+Added Net: Name=NetM1_15
+Added Pin To Net: NetName=NetM1_16 Pin=M1-16
+Added Net: Name=NetM1_16
+Added Pin To Net: NetName=NetM1_17 Pin=M1-17
+Added Net: Name=NetM1_17
+Added Pin To Net: NetName=NetM1_18 Pin=M1-18
+Added Net: Name=NetM1_18
+Added Pin To Net: NetName=NetM1_19 Pin=M1-19
+Added Net: Name=NetM1_19
+Added Pin To Net: NetName=NetM1_20 Pin=M1-20
+Added Net: Name=NetM1_20
+Added Pin To Net: NetName=NetM1_21 Pin=M1-21
+Added Net: Name=NetM1_21
+Added Pin To Net: NetName=NetM1_22 Pin=M1-22
+Added Net: Name=NetM1_22
+Added Pin To Net: NetName=NetM1_23 Pin=M1-23
+Added Net: Name=NetM1_23
+Added Pin To Net: NetName=NetM1_24 Pin=M1-24
+Added Net: Name=NetM1_24
+Added Pin To Net: NetName=NetM1_25 Pin=M1-25
+Added Net: Name=NetM1_25
+Added Pin To Net: NetName=NetM1_26 Pin=M1-26
+Added Net: Name=NetM1_26
+Added Pin To Net: NetName=NetM1_27 Pin=M1-27
+Added Net: Name=NetM1_27
+Added Pin To Net: NetName=NetM1_28 Pin=M1-28
+Added Net: Name=NetM1_28
+Added Pin To Net: NetName=NetM1_29 Pin=M1-29
+Added Net: Name=NetM1_29
+Added Pin To Net: NetName=NetM1_30 Pin=M1-30
+Added Net: Name=NetM1_30
+Added Pin To Net: NetName=NetM1_31 Pin=M1-31
+Added Net: Name=NetM1_31
+Added Pin To Net: NetName=NetM1_32 Pin=M1-32
+Added Net: Name=NetM1_32
+Added Pin To Net: NetName=NetM1_33 Pin=M1-33
+Added Net: Name=NetM1_33
+Added Pin To Net: NetName=NetM1_34 Pin=M1-34
+Added Net: Name=NetM1_34
+Added Pin To Net: NetName=NetM1_35 Pin=M1-35
+Added Net: Name=NetM1_35
+Added Pin To Net: NetName=NetM1_36 Pin=M1-36
+Added Net: Name=NetM1_36
+Added Pin To Net: NetName=NetM1_37 Pin=M1-37
+Added Net: Name=NetM1_37
+Added Pin To Net: NetName=NetM1_38 Pin=M1-38
+Added Net: Name=NetM1_38
+Added Pin To Net: NetName=NetM1_39 Pin=M1-39
+Added Net: Name=NetM1_39
+Added Pin To Net: NetName=NetM1_40 Pin=M1-40
+Added Net: Name=NetM1_40
+Added Pin To Net: NetName=NetM1_41 Pin=M1-41
+Added Net: Name=NetM1_41
+Added Pin To Net: NetName=NetM1_42 Pin=M1-42
+Added Net: Name=NetM1_42
+Added Pin To Net: NetName=NetM1_43 Pin=M1-43
+Added Net: Name=NetM1_43
+Added Pin To Net: NetName=NetM1_44 Pin=M1-44
+Added Net: Name=NetM1_44
+Added Pin To Net: NetName=NetM1_45 Pin=M1-45
+Added Net: Name=NetM1_45
+Added Pin To Net: NetName=NetM1_46 Pin=M1-46
+Added Net: Name=NetM1_46
+Added Pin To Net: NetName=NetM1_47 Pin=M1-47
+Added Net: Name=NetM1_47
+Added Pin To Net: NetName=NetM1_48 Pin=M1-48
+Added Net: Name=NetM1_48
+Added Pin To Net: NetName=NetM1_49 Pin=M1-49
+Added Net: Name=NetM1_49
+Added Pin To Net: NetName=NetM1_50 Pin=M1-50
+Added Net: Name=NetM1_50
+Added Pin To Net: NetName=NetM1_51 Pin=M1-51
+Added Net: Name=NetM1_51
+Added Pin To Net: NetName=NetM1_52 Pin=M1-52
+Added Net: Name=NetM1_52
+Added Pin To Net: NetName=NetM1_53 Pin=M1-53
+Added Net: Name=NetM1_53
+Added Pin To Net: NetName=NetM1_54 Pin=M1-54
+Added Net: Name=NetM1_54
+Added Pin To Net: NetName=NetM1_55 Pin=M1-55
+Added Net: Name=NetM1_55
+Added Pin To Net: NetName=NetM1_56 Pin=M1-56
+Added Net: Name=NetM1_56
+Added Pin To Net: NetName=NetM1_57 Pin=M1-57
+Added Net: Name=NetM1_57
+Added Pin To Net: NetName=NetM1_58 Pin=M1-58
+Added Net: Name=NetM1_58
+Added Pin To Net: NetName=NetM1_59 Pin=M1-59
+Added Net: Name=NetM1_59
+Added Pin To Net: NetName=NetM1_60 Pin=M1-60
+Added Net: Name=NetM1_60
+Added Pin To Net: NetName=NetM1_61 Pin=M1-61
+Added Net: Name=NetM1_61
+Added Pin To Net: NetName=NetM1_62 Pin=M1-62
+Added Net: Name=NetM1_62
+Added Pin To Net: NetName=NetM1_63 Pin=M1-63
+Added Net: Name=NetM1_63
+Added Pin To Net: NetName=NetM1_64 Pin=M1-64
+Added Net: Name=NetM1_64
+Added Pin To Net: NetName=NetM1_65 Pin=M1-65
+Added Net: Name=NetM1_65
+Added Pin To Net: NetName=NetM1_66 Pin=M1-66
+Added Net: Name=NetM1_66
+Added Pin To Net: NetName=NetM1_67 Pin=M1-67
+Added Net: Name=NetM1_67
+Added Pin To Net: NetName=NetM1_68 Pin=M1-68
+Added Net: Name=NetM1_68
+Added Pin To Net: NetName=NetM1_69 Pin=M1-69
+Added Net: Name=NetM1_69
+Added Pin To Net: NetName=NetM1_70 Pin=M1-70
+Added Net: Name=NetM1_70
+Added Pin To Net: NetName=NetM1_71 Pin=M1-71
+Added Net: Name=NetM1_71
+Added Pin To Net: NetName=NetM1_72 Pin=M1-72
+Added Net: Name=NetM1_72
+Added Pin To Net: NetName=NetM1_73 Pin=M1-73
+Added Net: Name=NetM1_73
+Added Pin To Net: NetName=NetM1_74 Pin=M1-74
+Added Net: Name=NetM1_74
+Added Pin To Net: NetName=NetM1_75 Pin=M1-75
+Added Net: Name=NetM1_75
+Added Pin To Net: NetName=NetM1_76 Pin=M1-76
+Added Net: Name=NetM1_76
+Added Pin To Net: NetName=NetM1_77 Pin=M1-77
+Added Net: Name=NetM1_77
+Added Pin To Net: NetName=NetM1_78 Pin=M1-78
+Added Net: Name=NetM1_78
+Added Pin To Net: NetName=NetM1_79 Pin=M1-79
+Added Net: Name=NetM1_79
+Added Pin To Net: NetName=NetM1_80 Pin=M1-80
+Added Net: Name=NetM1_80
+Added Pin To Net: NetName=NetM1_81 Pin=M1-81
+Added Net: Name=NetM1_81
+Added Pin To Net: NetName=NetM1_82 Pin=M1-82
+Added Net: Name=NetM1_82
+Added Pin To Net: NetName=NetM1_83 Pin=M1-83
+Added Net: Name=NetM1_83
+Added Pin To Net: NetName=NetM1_84 Pin=M1-84
+Added Net: Name=NetM1_84
+Added Pin To Net: NetName=NetM1_85 Pin=M1-85
+Added Net: Name=NetM1_85
+Added Pin To Net: NetName=NetM1_86 Pin=M1-86
+Added Net: Name=NetM1_86
+Added Pin To Net: NetName=NetM1_87 Pin=M1-87
+Added Net: Name=NetM1_87
+Added Pin To Net: NetName=NetM1_88 Pin=M1-88
+Added Net: Name=NetM1_88
+Added Pin To Net: NetName=NetM1_89 Pin=M1-89
+Added Net: Name=NetM1_89
+Added Pin To Net: NetName=NetM1_90 Pin=M1-90
+Added Net: Name=NetM1_90
+Added Pin To Net: NetName=NetM1_91 Pin=M1-91
+Added Net: Name=NetM1_91
+Added Pin To Net: NetName=NetM1_92 Pin=M1-92
+Added Net: Name=NetM1_92
+Added Pin To Net: NetName=NetM1_93 Pin=M1-93
+Added Net: Name=NetM1_93
+Added Pin To Net: NetName=NetM1_94 Pin=M1-94
+Added Net: Name=NetM1_94
+Added Pin To Net: NetName=NetM1_95 Pin=M1-95
+Added Net: Name=NetM1_95
+Added Pin To Net: NetName=NetM1_96 Pin=M1-96
+Added Net: Name=NetM1_96
+Added Pin To Net: NetName=NetM1_97 Pin=M1-97
+Added Net: Name=NetM1_97
+Added Pin To Net: NetName=NetM1_98 Pin=M1-98
+Added Net: Name=NetM1_98
+Added Pin To Net: NetName=NetM1_99 Pin=M1-99
+Added Net: Name=NetM1_99
+Added Pin To Net: NetName=NetM1_100 Pin=M1-100
+Added Net: Name=NetM1_100
+Added Pin To Net: NetName=NetM1_101 Pin=M1-101
+Added Net: Name=NetM1_101
+Added Pin To Net: NetName=NetM1_102 Pin=M1-102
+Added Net: Name=NetM1_102
+Added Pin To Net: NetName=NetM1_103 Pin=M1-103
+Added Net: Name=NetM1_103
+Added Pin To Net: NetName=NetM1_104 Pin=M1-104
+Added Net: Name=NetM1_104
+Added Pin To Net: NetName=NetM1_105 Pin=M1-105
+Added Net: Name=NetM1_105
+Added Pin To Net: NetName=NetM1_106 Pin=M1-106
+Added Net: Name=NetM1_106
+Added Pin To Net: NetName=NetM1_107 Pin=M1-107
+Added Net: Name=NetM1_107
+Added Pin To Net: NetName=NetM1_108 Pin=M1-108
+Added Net: Name=NetM1_108
+Added Pin To Net: NetName=NetM1_109 Pin=M1-109
+Added Net: Name=NetM1_109
+Added Pin To Net: NetName=NetM1_110 Pin=M1-110
+Added Net: Name=NetM1_110
+Added Pin To Net: NetName=NetM1_111 Pin=M1-111
+Added Net: Name=NetM1_111
+Added Pin To Net: NetName=NetM1_112 Pin=M1-112
+Added Net: Name=NetM1_112
+Added Pin To Net: NetName=NetM1_113 Pin=M1-113
+Added Net: Name=NetM1_113
+Added Pin To Net: NetName=NetM1_114 Pin=M1-114
+Added Net: Name=NetM1_114
+Added Pin To Net: NetName=NetM1_115 Pin=M1-115
+Added Net: Name=NetM1_115
+Added Pin To Net: NetName=NetM1_116 Pin=M1-116
+Added Net: Name=NetM1_116
+Added Pin To Net: NetName=NetM1_117 Pin=M1-117
+Added Net: Name=NetM1_117
+Added Pin To Net: NetName=NetM1_118 Pin=M1-118
+Added Net: Name=NetM1_118
+Added Pin To Net: NetName=NetM1_119 Pin=M1-119
+Added Net: Name=NetM1_119
+Added Pin To Net: NetName=NetM1_120 Pin=M1-120
+Added Net: Name=NetM1_120
+Added Pin To Net: NetName=NetM1_121 Pin=M1-121
+Added Net: Name=NetM1_121
+Added Pin To Net: NetName=NetM1_122 Pin=M1-122
+Added Net: Name=NetM1_122
+Added Pin To Net: NetName=NetM1_123 Pin=M1-123
+Added Net: Name=NetM1_123
+Added Pin To Net: NetName=NetM1_124 Pin=M1-124
+Added Net: Name=NetM1_124
+Added Pin To Net: NetName=NetM1_125 Pin=M1-125
+Added Net: Name=NetM1_125
+Added Pin To Net: NetName=NetM1_126 Pin=M1-126
+Added Net: Name=NetM1_126
+Added Pin To Net: NetName=NetM1_127 Pin=M1-127
+Added Net: Name=NetM1_127
+Added Pin To Net: NetName=NetM1_128 Pin=M1-128
+Added Net: Name=NetM1_128
+Added Pin To Net: NetName=NetM1_129 Pin=M1-129
+Added Net: Name=NetM1_129
+Added Pin To Net: NetName=NetM1_130 Pin=M1-130
+Added Net: Name=NetM1_130
+Added Pin To Net: NetName=NetM1_131 Pin=M1-131
+Added Net: Name=NetM1_131
+Added Pin To Net: NetName=NetM1_132 Pin=M1-132
+Added Net: Name=NetM1_132
+Added Pin To Net: NetName=NetM1_133 Pin=M1-133
+Added Net: Name=NetM1_133
+Added Pin To Net: NetName=NetM1_134 Pin=M1-134
+Added Net: Name=NetM1_134
+Added Pin To Net: NetName=NetM1_135 Pin=M1-135
+Added Net: Name=NetM1_135
+Added Pin To Net: NetName=NetM1_136 Pin=M1-136
+Added Net: Name=NetM1_136
+Added Pin To Net: NetName=NetM1_137 Pin=M1-137
+Added Net: Name=NetM1_137
+Added Pin To Net: NetName=NetM1_138 Pin=M1-138
+Added Net: Name=NetM1_138
+Added Pin To Net: NetName=NetM1_139 Pin=M1-139
+Added Net: Name=NetM1_139
+Added Pin To Net: NetName=NetM1_140 Pin=M1-140
+Added Net: Name=NetM1_140
+Added Pin To Net: NetName=NetM1_141 Pin=M1-141
+Added Net: Name=NetM1_141
+Added Pin To Net: NetName=NetM1_142 Pin=M1-142
+Added Net: Name=NetM1_142
+Added Pin To Net: NetName=NetM1_143 Pin=M1-143
+Added Net: Name=NetM1_143
+Added Pin To Net: NetName=NetM1_144 Pin=M1-144
+Added Net: Name=NetM1_144
+Added Class: Name=MODEM
+Added Class: Name=M1_Nets

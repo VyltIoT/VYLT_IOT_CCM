@@ -1,0 +1,210 @@
+Change Component DesignItemId : Designator=J1 Old DesignItemId=6PX1R_F New DesignItemId=6PX1R_M
+Change Component DesignItemId : Designator=J2 Old DesignItemId=6PX1R_F New DesignItemId=6PX1R_M
+Change Component DesignItemId : Designator=J3 Old DesignItemId=6PX1R_F New DesignItemId=6PX1R_M
+Change Component DesignItemId : Designator=J4 Old DesignItemId=6PX1R_F New DesignItemId=6PX1R_M
+Change Component DesignItemId : Designator=J5 Old DesignItemId=6PX1R_F New DesignItemId=6PX1R_M
+Change Component DesignItemId : Designator=J6 Old DesignItemId=6PX1R_F New DesignItemId=6PX1R_M
+Change Component DesignItemId : Designator=J7 Old DesignItemId=6PX1R_F New DesignItemId=6PX1R_M
+Change Component DesignItemId : Designator=J8 Old DesignItemId=6PX1R_F New DesignItemId=6PX1R_M
+Change Component DesignItemId : Designator=J9 Old DesignItemId=6PX1R_F New DesignItemId=6PX1R_M
+Change Component Footprint: Designator=J1 Old Footprint=6PX1R_F New Footprint=6PX1R_M_STK20
+Change Component Footprint: Designator=J2 Old Footprint=6PX1R_F New Footprint=6PX1R_M_STK20
+Change Component Footprint: Designator=J3 Old Footprint=6PX1R_F New Footprint=6PX1R_M_STK20
+Change Component Footprint: Designator=J4 Old Footprint=6PX1R_F New Footprint=6PX1R_M_STK20
+Change Component Footprint: Designator=J5 Old Footprint=6PX1R_F New Footprint=6PX1R_M_STK20
+Change Component Footprint: Designator=J6 Old Footprint=6PX1R_F New Footprint=6PX1R_M_STK20
+Change Component Footprint: Designator=J7 Old Footprint=6PX1R_F New Footprint=6PX1R_M_STK20
+Change Component Footprint: Designator=J8 Old Footprint=6PX1R_F New Footprint=6PX1R_M_STK20
+Change Component Footprint: Designator=J9 Old Footprint=6PX1R_F New Footprint=6PX1R_M_STK20
+Change Component Comment : Designator=J1 Old Comment=ERP_148-2 New Comment=6PX1R_M
+Change Component Comment : Designator=J2 Old Comment=ERP_148-2 New Comment=6PX1R_M
+Change Component Comment : Designator=J3 Old Comment=ERP_148-2 New Comment=6PX1R_M
+Change Component Comment : Designator=J4 Old Comment=ERP_148-2 New Comment=6PX1R_M
+Change Component Comment : Designator=J5 Old Comment=ERP_148-2 New Comment=6PX1R_M
+Change Component Comment : Designator=J6 Old Comment=ERP_148-2 New Comment=6PX1R_M
+Change Component Comment : Designator=J7 Old Comment=ERP_148-2 New Comment=6PX1R_M
+Change Component Comment : Designator=J8 Old Comment=ERP_148-2 New Comment=6PX1R_M
+Change Component Comment : Designator=J9 Old Comment=ERP_148-2 New Comment=6PX1R_M
+Change Component Description : Designator=J1 Old Description=6PX1R Female Header New Description=6PX1R Male Header
+Change Component Description : Designator=J2 Old Description=6PX1R Female Header New Description=6PX1R Male Header
+Change Component Description : Designator=J3 Old Description=6PX1R Female Header New Description=6PX1R Male Header
+Change Component Description : Designator=J4 Old Description=6PX1R Female Header New Description=6PX1R Male Header
+Change Component Description : Designator=J5 Old Description=6PX1R Female Header New Description=6PX1R Male Header
+Change Component Description : Designator=J6 Old Description=6PX1R Female Header New Description=6PX1R Male Header
+Change Component Description : Designator=J7 Old Description=6PX1R Female Header New Description=6PX1R Male Header
+Change Component Description : Designator=J8 Old Description=6PX1R Female Header New Description=6PX1R Male Header
+Change Component Description : Designator=J9 Old Description=6PX1R Female Header New Description=6PX1R Male Header
+Change component parameters: Designator = "J4" ("J4"); Footprint = "6PX1R_F"; UniqueID = "\OZOJKVCK" ("\OZOJKVCK")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J8" ("J8"); Footprint = "6PX1R_F"; UniqueID = "\FZVRUSEA" ("\FZVRUSEA")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(RHB32_3P45X3P45_TEX)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TRF7964ARHBR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VQFN32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TRF7964ARHBR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU?_5 Pin=U?-5
+Added Pin To Net: NetName=NetU?_6 Pin=U?-6
+Added Pin To Net: NetName=NetU?_8 Pin=U?-8
+Added Pin To Net: NetName=NetU?_9 Pin=U?-9
+Added Pin To Net: NetName=NetU?_13 Pin=U?-13
+Added Pin To Net: NetName=NetU?_16 Pin=U?-16
+Added Pin To Net: NetName=NetU?_25 Pin=U?-25
+Added Pin To Net: NetName=NetU?_26 Pin=U?-26
+Added Pin To Net: NetName=NetU?_28 Pin=U?-28
+Added Pin To Net: NetName=NetU?_30 Pin=U?-30
+Add Net: Net with name "NetU?_1" already exists
+Add Net: Net with name "NetU?_1" already exists
+Add Net: Net with name "NetU?_1" already exists
+Add Net: Net with name "NetU?_1" already exists
+Add Net: Net with name "NetU?_1" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_3" already exists
+Add Net: Net with name "NetU?_3" already exists
+Add Net: Net with name "NetU?_3" already exists
+Add Net: Net with name "NetU?_3" already exists
+Add Net: Net with name "NetU?_3" already exists
+Add Net: Net with name "NetU?_4" already exists
+Add Net: Net with name "NetU?_4" already exists
+Add Net: Net with name "NetU?_4" already exists
+Add Net: Net with name "NetU?_4" already exists
+Add Net: Net with name "NetU?_4" already exists
+Add Net: Net with name "NetU?_5" already exists
+Add Net: Net with name "NetU?_5" already exists
+Add Net: Net with name "NetU?_5" already exists
+Add Net: Net with name "NetU?_5" already exists
+Add Net: Net with name "NetU?_5" already exists
+Add Net: Net with name "NetU?_6" already exists
+Add Net: Net with name "NetU?_6" already exists
+Add Net: Net with name "NetU?_6" already exists
+Add Net: Net with name "NetU?_6" already exists
+Add Net: Net with name "NetU?_6" already exists
+Add Net: Net with name "NetU?_7" already exists
+Add Net: Net with name "NetU?_7" already exists
+Add Net: Net with name "NetU?_7" already exists
+Add Net: Net with name "NetU?_7" already exists
+Add Net: Net with name "NetU?_7" already exists
+Add Net: Net with name "NetU?_8" already exists
+Add Net: Net with name "NetU?_8" already exists
+Add Net: Net with name "NetU?_8" already exists
+Add Net: Net with name "NetU?_8" already exists
+Add Net: Net with name "NetU?_8" already exists
+Add Net: Net with name "NetU?_9" already exists
+Add Net: Net with name "NetU?_9" already exists
+Add Net: Net with name "NetU?_9" already exists
+Add Net: Net with name "NetU?_9" already exists
+Add Net: Net with name "NetU?_9" already exists
+Add Net: Net with name "NetU?_10" already exists
+Add Net: Net with name "NetU?_10" already exists
+Add Net: Net with name "NetU?_10" already exists
+Add Net: Net with name "NetU?_10" already exists
+Add Net: Net with name "NetU?_10" already exists
+Add Net: Net with name "NetU?_11" already exists
+Add Net: Net with name "NetU?_11" already exists
+Add Net: Net with name "NetU?_11" already exists
+Add Net: Net with name "NetU?_11" already exists
+Add Net: Net with name "NetU?_11" already exists
+Add Net: Net with name "NetU?_12" already exists
+Add Net: Net with name "NetU?_12" already exists
+Add Net: Net with name "NetU?_12" already exists
+Add Net: Net with name "NetU?_12" already exists
+Add Net: Net with name "NetU?_12" already exists
+Add Net: Net with name "NetU?_13" already exists
+Add Net: Net with name "NetU?_13" already exists
+Add Net: Net with name "NetU?_13" already exists
+Add Net: Net with name "NetU?_13" already exists
+Add Net: Net with name "NetU?_14" already exists
+Add Net: Net with name "NetU?_14" already exists
+Add Net: Net with name "NetU?_14" already exists
+Add Net: Net with name "NetU?_14" already exists
+Add Net: Net with name "NetU?_15" already exists
+Add Net: Net with name "NetU?_15" already exists
+Add Net: Net with name "NetU?_15" already exists
+Add Net: Net with name "NetU?_15" already exists
+Add Net: Net with name "NetU?_16" already exists
+Add Net: Net with name "NetU?_16" already exists
+Add Net: Net with name "NetU?_16" already exists
+Add Net: Net with name "NetU?_16" already exists
+Add Net: Net with name "NetU?_17" already exists
+Add Net: Net with name "NetU?_17" already exists
+Add Net: Net with name "NetU?_17" already exists
+Add Net: Net with name "NetU?_17" already exists
+Add Net: Net with name "NetU?_18" already exists
+Add Net: Net with name "NetU?_18" already exists
+Add Net: Net with name "NetU?_18" already exists
+Add Net: Net with name "NetU?_18" already exists
+Add Net: Net with name "NetU?_19" already exists
+Add Net: Net with name "NetU?_19" already exists
+Add Net: Net with name "NetU?_19" already exists
+Add Net: Net with name "NetU?_19" already exists
+Add Net: Net with name "NetU?_20" already exists
+Add Net: Net with name "NetU?_20" already exists
+Add Net: Net with name "NetU?_20" already exists
+Add Net: Net with name "NetU?_20" already exists
+Add Net: Net with name "NetU?_21" already exists
+Add Net: Net with name "NetU?_21" already exists
+Add Net: Net with name "NetU?_22" already exists
+Add Net: Net with name "NetU?_22" already exists
+Add Net: Net with name "NetU?_23" already exists
+Add Net: Net with name "NetU?_23" already exists
+Add Net: Net with name "NetU?_24" already exists
+Add Net: Net with name "NetU?_24" already exists
+Add Net: Net with name "NetU?_25" already exists
+Add Net: Net with name "NetU?_25" already exists
+Add Net: Net with name "NetU?_26" already exists
+Add Net: Net with name "NetU?_26" already exists
+Add Net: Net with name "NetU?_27" already exists
+Add Net: Net with name "NetU?_27" already exists
+Add Net: Net with name "NetU?_28" already exists
+Add Net: Net with name "NetU?_28" already exists
+Add Net: Net with name "NetU?_29" already exists
+Add Net: Net with name "NetU?_29" already exists
+Add Net: Net with name "NetU?_30" already exists
+Add Net: Net with name "NetU?_30" already exists
+Add Net: Net with name "NetU?_31" already exists
+Add Net: Net with name "NetU?_31" already exists
+Add Net: Net with name "NetU?_32" already exists
+Add Net: Net with name "NetU?_32" already exists
+Add Net: Net with name "NetU?_33" already exists
+Add Net: Net with name "NetU?_33" already exists
+Add Net: Net with name "NetU?_34" already exists
+Add Net: Net with name "NetU?_35" already exists
+Add Net: Net with name "NetU?_36" already exists
+Add Net: Net with name "NetU?_37" already exists
+Add Net: Net with name "NetU?_38" already exists
+Add Net: Net with name "NetU?_39" already exists
+Add Net: Net with name "NetU?_40" already exists
+Add Net: Net with name "NetU?_41" already exists
+Add Net: Net with name "NetU?_42" already exists
+Add Net: Net with name "NetU?_43" already exists
+Add Net: Net with name "NetU?_44" already exists
+Add Net: Net with name "NetU?_45" already exists
+Add Net: Net with name "NetU?_46" already exists
+Add Net: Net with name "NetU?_47" already exists
+Add Net: Net with name "NetU?_48" already exists
+Add Net: Net with name "NetU?_49" already exists
+Add Net: Net with name "NetU?_50" already exists
+Add Net: Net with name "NetU?_51" already exists
+Add Net: Net with name "NetU?_52" already exists
+Add Net: Net with name "NetU?_53" already exists
+Add Net: Net with name "NetU?_54" already exists
+Add Net: Net with name "NetU?_55" already exists
+Add Net: Net with name "NetU?_56" already exists
+Add Net: Net with name "NetU?_57" already exists
+Added Member To Class: ClassName=MODEM Member=Component U? LIS2DW12
+Added Member To Class: ClassName=MODEM Member=Component U? ERP_121-4
+Added Member To Class: ClassName=MODEM Member=Component U? ERP_121-4
+Added Member To Class: ClassName=MODEM Member=Component U? ERP_121-1
+Added Member To Class: ClassName=MODEM Member=Component U? ERP_121-4
+Added Member To Class: ClassName=MODEM Member=Component U? ERP_121-1
