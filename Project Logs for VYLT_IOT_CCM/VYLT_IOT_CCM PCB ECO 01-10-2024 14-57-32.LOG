@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_USB_DN
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_USB_DP
+Change Net Name : Old Net Name=MODEM_USB_DN New Net Name=MODEM_USB_N
+Change Net Name : Old Net Name=MODEM_USB_DP New Net Name=MODEM_USB_P
+Added Differential Pair: Name=MODEM_USB
+Added Member To Class: ClassName=M1_Nets Member=Wire MODEM_USB_N
+Added Member To Class: ClassName=M1_Nets Member=Wire MODEM_USB_P
+Added Rule: Name=Schematic Differential Pairs Routing
+Added Class: Name=USB_90R
