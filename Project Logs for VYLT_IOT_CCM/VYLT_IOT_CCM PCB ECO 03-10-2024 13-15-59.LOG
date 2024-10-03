@@ -1,0 +1,5 @@
+Added Component: Designator=J11(2PX1R)
+Added Pin To Net: NetName=MODEM_USBVBUS Pin=J11-1
+Added Pin To Net: NetName=MODEM_USB_VBUS Pin=J11-2
+Added Class: Name=J11_Nets
+Added Member To Class: ClassName=MODEM Member=Component J11 2PX1R

@@ -1,0 +1,163 @@
+Added Component: Designator=C13(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=J12(MSD-4-A)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "MSD-4-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "9 (8+1)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33R"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=3V3 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=3V3 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=3V3 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=3V3 Pin=J12-4
+Added Pin To Net: NetName=GND Pin=J12-6
+Added Pin To Net: NetName=MODEM_SD_DETECT Pin=J12-CD
+Added Pin To Net: NetName=GND Pin=J12-G1
+Added Pin To Net: NetName=GND Pin=J12-G2
+Added Pin To Net: NetName=GND Pin=J12-G3
+Added Pin To Net: NetName=GND Pin=J12-G4
+Added Pin To Net: NetName=MODEM_SD_VDD Pin=R8-2
+Added Pin To Net: NetName=MODEM_SD_VDD Pin=R9-2
+Added Pin To Net: NetName=MODEM_SD_VDD Pin=R10-2
+Added Pin To Net: NetName=MODEM_SD_VDD Pin=R11-2
+Added Pin To Net: NetName=MODEM_SD_VDD Pin=R12-2
+Added Pin To Net: NetName=MODEM_SD_DATA2 Pin=R13-2
+Added Pin To Net: NetName=MODEM_SD_DATA3 Pin=R14-2
+Added Pin To Net: NetName=MODEM_SD_CMD Pin=R15-2
+Added Pin To Net: NetName=MODEM_SD_CLK Pin=R16-2
+Added Pin To Net: NetName=MODEM_SD_DATA0 Pin=R17-2
+Added Pin To Net: NetName=MODEM_SD_DATA1 Pin=R18-2
+Added Pin To Net: NetName=NetJ12_1 Pin=J12-1
+Added Pin To Net: NetName=NetJ12_1 Pin=R12-1
+Added Pin To Net: NetName=NetJ12_1 Pin=R13-1
+Added Net: Name=NetJ12_1
+Added Pin To Net: NetName=NetJ12_2 Pin=J12-2
+Added Pin To Net: NetName=NetJ12_2 Pin=R11-1
+Added Pin To Net: NetName=NetJ12_2 Pin=R14-1
+Added Net: Name=NetJ12_2
+Added Pin To Net: NetName=NetJ12_3 Pin=J12-3
+Added Pin To Net: NetName=NetJ12_3 Pin=R10-1
+Added Pin To Net: NetName=NetJ12_3 Pin=R15-1
+Added Net: Name=NetJ12_3
+Added Pin To Net: NetName=NetJ12_5 Pin=J12-5
+Added Pin To Net: NetName=NetJ12_5 Pin=R16-1
+Added Net: Name=NetJ12_5
+Added Pin To Net: NetName=NetJ12_7 Pin=J12-7
+Added Pin To Net: NetName=NetJ12_7 Pin=R9-1
+Added Pin To Net: NetName=NetJ12_7 Pin=R17-1
+Added Net: Name=NetJ12_7
+Added Pin To Net: NetName=NetJ12_8 Pin=J12-8
+Added Pin To Net: NetName=NetJ12_8 Pin=R8-1
+Added Pin To Net: NetName=NetJ12_8 Pin=R18-1
+Added Net: Name=NetJ12_8
+Added Class: Name=C13_Nets
+Added Class: Name=C14_Nets
+Added Class: Name=C15_Nets
+Added Class: Name=C16_Nets
+Added Class: Name=J12_Nets
+Added Class: Name=R8_Nets
+Added Class: Name=R9_Nets
+Added Class: Name=R10_Nets
+Added Class: Name=R11_Nets
+Added Class: Name=R12_Nets
+Added Class: Name=R13_Nets
+Added Class: Name=R14_Nets
+Added Class: Name=R15_Nets
+Added Class: Name=R16_Nets
+Added Class: Name=R17_Nets
+Added Class: Name=R18_Nets
+Added Member To Class: ClassName=MODEM Member=Component C13 MLCC_0805
+Added Member To Class: ClassName=MODEM Member=Component C14 MLCC_0805
+Added Member To Class: ClassName=MODEM Member=Component C15 MLCC_0805
+Added Member To Class: ClassName=MODEM Member=Component C16 MLCC_0805
+Added Member To Class: ClassName=MODEM Member=Component J12 MSD-4-A
+Added Member To Class: ClassName=MODEM Member=Component R8 ERP_101-1
+Added Member To Class: ClassName=MODEM Member=Component R9 ERP_101-1
+Added Member To Class: ClassName=MODEM Member=Component R10 ERP_101-1
+Added Member To Class: ClassName=MODEM Member=Component R11 ERP_101-1
+Added Member To Class: ClassName=MODEM Member=Component R12 ERP_101-1
+Added Member To Class: ClassName=MODEM Member=Component R13 ERP_101-1
+Added Member To Class: ClassName=MODEM Member=Component R14 ERP_101-1
+Added Member To Class: ClassName=MODEM Member=Component R15 ERP_101-1
+Added Member To Class: ClassName=MODEM Member=Component R16 ERP_101-1
+Added Member To Class: ClassName=MODEM Member=Component R17 ERP_101-1
+Added Member To Class: ClassName=MODEM Member=Component R18 ERP_101-1
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Width Constraint

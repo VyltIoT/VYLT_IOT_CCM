@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RMQLIZES
 
 [Document8]
-DocumentPath=USB_COM.SchDoc
+DocumentPath=MODEM_PT2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1364,7 +1364,7 @@ Net57=NetName=JTDI|NetColor=$00A2FFFF
 Net58=NetName=JTDO|NetColor=$00A2FFFF
 Net59=NetName=JTMS|NetColor=$00A2FFFF
 Net60=NetName=LNA_IN|NetColor=$00C8B8AB
-Net61=NetName=NetC?_1|NetColor=$00C8B8AB
+Net61=NetName=NetC?_1|NetColor=clBlack
 Net62=NetName=NetC2_1|NetColor=$00C8B8AB
 Net63=NetName=NetR?_1|NetColor=clBlack
 Net64=NetName=NetTP?_1|NetColor=$00C8B8AB

@@ -1,0 +1,50 @@
+Added Component: Designator=J10(GSB1CA11101DSHR)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Amphenol ICC (Commercial Products)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GSB1CA11101DSHR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "24 (16+8 Dummy)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J10-A1
+Added Pin To Net: NetName=MODEM_USB_P Pin=J10-A6
+Added Pin To Net: NetName=MODEM_USB_N Pin=J10-A7
+Added Pin To Net: NetName=GND Pin=J10-A12
+Added Pin To Net: NetName=GND Pin=J10-B1
+Added Pin To Net: NetName=MODEM_USB_P Pin=J10-B6
+Added Pin To Net: NetName=MODEM_USB_N Pin=J10-B7
+Added Pin To Net: NetName=GND Pin=J10-B12
+Added Pin To Net: NetName=GND Pin=J10-SH1
+Added Pin To Net: NetName=GND Pin=J10-SH2
+Added Pin To Net: NetName=GND Pin=J10-SH3
+Added Pin To Net: NetName=GND Pin=J10-SH4
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=MODEM_USBVBUS Pin=J10-A4
+Added Pin To Net: NetName=MODEM_USBVBUS Pin=J10-A9
+Added Pin To Net: NetName=MODEM_USBVBUS Pin=J10-B4
+Added Pin To Net: NetName=MODEM_USBVBUS Pin=J10-B9
+Added Net: Name=MODEM_USBVBUS
+Added Pin To Net: NetName=NetJ10_A5 Pin=J10-A5
+Added Pin To Net: NetName=NetJ10_A5 Pin=R6-1
+Added Net: Name=NetJ10_A5
+Added Pin To Net: NetName=NetJ10_A8 Pin=J10-A8
+Added Net: Name=NetJ10_A8
+Added Pin To Net: NetName=NetJ10_B5 Pin=J10-B5
+Added Pin To Net: NetName=NetJ10_B5 Pin=R7-1
+Added Net: Name=NetJ10_B5
+Added Pin To Net: NetName=NetJ10_B8 Pin=J10-B8
+Added Net: Name=NetJ10_B8
+Added Class: Name=J10_Nets
+Added Class: Name=R6_Nets
+Added Class: Name=R7_Nets
+Added Member To Class: ClassName=MODEM Member=Component J10 GSB1CA11101DSHR
+Added Member To Class: ClassName=MODEM Member=Component R6 ERP_101-1
+Added Member To Class: ClassName=MODEM Member=Component R7 ERP_101-1

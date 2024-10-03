@@ -1,0 +1,39 @@
+Removed Member From Class: ClassName=U1_Nets Member=MODEM_I2C1_SCL_3V3
+Removed Member From Class: ClassName=U1_Nets Member=MODEM_I2C1_SDA_3V3
+Removed Member From Class: ClassName=U1_Nets Member=MODEM_SPI0_CLK_3V3
+Removed Member From Class: ClassName=U1_Nets Member=MODEM_SPI0_CS_3V3
+Removed Member From Class: ClassName=U1_Nets Member=MODEM_SPI0_MI_3V3
+Removed Member From Class: ClassName=U1_Nets Member=MODEM_SPI0_MO_3V3
+Removed Member From Class: ClassName=U2_Nets Member=MODEM_UART0_RX_3V3
+Removed Member From Class: ClassName=U2_Nets Member=MODEM_UART0_TX_3V3
+Removed Member From Class: ClassName=U2_Nets Member=MODEM_UART1_RX_3V3
+Removed Member From Class: ClassName=U2_Nets Member=MODEM_UART1_TX_3V3
+Removed Member From Class: ClassName=U2_Nets Member=MODEM_UART2_RX_3V3
+Removed Member From Class: ClassName=U2_Nets Member=MODEM_UART2_TX_3V3
+Removed Member From Class: ClassName=U1_Nets Member=NetU1_8
+Added Pin To Net: NetName=MODEM_CTRL_GPIO1 Pin=U1-8
+Change Net Name : Old Net Name=MODEM_I2C1_SCL_3V3 New Net Name=NetU1_15
+Change Net Name : Old Net Name=MODEM_I2C1_SDA_3V3 New Net Name=NetU1_14
+Change Net Name : Old Net Name=MODEM_SPI0_CLK_3V3 New Net Name=NetU1_16
+Change Net Name : Old Net Name=MODEM_SPI0_CS_3V3 New Net Name=NetU1_20
+Change Net Name : Old Net Name=MODEM_SPI0_MI_3V3 New Net Name=NetU1_17
+Change Net Name : Old Net Name=MODEM_SPI0_MO_3V3 New Net Name=NetU1_18
+Change Net Name : Old Net Name=MODEM_UART0_RX_3V3 New Net Name=NetU2_20
+Change Net Name : Old Net Name=MODEM_UART0_TX_3V3 New Net Name=NetU2_18
+Change Net Name : Old Net Name=MODEM_UART1_RX_3V3 New Net Name=NetU2_17
+Change Net Name : Old Net Name=MODEM_UART1_TX_3V3 New Net Name=NetU2_16
+Change Net Name : Old Net Name=MODEM_UART2_RX_3V3 New Net Name=NetU2_15
+Change Net Name : Old Net Name=MODEM_UART2_TX_3V3 New Net Name=NetU2_14
+Added Member To Class: ClassName=U1_Nets Member=Wire MODEM_CTRL_GPIO1
+Added Member To Class: ClassName=U1_Nets Member=Wire NetU1_14
+Added Member To Class: ClassName=U1_Nets Member=Wire NetU1_15
+Added Member To Class: ClassName=U1_Nets Member=Wire NetU1_16
+Added Member To Class: ClassName=U1_Nets Member=Wire NetU1_17
+Added Member To Class: ClassName=U1_Nets Member=Wire NetU1_18
+Added Member To Class: ClassName=U1_Nets Member=Wire NetU1_20
+Added Member To Class: ClassName=U2_Nets Member=Wire NetU2_14
+Added Member To Class: ClassName=U2_Nets Member=Wire NetU2_15
+Added Member To Class: ClassName=U2_Nets Member=Wire NetU2_16
+Added Member To Class: ClassName=U2_Nets Member=Wire NetU2_17
+Added Member To Class: ClassName=U2_Nets Member=Wire NetU2_18
+Added Member To Class: ClassName=U2_Nets Member=Wire NetU2_20

@@ -1,0 +1,81 @@
+Removed Member From Class: ClassName=C1_Nets Member=GND
+Removed Member From Class: ClassName=C2_Nets Member=GND
+Removed Member From Class: ClassName=C3_Nets Member=GND
+Removed Member From Class: ClassName=C4_Nets Member=GND
+Removed Member From Class: ClassName=C5_Nets Member=GND
+Removed Member From Class: ClassName=C6_Nets Member=GND
+Removed Member From Class: ClassName=C7_Nets Member=GND
+Removed Member From Class: ClassName=C8_Nets Member=GND
+Removed Member From Class: ClassName=C9_Nets Member=GND
+Removed Member From Class: ClassName=C10_Nets Member=GND
+Removed Member From Class: ClassName=C11_Nets Member=GND
+Removed Member From Class: ClassName=C12_Nets Member=GND
+Removed Member From Class: ClassName=C13_Nets Member=GND
+Removed Member From Class: ClassName=C14_Nets Member=GND
+Removed Member From Class: ClassName=C15_Nets Member=GND
+Removed Member From Class: ClassName=C16_Nets Member=GND
+Removed Member From Class: ClassName=C18_Nets Member=GND
+Removed Member From Class: ClassName=C19_Nets Member=GND
+Removed Member From Class: ClassName=C20_Nets Member=GND
+Removed Member From Class: ClassName=J1_Nets Member=GND
+Removed Member From Class: ClassName=J2_Nets Member=GND
+Removed Member From Class: ClassName=J3_Nets Member=GND
+Removed Member From Class: ClassName=J4_Nets Member=GND
+Removed Member From Class: ClassName=J8_Nets Member=GND
+Removed Member From Class: ClassName=J10_Nets Member=GND
+Removed Member From Class: ClassName=J12_Nets Member=GND
+Removed Member From Class: ClassName=J13_Nets Member=GND
+Removed Member From Class: ClassName=M1_Nets Member=GND
+Removed Member From Class: ClassName=Q1_Nets Member=GND
+Removed Member From Class: ClassName=Q2_Nets Member=GND
+Removed Member From Class: ClassName=R2_Nets Member=GND
+Removed Member From Class: ClassName=R4_Nets Member=GND
+Removed Member From Class: ClassName=R6_Nets Member=GND
+Removed Member From Class: ClassName=R7_Nets Member=GND
+Removed Member From Class: ClassName=U1_Nets Member=GND
+Removed Member From Class: ClassName=U2_Nets Member=GND
+Change component parameters: Designator = "J13" ("J13"); Footprint = "SIM-11-A"; UniqueID = "\KVFGZFZG" ("\KVFGZFZG")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Same Sky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "SIM-11-A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "8 (6 + 2)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=J13-5
+Added Pin To Net: NetName=GND Pin=M1-10
+Change Net Name : Old Net Name=GND New Net Name=MODEM_USIM_GND
+Change Net Color : Old Net Color=Black New Net Color=Default
+Added Member To Class: ClassName=C1_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C2_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C3_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C4_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C5_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C6_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C7_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C8_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C9_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C10_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C11_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C12_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C13_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C14_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C15_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C16_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C18_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C19_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=C20_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=J1_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=J2_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=J3_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=J4_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=J8_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=J10_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=J12_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=Q1_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=Q2_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=R2_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=R4_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=R6_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=R7_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=U1_Nets Member=Wire MODEM_USIM_GND
+Added Member To Class: ClassName=U2_Nets Member=Wire MODEM_USIM_GND
+Added Rule: Name=Schematic Supply Nets_5

@@ -1,0 +1,40 @@
+Removed Member From Class: ClassName=U1_Nets Member=NetU1_13
+Removed Member From Class: ClassName=U1_Nets Member=NetU1_14
+Removed Member From Class: ClassName=U1_Nets Member=NetU1_15
+Removed Member From Class: ClassName=U1_Nets Member=NetU1_16
+Removed Member From Class: ClassName=U1_Nets Member=NetU1_17
+Removed Member From Class: ClassName=U1_Nets Member=NetU1_18
+Removed Member From Class: ClassName=U1_Nets Member=NetU1_20
+Removed Member From Class: ClassName=U2_Nets Member=NetU2_14
+Removed Member From Class: ClassName=U2_Nets Member=NetU2_15
+Removed Member From Class: ClassName=U2_Nets Member=NetU2_16
+Removed Member From Class: ClassName=U2_Nets Member=NetU2_17
+Removed Member From Class: ClassName=U2_Nets Member=NetU2_18
+Removed Member From Class: ClassName=U2_Nets Member=NetU2_20
+Change Net Name : Old Net Name=NetU1_13 New Net Name=MODEM_CTRL_GPIO1_3V3
+Change Net Name : Old Net Name=NetU1_15 New Net Name=MODEM_I2C1_SCL_3V3
+Change Net Name : Old Net Name=NetU1_16 New Net Name=MODEM_SPI0_CLK_3V3
+Change Net Name : Old Net Name=NetU1_17 New Net Name=MODEM_SPI0_MI_3V3
+Change Net Name : Old Net Name=NetU1_18 New Net Name=MODEM_SPI0_MO_3V3
+Change Net Name : Old Net Name=NetU2_14 New Net Name=MODEM_UART2_TX_3V3
+Change Net Name : Old Net Name=NetU2_15 New Net Name=MODEM_UART2_RX_3V3
+Change Net Name : Old Net Name=NetU2_16 New Net Name=MODEM_UART1_TX_3V3
+Change Net Name : Old Net Name=NetU2_17 New Net Name=MODEM_UART1_RX_3V3
+Change Net Name : Old Net Name=NetU2_18 New Net Name=MODEM_UART0_TX_3V3
+Change Net Name : Old Net Name=NetU2_20 New Net Name=MODEM_UART0_RX_3V3
+Added Pin To Net: NetName=MODEM_SPI0_CS_3V3 Pin=U1-14
+Added Pin To Net: NetName=MODEM_SPI0_CS_3V3 Pin=U1-20
+Added Net: Name=MODEM_SPI0_CS_3V3
+Added Member To Class: ClassName=U1_Nets Member=Wire MODEM_CTRL_GPIO1_3V3
+Added Member To Class: ClassName=U1_Nets Member=Wire MODEM_I2C1_SCL_3V3
+Added Member To Class: ClassName=U1_Nets Member=Wire MODEM_SPI0_CLK_3V3
+Added Member To Class: ClassName=U1_Nets Member=Wire MODEM_SPI0_CS_3V3
+Added Member To Class: ClassName=U1_Nets Member=Wire MODEM_SPI0_MI_3V3
+Added Member To Class: ClassName=U1_Nets Member=Wire MODEM_SPI0_MO_3V3
+Added Member To Class: ClassName=U2_Nets Member=Wire MODEM_UART0_RX_3V3
+Added Member To Class: ClassName=U2_Nets Member=Wire MODEM_UART0_TX_3V3
+Added Member To Class: ClassName=U2_Nets Member=Wire MODEM_UART1_RX_3V3
+Added Member To Class: ClassName=U2_Nets Member=Wire MODEM_UART1_TX_3V3
+Added Member To Class: ClassName=U2_Nets Member=Wire MODEM_UART2_RX_3V3
+Added Member To Class: ClassName=U2_Nets Member=Wire MODEM_UART2_TX_3V3
+Added Rule: Name=Schematic Differential Pairs Routing_1
