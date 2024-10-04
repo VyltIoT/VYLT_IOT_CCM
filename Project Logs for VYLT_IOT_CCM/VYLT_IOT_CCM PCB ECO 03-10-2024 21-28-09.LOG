@@ -1,0 +1,23 @@
+Change Component Comment : Designator=U3 Old Comment=AT25SF128A New Comment=W25Q128JW
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SOIC127P800X216-8L"; UniqueID = "\ROKNFTHG" ("\ROKNFTHG")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Winbond Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "W25Q128JWPIM TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=C27_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=C28_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=C29_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=C30_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=C31_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=C32_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=C33_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=C34_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=C35_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=C36_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=C37_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=C38_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=D1_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=D2_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=D3_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=J14_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=M1_Nets Member=Wire MODEM_VDDBB

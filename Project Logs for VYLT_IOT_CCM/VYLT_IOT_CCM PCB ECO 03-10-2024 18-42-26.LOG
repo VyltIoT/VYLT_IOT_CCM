@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=MODEM_USIM_GND Pin=R25-1
+Removed Member From Class: ClassName=R25_Nets Member=MODEM_USIM_GND
+Change component parameters: Designator = "R25" ("R25"); Footprint = "RES_0603"; UniqueID = "\WVBSLWDG" ("\WVBSLWDG")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED_1206_TOP)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "156120VS82500P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "GREEN"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED_1206_TOP)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "156120VS82500P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "GREEN"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT95P230X110-3L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Nexperia USA Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT95P230X110-3L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Nexperia USA Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q5(SOT95P230X110-3L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Nexperia USA Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V8 Pin=D2-2
+Added Pin To Net: NetName=3V8 Pin=D3-2
+Added Pin To Net: NetName=MODEM_LED_NETSTAT Pin=Q3-1
+Added Pin To Net: NetName=MODEM_USIM_GND Pin=Q3-2
+Added Pin To Net: NetName=MODEM_LED_NETMODE Pin=Q4-1
+Added Pin To Net: NetName=MODEM_USIM_GND Pin=Q4-2
+Added Pin To Net: NetName=MODEM_LED_STATUS Pin=Q5-1
+Added Pin To Net: NetName=MODEM_USIM_GND Pin=Q5-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R26-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R27-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=R25-1
+Added Net: Name=NetQ3_3
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=R26-1
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R27-1
+Added Net: Name=NetQ5_3
+Added Class: Name=D2_Nets
+Added Class: Name=D3_Nets
+Added Class: Name=Q3_Nets
+Added Class: Name=Q4_Nets
+Added Class: Name=Q5_Nets
+Added Class: Name=R26_Nets
+Added Class: Name=R27_Nets
+Added Member To Class: ClassName=MODEM_PT1 Member=Component D2 LED_1206_TOP
+Added Member To Class: ClassName=MODEM_PT1 Member=Component D3 LED_1206_TOP
+Added Member To Class: ClassName=MODEM_PT1 Member=Component Q3 PDTC143
+Added Member To Class: ClassName=MODEM_PT1 Member=Component Q4 PDTC143
+Added Member To Class: ClassName=MODEM_PT1 Member=Component Q5 PDTC143
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R26 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R27 ERP_101-1
+Added Member To Class: ClassName=R25_Nets Member=Wire NetQ3_3

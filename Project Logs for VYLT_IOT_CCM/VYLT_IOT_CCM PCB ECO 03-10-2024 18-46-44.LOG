@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=MODEM_PT1 Member=R1
+Removed Member From Class: ClassName=MODEM_PT1 Member=R2
+Removed Member From Class: ClassName=MODEM_PT1 Member=R3
+Removed Member From Class: ClassName=MODEM_PT1 Member=R4
+Removed Member From Class: ClassName=MODEM_PT1 Member=U1
+Removed Member From Class: ClassName=MODEM_PT1 Member=U2
+Added Class: Name=MODEM_PT2

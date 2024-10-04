@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=3V3 Pin=C26-1
+Removed Pin From Net: NetName=3V3 Pin=R29-2
+Removed Member From Class: ClassName=C26_Nets Member=3V3
+Removed Member From Class: ClassName=R29_Nets Member=3V3
+Added Component: Designator=J14(20PX2R_M)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "CNC Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "3020-20-0300-00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MODEM_SPI0_CS_3V3 Pin=J14-1
+Added Pin To Net: NetName=MODEM_UART0_RX_3V3 Pin=J14-2
+Added Pin To Net: NetName=MODEM_SPI0_MO_3V3 Pin=J14-3
+Added Pin To Net: NetName=MODEM_UART0_TX_3V3 Pin=J14-4
+Added Pin To Net: NetName=MODEM_SPI0_MI_3V3 Pin=J14-5
+Added Pin To Net: NetName=MODEM_UART1_RX_3V3 Pin=J14-6
+Added Pin To Net: NetName=MODEM_SPI0_CLK_3V3 Pin=J14-7
+Added Pin To Net: NetName=MODEM_UART1_TX_3V3 Pin=J14-8
+Added Pin To Net: NetName=MODEM_I2C1_SCL_3V3 Pin=J14-9
+Added Pin To Net: NetName=MODEM_UART2_RX_3V3 Pin=J14-10
+Added Pin To Net: NetName=MODEM_I2C1_SDA_3V3 Pin=J14-11
+Added Pin To Net: NetName=MODEM_UART2_TX_3V3 Pin=J14-12
+Added Pin To Net: NetName=MODEM_CTRL_GPIO1_3V3 Pin=J14-13
+Added Pin To Net: NetName=MCU_MODEM_RESETN Pin=J14-15
+Added Pin To Net: NetName=MCU_MODEM_PWRKEY Pin=J14-16
+Added Pin To Net: NetName=3V8 Pin=J14-19
+Added Pin To Net: NetName=MODEM_USIM_GND Pin=J14-20
+Added Pin To Net: NetName=GNSS_ANT_VDD Pin=C26-1
+Added Pin To Net: NetName=GNSS_ANT_VDD Pin=J14-14
+Added Pin To Net: NetName=GNSS_ANT_VDD Pin=R29-2
+Added Net: Name=GNSS_ANT_VDD
+Added Pin To Net: NetName=NetJ14_17 Pin=J14-17
+Added Net: Name=NetJ14_17
+Added Pin To Net: NetName=NetJ14_18 Pin=J14-18
+Added Net: Name=NetJ14_18
+Added Class: Name=J14_Nets
+Added Member To Class: ClassName=MODEM_PT2 Member=Component J14 20PX2R_M
+Added Member To Class: ClassName=C26_Nets Member=Wire GNSS_ANT_VDD
+Added Member To Class: ClassName=R29_Nets Member=Wire GNSS_ANT_VDD

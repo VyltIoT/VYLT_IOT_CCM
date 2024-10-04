@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=MODEM_USIM_VDD Pin=J13-1
+Removed Pin From Net: NetName=NetC20_1 Pin=J13-2
+Removed Pin From Net: NetName=NetC19_1 Pin=J13-3
+Removed Pin From Net: NetName=GND Pin=J13-5
+Removed Pin From Net: NetName=NetC18_1 Pin=J13-7
+Removed Pin From Net: NetName=MODEM_USIM_DET Pin=J13-CD1
+Removed Pin From Net: NetName=GND Pin=J13-CD2
+Removed Member From Class: ClassName=J13_Nets Member=NetJ13_6
+Removed Member From Class: ClassName=J13_Nets Member=NetJ13_SH1
+Removed Member From Class: ClassName=J13_Nets Member=NetJ13_SH2
+Change Component Footprint: Designator=J13 Old Footprint=SIM-11-A New Footprint=NSIM-1-A
+Change Component Comment : Designator=J13 Old Comment=SIM-11-A New Comment=NSIM-1-A
+Change component parameters: Designator = "J13" ("J13"); Footprint = "SIM-11-A"; UniqueID = "\IHJBMIGX" ("\IHJBMIGX")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Same Sky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "NSIM-1-A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "7 (6 + 1)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MODEM_USIM_VDD Pin=J13-C1
+Added Pin To Net: NetName=NetC20_1 Pin=J13-C2
+Added Pin To Net: NetName=NetC19_1 Pin=J13-C3
+Added Pin To Net: NetName=GND Pin=J13-C5
+Added Pin To Net: NetName=NetC18_1 Pin=J13-C7
+Added Pin To Net: NetName=MODEM_USIM_DET Pin=J13-CD
+Added Pin To Net: NetName=GND Pin=J13-G1
+Added Pin To Net: NetName=GND Pin=J13-G2
+Added Pin To Net: NetName=GND Pin=J13-G3
+Added Pin To Net: NetName=GND Pin=J13-G4
+Added Pin To Net: NetName=NetJ13_C6 Pin=J13-C6
+Added Net: Name=NetJ13_C6
+Added Member To Class: ClassName=J13_Nets Member=Wire NetJ13_C6

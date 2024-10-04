@@ -1,0 +1,15 @@
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "SOT95P230X110-3L"; UniqueID = "\YBZQRFGB" ("\YBZQRFGB")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Nexperia USA Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PDTC143ZT,235"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "SOT95P230X110-3L"; UniqueID = "\RHOWRICD" ("\RHOWRICD")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Nexperia USA Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PDTC143ZT,235"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5" ("Q5"); Footprint = "SOT95P230X110-3L"; UniqueID = "\DCAXKMVS" ("\DCAXKMVS")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Nexperia USA Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PDTC143ZT,235"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

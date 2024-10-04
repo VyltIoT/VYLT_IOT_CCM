@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=MODEM_PT1 Member=D1
+Removed Member From Class: ClassName=MODEM_PT1 Member=D2
+Removed Member From Class: ClassName=MODEM_PT1 Member=D3
+Removed Member From Class: ClassName=MODEM_PT1 Member=Q3
+Removed Member From Class: ClassName=MODEM_PT1 Member=Q4
+Removed Member From Class: ClassName=MODEM_PT1 Member=Q5
+Removed Member From Class: ClassName=MODEM_PT1 Member=R25
+Removed Member From Class: ClassName=MODEM_PT1 Member=R26
+Removed Member From Class: ClassName=MODEM_PT1 Member=R27
+Added Member To Class: ClassName=MODEM_PT2 Member=Component D1 LED_1206_TOP
+Added Member To Class: ClassName=MODEM_PT2 Member=Component D2 LED_1206_TOP
+Added Member To Class: ClassName=MODEM_PT2 Member=Component D3 LED_1206_TOP
+Added Member To Class: ClassName=MODEM_PT2 Member=Component Q3 PDTC143
+Added Member To Class: ClassName=MODEM_PT2 Member=Component Q4 PDTC143
+Added Member To Class: ClassName=MODEM_PT2 Member=Component Q5 PDTC143
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R25 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R26 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R27 ERP_101-1

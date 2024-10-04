@@ -1,0 +1,123 @@
+Removed Member From Class: ClassName=D1_Nets Member=3V8
+Removed Member From Class: ClassName=D2_Nets Member=3V8
+Removed Member From Class: ClassName=D3_Nets Member=3V8
+Removed Member From Class: ClassName=J14_Nets Member=3V8
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_VDDRF
+Added Component: Designator=C27(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C28(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C34(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C36(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C37(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C38(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MODEM_USIM_GND Pin=C27-1
+Added Pin To Net: NetName=3V8 Pin=C27-2
+Added Pin To Net: NetName=MODEM_USIM_GND Pin=C28-1
+Added Pin To Net: NetName=3V8 Pin=C28-2
+Added Pin To Net: NetName=MODEM_USIM_GND Pin=C29-1
+Added Pin To Net: NetName=3V8 Pin=C29-2
+Added Pin To Net: NetName=MODEM_USIM_GND Pin=C30-1
+Added Pin To Net: NetName=3V8 Pin=C30-2
+Added Pin To Net: NetName=MODEM_USIM_GND Pin=C31-1
+Added Pin To Net: NetName=3V8 Pin=C31-2
+Added Pin To Net: NetName=MODEM_USIM_GND Pin=C32-1
+Added Pin To Net: NetName=3V8 Pin=C32-2
+Added Pin To Net: NetName=3V8 Pin=C33-1
+Added Pin To Net: NetName=MODEM_USIM_GND Pin=C33-2
+Added Pin To Net: NetName=3V8 Pin=C34-1
+Added Pin To Net: NetName=MODEM_USIM_GND Pin=C34-2
+Added Pin To Net: NetName=3V8 Pin=C35-1
+Added Pin To Net: NetName=MODEM_USIM_GND Pin=C35-2
+Added Pin To Net: NetName=3V8 Pin=C36-1
+Added Pin To Net: NetName=MODEM_USIM_GND Pin=C36-2
+Added Pin To Net: NetName=3V8 Pin=C37-1
+Added Pin To Net: NetName=MODEM_USIM_GND Pin=C37-2
+Added Pin To Net: NetName=3V8 Pin=C38-1
+Added Pin To Net: NetName=MODEM_USIM_GND Pin=C38-2
+Added Pin To Net: NetName=3V8 Pin=M1-57
+Added Pin To Net: NetName=3V8 Pin=M1-58
+Added Pin To Net: NetName=3V8 Pin=M1-59
+Added Pin To Net: NetName=3V8 Pin=M1-60
+Change Net Name : Old Net Name=3V8 New Net Name=MODEM_VDDBB
+Added Class: Name=C27_Nets
+Added Class: Name=C28_Nets
+Added Class: Name=C29_Nets
+Added Class: Name=C30_Nets
+Added Class: Name=C31_Nets
+Added Class: Name=C32_Nets
+Added Class: Name=C33_Nets
+Added Class: Name=C34_Nets
+Added Class: Name=C35_Nets
+Added Class: Name=C36_Nets
+Added Class: Name=C37_Nets
+Added Class: Name=C38_Nets
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C27 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C28 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C29 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C30 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C31 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C32 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C33 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C34 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C35 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C36 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C37 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C38 MLCC_0805
+Added Member To Class: ClassName=D1_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=D2_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=D3_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=J14_Nets Member=Wire MODEM_VDDBB
+Added Rule: Name=Schematic Supply Nets_6

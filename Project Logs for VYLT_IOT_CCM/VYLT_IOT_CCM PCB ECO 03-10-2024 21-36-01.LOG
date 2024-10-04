@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=MODEM_VDDEXT Pin=C4-1
+Removed Pin From Net: NetName=MODEM_USIM_GND Pin=C4-2
+Removed Pin From Net: NetName=3V3 Pin=C9-1
+Removed Pin From Net: NetName=MODEM_USIM_GND Pin=C9-2
+Removed Pin From Net: NetName=3V3 Pin=C10-1
+Removed Pin From Net: NetName=MODEM_USIM_GND Pin=C10-2
+Removed Member From Class: ClassName=MODEM_PT1 Member=C4
+Removed Member From Class: ClassName=MODEM_PT1 Member=C9
+Removed Member From Class: ClassName=MODEM_PT1 Member=C10
