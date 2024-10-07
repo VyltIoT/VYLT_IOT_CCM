@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=J14_Nets Member=MODEM_CTRL_GPIO1_3V3
+Change Net Name : Old Net Name=MODEM_CTRL_GPIO1_3V3 New Net Name=NetJ14_13
+Added Member To Class: ClassName=J14_Nets Member=Wire NetJ14_13

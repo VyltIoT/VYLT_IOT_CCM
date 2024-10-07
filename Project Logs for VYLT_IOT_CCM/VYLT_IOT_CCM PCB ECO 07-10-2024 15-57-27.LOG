@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=J14_Nets Member=NetJ14_11
+Added Pin To Net: NetName=MODEM_UART2_TX_3V3 Pin=J14-11
+Added Member To Class: ClassName=J14_Nets Member=Wire MODEM_UART2_TX_3V3

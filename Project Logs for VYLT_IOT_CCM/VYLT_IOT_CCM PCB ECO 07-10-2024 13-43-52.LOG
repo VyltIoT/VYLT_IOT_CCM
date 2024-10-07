@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MODEM_USB_P Pin=J10-B6
+Removed Pin From Net: NetName=MODEM_USB_N Pin=J10-B7
+Added Pin To Net: NetName=NetJ10_B6 Pin=J10-B6
+Added Net: Name=NetJ10_B6
+Added Pin To Net: NetName=NetJ10_B7 Pin=J10-B7
+Added Net: Name=NetJ10_B7
+Added Member To Class: ClassName=J10_Nets Member=Wire NetJ10_B6
+Added Member To Class: ClassName=J10_Nets Member=Wire NetJ10_B7

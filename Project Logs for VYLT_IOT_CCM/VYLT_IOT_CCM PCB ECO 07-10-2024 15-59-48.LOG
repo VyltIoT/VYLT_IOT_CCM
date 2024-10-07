@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GNSS_ANT_VDD Pin=J14-14
+Removed Pin From Net: NetName=MODEM_VDDBB Pin=J14-19
+Removed Pin From Net: NetName=GND Pin=J14-20
+Removed Member From Class: ClassName=J14_Nets Member=NetJ14_13
+Removed Member From Class: ClassName=J14_Nets Member=NetJ14_15
+Removed Member From Class: ClassName=J14_Nets Member=NetJ14_17
+Added Pin To Net: NetName=MODEM_VDDBB Pin=J14-13
+Added Pin To Net: NetName=MODEM_VDDBB Pin=J14-15
+Added Pin To Net: NetName=GND Pin=J14-17
+Added Pin To Net: NetName=GND Pin=J14-19
+Added Pin To Net: NetName=GNSS_ANT_VDD Pin=J14-20
+Added Pin To Net: NetName=NetJ14_14 Pin=J14-14
+Added Net: Name=NetJ14_14
+Added Member To Class: ClassName=J14_Nets Member=Wire NetJ14_14

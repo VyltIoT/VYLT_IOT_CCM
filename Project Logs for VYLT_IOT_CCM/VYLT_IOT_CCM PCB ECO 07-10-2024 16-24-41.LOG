@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=J6 NewDesignator=J9
+Change Component Designator: OldDesignator=J7 NewDesignator=J6
+Change Component Designator: OldDesignator=J9 NewDesignator=J7
+Change Net Name : Old Net Name=NetJ6_1 New Net Name=NetJ9_1
+Change Net Name : Old Net Name=NetJ6_2 New Net Name=NetJ9_2
+Change Net Name : Old Net Name=NetJ6_3 New Net Name=NetJ9_3
+Change Net Name : Old Net Name=NetJ6_4 New Net Name=NetJ9_4
+Change Net Name : Old Net Name=NetJ6_5 New Net Name=NetJ9_5
+Change Net Name : Old Net Name=NetJ6_6 New Net Name=NetJ9_6
+Change Class Name : Old Net Name=J9_Nets New Net Name=J6_Nets
+Added Class: Name=J9_Nets
+Added Member To Class: ClassName=POWER Member=Component J9 6PX1R_M

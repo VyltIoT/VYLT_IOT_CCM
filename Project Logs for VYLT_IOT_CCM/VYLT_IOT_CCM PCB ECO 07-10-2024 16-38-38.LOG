@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=MODEM_USB_P Pin=J10-A6
+Removed Pin From Net: NetName=MODEM_USB_N Pin=J10-A7
+Removed Member From Class: ClassName=J10_Nets Member=MODEM_USB_N
+Removed Member From Class: ClassName=J10_Nets Member=MODEM_USB_P
+Added Component: Designator=R36(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MODEM_USB_P Pin=R36-2
+Added Pin To Net: NetName=MODEM_USB_N Pin=R37-2
+Added Pin To Net: NetName=NetJ10_A6 Pin=J10-A6
+Added Pin To Net: NetName=NetJ10_A6 Pin=R36-1
+Added Net: Name=NetJ10_A6
+Added Pin To Net: NetName=NetJ10_A7 Pin=J10-A7
+Added Pin To Net: NetName=NetJ10_A7 Pin=R37-1
+Added Net: Name=NetJ10_A7
+Added Class: Name=R36_Nets
+Added Class: Name=R37_Nets
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R36 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R37 ERP_101-1
+Added Member To Class: ClassName=J10_Nets Member=Wire NetJ10_A6
+Added Member To Class: ClassName=J10_Nets Member=Wire NetJ10_A7

@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=J10_Nets Member=NetJ10_A6
+Removed Member From Class: ClassName=R36_Nets Member=NetJ10_A6
+Removed Member From Class: ClassName=J10_Nets Member=NetJ10_A7
+Removed Member From Class: ClassName=R37_Nets Member=NetJ10_A7
+Change Net Name : Old Net Name=NetJ10_A6 New Net Name=USB1_P
+Change Net Name : Old Net Name=NetJ10_A7 New Net Name=USB1_N
+Added Differential Pair: Name=USB1
+Added Member To Class: ClassName=J10_Nets Member=Wire USB1_N
+Added Member To Class: ClassName=R37_Nets Member=Wire USB1_N
+Added Member To Class: ClassName=J10_Nets Member=Wire USB1_P
+Added Member To Class: ClassName=R36_Nets Member=Wire USB1_P

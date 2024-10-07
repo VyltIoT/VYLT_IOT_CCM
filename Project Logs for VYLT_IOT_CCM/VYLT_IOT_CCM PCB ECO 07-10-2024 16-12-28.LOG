@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=J14_Nets Member=MCU_MODEM_PWRKEY
+Removed Member From Class: ClassName=Q2_Nets Member=MCU_MODEM_PWRKEY
+Removed Member From Class: ClassName=J14_Nets Member=MCU_MODEM_RESETN
+Removed Member From Class: ClassName=Q1_Nets Member=MCU_MODEM_RESETN
+Change Net Name : Old Net Name=MCU_MODEM_PWRKEY New Net Name=MCU_MODEM_PWRKEY_3V3
+Change Net Name : Old Net Name=MCU_MODEM_RESETN New Net Name=MCU_MODEM_RESETN_3V3
+Added Member To Class: ClassName=J14_Nets Member=Wire MCU_MODEM_PWRKEY_3V3
+Added Member To Class: ClassName=Q2_Nets Member=Wire MCU_MODEM_PWRKEY_3V3
+Added Member To Class: ClassName=J14_Nets Member=Wire MCU_MODEM_RESETN_3V3
+Added Member To Class: ClassName=Q1_Nets Member=Wire MCU_MODEM_RESETN_3V3

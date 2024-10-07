@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=MODEM_SPI0_CS Pin=U1-1
+Removed Pin From Net: NetName=MODEM_I2C1_SDA Pin=U1-7
+Removed Member From Class: ClassName=U1_Nets Member=MODEM_SPI0_CS
+Added Pin To Net: NetName=MODEM_I2C1_SDA Pin=U1-1
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Net: Name=NetU1_7
+Added Member To Class: ClassName=U1_Nets Member=Wire NetU1_7

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=MODEM_UART2_RX_3V3 Pin=J14-10
+Removed Pin From Net: NetName=MODEM_I2C1_SDA_3V3 Pin=J14-11
+Removed Pin From Net: NetName=MODEM_UART2_TX_3V3 Pin=J14-12
+Removed Member From Class: ClassName=J14_Nets Member=NetJ14_13
+Added Pin To Net: NetName=MODEM_UART1_RX_3V3 Pin=J14-10
+Added Pin To Net: NetName=MODEM_UART1_TX_3V3 Pin=J14-11
+Added Pin To Net: NetName=MODEM_UART2_RX_3V3 Pin=J14-12
+Added Pin To Net: NetName=MODEM_UART2_TX_3V3 Pin=J14-13
+Added Member To Class: ClassName=J14_Nets Member=Wire MODEM_UART1_RX_3V3
+Added Member To Class: ClassName=J14_Nets Member=Wire MODEM_UART1_TX_3V3

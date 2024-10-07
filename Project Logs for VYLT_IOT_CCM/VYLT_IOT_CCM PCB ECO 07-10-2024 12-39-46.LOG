@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=MODEM_CTRL_GPIO1_3V3 Pin=U1-13
+Removed Member From Class: ClassName=U1_Nets Member=MODEM_CTRL_GPIO1_3V3
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_CTRL_GPIO1
+Removed Member From Class: ClassName=U1_Nets Member=MODEM_CTRL_GPIO1
+Added Pin To Net: NetName=NetM1_126 Pin=M1-126
+Added Net: Name=NetM1_126
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Net: Name=NetU1_8
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Net: Name=NetU1_13
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_126
+Added Member To Class: ClassName=U1_Nets Member=Wire NetU1_8
+Added Member To Class: ClassName=U1_Nets Member=Wire NetU1_13

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J14 Old Footprint=20PX2R_M New Footprint=20PX2R_Male_THT_Shrouded
+Change component parameters: Designator = "J14" ("J14"); Footprint = "20PX2R_M"; UniqueID = "\LMEINMNW" ("\LMEINMNW")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Cvilux USA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CH87202V201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

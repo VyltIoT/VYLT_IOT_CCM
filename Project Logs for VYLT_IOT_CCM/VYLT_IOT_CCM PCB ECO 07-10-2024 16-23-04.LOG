@@ -1,0 +1,39 @@
+Removed Member From Class: ClassName=J5_Nets Member=NetJ5_1
+Removed Member From Class: ClassName=J5_Nets Member=NetJ5_2
+Removed Member From Class: ClassName=J5_Nets Member=NetJ5_3
+Removed Member From Class: ClassName=J5_Nets Member=NetJ5_4
+Removed Member From Class: ClassName=J5_Nets Member=NetJ5_5
+Removed Member From Class: ClassName=J5_Nets Member=NetJ5_6
+Removed Member From Class: ClassName=J7_Nets Member=NetJ7_1
+Removed Member From Class: ClassName=J7_Nets Member=NetJ7_2
+Removed Member From Class: ClassName=J7_Nets Member=NetJ7_3
+Removed Member From Class: ClassName=J7_Nets Member=NetJ7_4
+Removed Member From Class: ClassName=J7_Nets Member=NetJ7_5
+Removed Member From Class: ClassName=J7_Nets Member=NetJ7_6
+Removed Member From Class: ClassName=J9_Nets Member=NetJ9_1
+Removed Member From Class: ClassName=J9_Nets Member=NetJ9_2
+Removed Member From Class: ClassName=J9_Nets Member=NetJ9_3
+Removed Member From Class: ClassName=J9_Nets Member=NetJ9_4
+Removed Member From Class: ClassName=J9_Nets Member=NetJ9_5
+Removed Member From Class: ClassName=J9_Nets Member=NetJ9_6
+Added Pin To Net: NetName=VIN Pin=J5-1
+Added Pin To Net: NetName=VIN Pin=J5-2
+Added Pin To Net: NetName=VIN Pin=J5-3
+Added Pin To Net: NetName=VIN Pin=J5-4
+Added Pin To Net: NetName=VIN Pin=J5-5
+Added Pin To Net: NetName=VIN Pin=J5-6
+Added Pin To Net: NetName=VIN Pin=J7-1
+Added Pin To Net: NetName=VIN Pin=J7-2
+Added Pin To Net: NetName=VIN Pin=J7-3
+Added Pin To Net: NetName=VIN Pin=J7-4
+Added Pin To Net: NetName=VIN Pin=J7-5
+Added Pin To Net: NetName=VIN Pin=J7-6
+Added Pin To Net: NetName=VIN Pin=J9-1
+Added Pin To Net: NetName=VIN Pin=J9-2
+Added Pin To Net: NetName=VIN Pin=J9-3
+Added Pin To Net: NetName=VIN Pin=J9-4
+Added Pin To Net: NetName=VIN Pin=J9-5
+Added Pin To Net: NetName=VIN Pin=J9-6
+Added Member To Class: ClassName=J5_Nets Member=Wire VIN
+Added Member To Class: ClassName=J7_Nets Member=Wire VIN
+Added Member To Class: ClassName=J9_Nets Member=Wire VIN

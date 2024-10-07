@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=MODEM_UART1_RX Pin=U2-4
+Removed Pin From Net: NetName=MODEM_UART1_TX Pin=U2-5
+Removed Member From Class: ClassName=U2_Nets Member=MODEM_UART1_RX
+Removed Member From Class: ClassName=U2_Nets Member=MODEM_UART1_TX
+Removed Member From Class: ClassName=U1_Nets Member=NetU1_8
+Removed Member From Class: ClassName=U1_Nets Member=NetU1_9
+Added Pin To Net: NetName=MODEM_UART1_RX Pin=U1-8
+Added Pin To Net: NetName=MODEM_UART1_TX Pin=U1-9
+Added Pin To Net: NetName=NetU2_4 Pin=U2-4
+Added Net: Name=NetU2_4
+Added Pin To Net: NetName=NetU2_5 Pin=U2-5
+Added Net: Name=NetU2_5
+Added Member To Class: ClassName=U1_Nets Member=Wire MODEM_UART1_RX
+Added Member To Class: ClassName=U1_Nets Member=Wire MODEM_UART1_TX
+Added Member To Class: ClassName=U2_Nets Member=Wire NetU2_4
+Added Member To Class: ClassName=U2_Nets Member=Wire NetU2_5

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MODEM_SPI0_MO Pin=U1-5
+Removed Pin From Net: NetName=MODEM_SPI0_MI Pin=U1-6
+Added Pin To Net: NetName=MODEM_SPI0_MI Pin=U1-5
+Added Pin To Net: NetName=MODEM_SPI0_MO Pin=U1-6

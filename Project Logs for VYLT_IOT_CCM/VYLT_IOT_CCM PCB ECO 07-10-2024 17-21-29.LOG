@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=MODEM_VDDBB Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=Q5-2
+Removed Member From Class: ClassName=MODEM_PT2 Member=D3
+Removed Member From Class: ClassName=MODEM_PT2 Member=Q5
+Removed Member From Class: ClassName=MODEM_PT2 Member=R27
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_LED_STATUS
+Added Pin To Net: NetName=NetM1_61 Pin=M1-61
+Added Net: Name=NetM1_61
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_61

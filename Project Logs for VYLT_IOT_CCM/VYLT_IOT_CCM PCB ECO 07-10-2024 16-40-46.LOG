@@ -1,0 +1,4 @@
+Change Component Kind : Designator=R37 Old Kind=Standard New Kind=Net Tie (In BOM)
+Change Component Kind : Designator=R36 Old Kind=Standard New Kind=Net Tie (In BOM)
+Add Differential Pair: Number of nets in differential pair NetJ10_A6 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ10_A7 is 1 instead of 2

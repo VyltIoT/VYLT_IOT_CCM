@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MCU_MODEM_PWRKEY_3V3 Pin=J14-16
+Removed Pin From Net: NetName=MCU_MODEM_RESETN_3V3 Pin=J14-18
+Added Pin To Net: NetName=MCU_MODEM_RESETN_3V3 Pin=J14-16
+Added Pin To Net: NetName=MCU_MODEM_PWRKEY_3V3 Pin=J14-18

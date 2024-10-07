@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MODEM_VDDBB Pin=C42-1
+Removed Pin From Net: NetName=GND Pin=C42-2
+Removed Member From Class: ClassName=MODEM_PT2 Member=C42
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C9 ERP_102-2

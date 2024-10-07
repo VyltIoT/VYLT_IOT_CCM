@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=J6 NewDesignator=J9
+Change Component Designator: OldDesignator=J9 NewDesignator=J6
+Added Member To Class: ClassName=POWER Member=Component J9 6PX1R_M
