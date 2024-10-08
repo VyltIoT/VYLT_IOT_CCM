@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=VIN Pin=C9-1
+Removed Pin From Net: NetName=VIN Pin=C10-1
+Removed Pin From Net: NetName=VIN Pin=C39-1
+Removed Pin From Net: NetName=VIN Pin=R32-2
+Removed Pin From Net: NetName=VIN Pin=U4-1
+Removed Member From Class: ClassName=C9_Nets Member=VIN
+Removed Member From Class: ClassName=C10_Nets Member=VIN
+Removed Member From Class: ClassName=C39_Nets Member=VIN
+Removed Member From Class: ClassName=R32_Nets Member=VIN
+Removed Member From Class: ClassName=U4_Nets Member=VIN
+Added Component: Designator=R27(RESC3246X06L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1218W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=R27-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=C10-1
+Added Pin To Net: NetName=NetC9_1 Pin=C39-1
+Added Pin To Net: NetName=NetC9_1 Pin=R27-1
+Added Pin To Net: NetName=NetC9_1 Pin=R32-2
+Added Pin To Net: NetName=NetC9_1 Pin=U4-1
+Added Net: Name=NetC9_1
+Added Class: Name=R27_Nets
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R27 RES_1218_WIDE
+Added Member To Class: ClassName=C9_Nets Member=Wire NetC9_1
+Added Member To Class: ClassName=C10_Nets Member=Wire NetC9_1
+Added Member To Class: ClassName=C39_Nets Member=Wire NetC9_1
+Added Member To Class: ClassName=R32_Nets Member=Wire NetC9_1
+Added Member To Class: ClassName=U4_Nets Member=Wire NetC9_1

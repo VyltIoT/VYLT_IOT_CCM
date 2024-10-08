@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=MODEM_PT1 Member=R24
+Removed Member From Class: ClassName=MODEM_PT1 Member=U3
+Added Class: Name=STORAGE
+Added Rule: Name=Schematic Width Constraint_17
+Added Rule: Name=Schematic Width Constraint_18
+Added Rule: Name=Schematic Width Constraint_19
+Added Rule: Name=Schematic Width Constraint_20
+Added Rule: Name=Schematic Width Constraint_21
+Added Rule: Name=Schematic Width Constraint_22

@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=VIN Pin=C13-1
+Removed Pin From Net: NetName=MODEM_SD_3V3 Pin=C42-1
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAPC2012X13L"; UniqueID = "\UJGPMYXP" ("\UJGPMYXP")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAPC2012X13L"; UniqueID = "\MMCEZODO" ("\MMCEZODO")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "CAPC2012X13L"; UniqueID = "\RJAEXDQY" ("\RJAEXDQY")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAPC2012X13L"; UniqueID = "\PZJWLXTE" ("\PZJWLXTE")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C42" ("C42"); Footprint = "CAPC2012X13L"; UniqueID = "\USMACIHU" ("\USMACIHU")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MODEM_SD_3V3 Pin=C13-1
+Added Pin To Net: NetName=VIN Pin=C42-1
+Change Class Name : Old Net Name=C13_Nets New Net Name=C42_Nets
+Change Class Name : Old Net Name=C42_Nets New Net Name=C13_Nets
+Added Rule: Name=Schematic Width Constraint
+Added Rule: Name=Schematic Width Constraint_6
+Added Rule: Name=Schematic Width Constraint_7
+Added Rule: Name=Schematic Width Constraint_9
+Added Rule: Name=Schematic Width Constraint_11
+Added Rule: Name=Schematic Width Constraint_12

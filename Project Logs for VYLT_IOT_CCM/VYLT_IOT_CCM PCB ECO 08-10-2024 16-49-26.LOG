@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=MODEM_PT1 Member=C11
+Removed Member From Class: ClassName=MODEM_PT1 Member=C12
+Removed Member From Class: ClassName=MODEM_PT1 Member=Q1
+Removed Member From Class: ClassName=MODEM_PT1 Member=Q2
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C11 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C12 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component Q1 PDTD143
+Added Member To Class: ClassName=MODEM_PT2 Member=Component Q2 PDTD143

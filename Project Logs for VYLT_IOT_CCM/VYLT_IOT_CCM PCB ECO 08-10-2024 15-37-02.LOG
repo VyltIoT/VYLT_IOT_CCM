@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=C44_Nets Member=NetC44_2
+Removed Member From Class: ClassName=U6_Nets Member=NetC44_2
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Member To Class: ClassName=C44_Nets Member=Wire GND
+Added Member To Class: ClassName=U6_Nets Member=Wire GND

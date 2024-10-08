@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=MODEM_PT1 Member=R5
+Removed Member From Class: ClassName=MODEM_PT1 Member=SW1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R5 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component SW1 PTS647

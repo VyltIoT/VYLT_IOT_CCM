@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=3V3 Pin=U1-19
+Removed Pin From Net: NetName=3V3 Pin=U2-19
+Removed Member From Class: ClassName=U1_Nets Member=3V3
+Removed Member From Class: ClassName=U2_Nets Member=3V3
+Added Component: Designator=C45(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=U7(AMS1117_SOT223)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TLV1117LV33DCYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier  1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier  Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C45-2
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=VIN Pin=U7-3
+Added Pin To Net: NetName=MODEM_LVS_3V3 Pin=U1-19
+Added Pin To Net: NetName=MODEM_LVS_3V3 Pin=U2-19
+Added Pin To Net: NetName=MODEM_LVS_3V3 Pin=U7-2
+Added Pin To Net: NetName=MODEM_LVS_3V3 Pin=U7-4
+Added Net: Name=MODEM_LVS_3V3
+Added Class: Name=C45_Nets
+Added Class: Name=U7_Nets
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C45 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component U7 ERP_123-1
+Added Member To Class: ClassName=U1_Nets Member=Wire MODEM_LVS_3V3
+Added Member To Class: ClassName=U2_Nets Member=Wire MODEM_LVS_3V3
+Added Rule: Name=Schematic Supply Nets_9

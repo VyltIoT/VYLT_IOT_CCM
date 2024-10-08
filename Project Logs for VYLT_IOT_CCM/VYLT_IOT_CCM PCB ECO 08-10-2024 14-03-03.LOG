@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=C42_Nets Member=NetC42_1
+Removed Member From Class: ClassName=U5_Nets Member=NetC42_1
+Added Pin To Net: NetName=VIN Pin=C42-1
+Added Pin To Net: NetName=VIN Pin=U5-3
+Added Member To Class: ClassName=C42_Nets Member=Wire VIN
+Added Member To Class: ClassName=U5_Nets Member=Wire VIN

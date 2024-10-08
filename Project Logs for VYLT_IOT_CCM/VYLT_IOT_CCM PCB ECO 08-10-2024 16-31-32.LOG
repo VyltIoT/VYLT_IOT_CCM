@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=C7_Nets Member=3V3
+Removed Member From Class: ClassName=C8_Nets Member=3V3
+Added Pin To Net: NetName=MODEM_LVS_3V3 Pin=C7-1
+Added Pin To Net: NetName=MODEM_LVS_3V3 Pin=C8-1
+Added Member To Class: ClassName=C7_Nets Member=Wire MODEM_LVS_3V3
+Added Member To Class: ClassName=C8_Nets Member=Wire MODEM_LVS_3V3
