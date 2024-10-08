@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZAKXGIOA
 
 [Document7]
-DocumentPath=TEST_MECH.SchDoc
+DocumentPath=MECHANICAL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
