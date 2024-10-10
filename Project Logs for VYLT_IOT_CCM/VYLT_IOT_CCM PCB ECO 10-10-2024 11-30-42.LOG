@@ -1,0 +1,3 @@
+Added Component: Designator=TP1(TP_1MM)
+Added Pin To Net: NetName=NetM1_126 Pin=TP1-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component TP1 TP_1MM

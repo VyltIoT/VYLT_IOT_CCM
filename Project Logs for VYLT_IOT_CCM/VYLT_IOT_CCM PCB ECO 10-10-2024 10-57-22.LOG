@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=MODEM_PT1 Member=R?
+Change Component DesignItemId : Designator=R28 Old DesignItemId=RES_0603 New DesignItemId=RES_0201
+Change Component DesignItemId : Designator=R30 Old DesignItemId=RES_0603 New DesignItemId=RES_0201
+Change Component Footprint: Designator=R28 Old Footprint=RES_0603 New Footprint=RESC0603X03L
+Change Component Footprint: Designator=R30 Old Footprint=RES_0603 New Footprint=RESC0603X03L
+Change Component Description : Designator=R28 Old Description=RES_0603 New Description=RES_0201
+Change Component Description : Designator=R30 Old Description=RES_0603 New Description=RES_0201
+Change component parameters: Designator = "R28" ("R28"); Footprint = "RES_0603"; UniqueID = "\KTTTQBOT" ("\KTTTQBOT")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "RES_0603"; UniqueID = "\NJDNWSRZ" ("\NJDNWSRZ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"

@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=VBATT_CTRL Pin=R32-1
+Removed Pin From Net: NetName=VBATT_CTRL Pin=U4-5
+Removed Member From Class: ClassName=R32_Nets Member=VBATT_CTRL
+Removed Member From Class: ClassName=U4_Nets Member=VBATT_CTRL
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Added Component: Designator=R38(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBATT_CTRL Pin=R38-2
+Change Net Name : Old Net Name=NetU?_1 New Net Name=NetU8_1
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU8_2
+Change Net Name : Old Net Name=NetU?_3 New Net Name=NetU8_3
+Change Net Name : Old Net Name=NetU?_4 New Net Name=NetU8_4
+Change Net Name : Old Net Name=NetU?_5 New Net Name=NetU8_5
+Change Net Name : Old Net Name=NetU?_6 New Net Name=NetU8_6
+Change Net Name : Old Net Name=NetU?_7 New Net Name=NetU8_7
+Change Net Name : Old Net Name=NetU?_8 New Net Name=NetU8_8
+Change Net Name : Old Net Name=NetU?_9 New Net Name=NetU8_9
+Change Net Name : Old Net Name=NetU?_10 New Net Name=NetU8_10
+Change Net Name : Old Net Name=NetU?_11 New Net Name=NetU8_11
+Change Net Name : Old Net Name=NetU?_12 New Net Name=NetU8_12
+Change Net Name : Old Net Name=NetU?_13 New Net Name=NetU8_13
+Change Net Name : Old Net Name=NetU?_14 New Net Name=NetU8_14
+Change Net Name : Old Net Name=NetU?_15 New Net Name=NetU8_15
+Change Net Name : Old Net Name=NetU?_16 New Net Name=NetU8_16
+Change Net Name : Old Net Name=NetU?_17 New Net Name=NetU8_17
+Change Net Name : Old Net Name=NetU?_18 New Net Name=NetU8_18
+Change Net Name : Old Net Name=NetU?_19 New Net Name=NetU8_19
+Change Net Name : Old Net Name=NetU?_20 New Net Name=NetU8_20
+Change Net Name : Old Net Name=NetU?_21 New Net Name=NetU8_21
+Change Net Name : Old Net Name=NetU?_22 New Net Name=NetU8_22
+Change Net Name : Old Net Name=NetU?_23 New Net Name=NetU8_23
+Change Net Name : Old Net Name=NetU?_24 New Net Name=NetU8_24
+Change Net Name : Old Net Name=NetU?_25 New Net Name=NetU8_25
+Change Net Name : Old Net Name=NetU?_26 New Net Name=NetU8_26
+Change Net Name : Old Net Name=NetU?_27 New Net Name=NetU8_27
+Change Net Name : Old Net Name=NetU?_28 New Net Name=NetU8_28
+Change Net Name : Old Net Name=NetU?_29 New Net Name=NetU8_29
+Change Net Name : Old Net Name=NetU?_30 New Net Name=NetU8_30
+Change Net Name : Old Net Name=NetU?_31 New Net Name=NetU8_31
+Change Net Name : Old Net Name=NetU?_32 New Net Name=NetU8_32
+Change Net Name : Old Net Name=NetU?_33 New Net Name=NetU8_33
+Change Net Name : Old Net Name=NetU?_34 New Net Name=NetU8_34
+Change Net Name : Old Net Name=NetU?_35 New Net Name=NetU8_35
+Change Net Name : Old Net Name=NetU?_36 New Net Name=NetU8_36
+Change Net Name : Old Net Name=NetU?_37 New Net Name=NetU8_37
+Change Net Name : Old Net Name=NetU?_38 New Net Name=NetU8_38
+Change Net Name : Old Net Name=NetU?_39 New Net Name=NetU8_39
+Change Net Name : Old Net Name=NetU?_40 New Net Name=NetU8_40
+Change Net Name : Old Net Name=NetU?_41 New Net Name=NetU8_41
+Change Net Name : Old Net Name=NetU?_42 New Net Name=NetU8_42
+Change Net Name : Old Net Name=NetU?_43 New Net Name=NetU8_43
+Change Net Name : Old Net Name=NetU?_44 New Net Name=NetU8_44
+Change Net Name : Old Net Name=NetU?_45 New Net Name=NetU8_45
+Change Net Name : Old Net Name=NetU?_46 New Net Name=NetU8_46
+Change Net Name : Old Net Name=NetU?_47 New Net Name=NetU8_47
+Change Net Name : Old Net Name=NetU?_48 New Net Name=NetU8_48
+Change Net Name : Old Net Name=NetU?_49 New Net Name=NetU8_49
+Change Net Name : Old Net Name=NetU?_50 New Net Name=NetU8_50
+Change Net Name : Old Net Name=NetU?_51 New Net Name=NetU8_51
+Change Net Name : Old Net Name=NetU?_52 New Net Name=NetU8_52
+Change Net Name : Old Net Name=NetU?_53 New Net Name=NetU8_53
+Change Net Name : Old Net Name=NetU?_54 New Net Name=NetU8_54
+Change Net Name : Old Net Name=NetU?_55 New Net Name=NetU8_55
+Change Net Name : Old Net Name=NetU?_56 New Net Name=NetU8_56
+Change Net Name : Old Net Name=NetU?_57 New Net Name=NetU8_57
+Added Pin To Net: NetName=NetR32_1 Pin=R32-1
+Added Pin To Net: NetName=NetR32_1 Pin=R38-1
+Added Pin To Net: NetName=NetR32_1 Pin=U4-5
+Added Net: Name=NetR32_1
+Added Class: Name=R38_Nets
+Added Class: Name=U8_Nets
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R38 ERP_101-1
+Added Member To Class: ClassName=R32_Nets Member=Wire NetR32_1
+Added Member To Class: ClassName=U4_Nets Member=Wire NetR32_1

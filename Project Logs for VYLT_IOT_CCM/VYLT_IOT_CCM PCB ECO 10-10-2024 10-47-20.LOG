@@ -1,0 +1,51 @@
+Removed Member From Class: ClassName=MODEM_PT1 Member=C?
+Change Component DesignItemId : Designator=C21 Old DesignItemId=MLCC_0805 New DesignItemId=MLCC_0201
+Change Component DesignItemId : Designator=C22 Old DesignItemId=MLCC_0805 New DesignItemId=MLCC_0201
+Change Component DesignItemId : Designator=C23 Old DesignItemId=MLCC_0805 New DesignItemId=MLCC_0201
+Change Component DesignItemId : Designator=C24 Old DesignItemId=MLCC_0805 New DesignItemId=MLCC_0201
+Change Component DesignItemId : Designator=C25 Old DesignItemId=MLCC_0805 New DesignItemId=MLCC_0201
+Change Component Footprint: Designator=C21 Old Footprint=CAPC2012X13L New Footprint=CAPC0603X03L
+Change Component Footprint: Designator=C22 Old Footprint=CAPC2012X13L New Footprint=CAPC0603X03L
+Change Component Footprint: Designator=C23 Old Footprint=CAPC2012X13L New Footprint=CAPC0603X03L
+Change Component Footprint: Designator=C24 Old Footprint=CAPC2012X13L New Footprint=CAPC0603X03L
+Change Component Footprint: Designator=C25 Old Footprint=CAPC2012X13L New Footprint=CAPC0603X03L
+Change Component Comment : Designator=C21 Old Comment=MLCC_0805 New Comment=ERP_102-1
+Change Component Comment : Designator=C22 Old Comment=MLCC_0805 New Comment=ERP_102-1
+Change Component Comment : Designator=C23 Old Comment=MLCC_0805 New Comment=ERP_102-1
+Change Component Comment : Designator=C24 Old Comment=MLCC_0805 New Comment=ERP_102-1
+Change Component Comment : Designator=C25 Old Comment=MLCC_0805 New Comment=ERP_102-1
+Change Component Description : Designator=C21 Old Description=Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density New Description=Chip Capacitor, 2-Leads, Body 0.60x0.30mm, IPC High Density
+Change Component Description : Designator=C22 Old Description=Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density New Description=Chip Capacitor, 2-Leads, Body 0.60x0.30mm, IPC High Density
+Change Component Description : Designator=C23 Old Description=Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density New Description=Chip Capacitor, 2-Leads, Body 0.60x0.30mm, IPC High Density
+Change Component Description : Designator=C24 Old Description=Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density New Description=Chip Capacitor, 2-Leads, Body 0.60x0.30mm, IPC High Density
+Change Component Description : Designator=C25 Old Description=Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density New Description=Chip Capacitor, 2-Leads, Body 0.60x0.30mm, IPC High Density
+Change Component Kind : Designator=C24 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=C25 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=C23 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=C21 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=C22 Old Kind=Standard (No BOM) New Kind=Standard
+Change component parameters: Designator = "C21" ("C21"); Footprint = "CAPC2012X13L"; UniqueID = "\YTFDOZGF" ("\YTFDOZGF")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAPC2012X13L"; UniqueID = "\OOIRQGHN" ("\OOIRQGHN")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "CAPC2012X13L"; UniqueID = "\CKCINGBA" ("\CKCINGBA")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "CAPC2012X13L"; UniqueID = "\XHCHSUOV" ("\XHCHSUOV")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CAPC2012X13L"; UniqueID = "\AOUGSVWT" ("\AOUGSVWT")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NM"; VariantName = "[No Variations]"
