@@ -270,17 +270,38 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LWHUTKYH
 
+[Document14]
+DocumentPath=POWERBUDGET.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UAMSRTXW
+
 [Parameter1]
-Name=Project
-Value=IOT0-MODULE
+Name=
+Value=
 
 [Parameter2]
+Name=SheetTotal
+Value=8
+
+[Parameter3]
 Name=Rev
 Value=1.0
 
-[Parameter3]
-Name=SheetTotal
-Value=7
+[Parameter4]
+Name=Project
+Value=IOT0-MODULE
 
 [Configuration1]
 Name=Sources
