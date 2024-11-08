@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C39-2
+Removed Pin From Net: NetName=MODEM_VDDBB Pin=C40-1
+Removed Pin From Net: NetName=GND Pin=C40-2
+Removed Pin From Net: NetName=MODEM_VDDBB Pin=C41-1
+Removed Pin From Net: NetName=GND Pin=C41-2
+Removed Pin From Net: NetName=MODEM_VDDBB Pin=C43-2
+Removed Pin From Net: NetName=MODEM_VDDBB Pin=L2-2
+Removed Pin From Net: NetName=12V0 Pin=R27-2
+Removed Pin From Net: NetName=MODEM_VDDBB Pin=R33-1
+Removed Pin From Net: NetName=GND Pin=R35-1
+Removed Pin From Net: NetName=VBATT_CTRL Pin=R38-2
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Member From Class: ClassName=MODEM_PT2 Member=C4
+Removed Member From Class: ClassName=MODEM_PT2 Member=C9
+Removed Member From Class: ClassName=MODEM_PT2 Member=C10
+Removed Member From Class: ClassName=MODEM_PT2 Member=C39
+Removed Member From Class: ClassName=MODEM_PT2 Member=C40
+Removed Member From Class: ClassName=MODEM_PT2 Member=C41
+Removed Member From Class: ClassName=MODEM_PT2 Member=C43
+Removed Member From Class: ClassName=MODEM_PT2 Member=L2
+Removed Member From Class: ClassName=MODEM_PT2 Member=R31
+Removed Member From Class: ClassName=MODEM_PT2 Member=R32
+Removed Member From Class: ClassName=MODEM_PT2 Member=R33
+Removed Member From Class: ClassName=MODEM_PT2 Member=R34
+Removed Member From Class: ClassName=MODEM_PT2 Member=R35
+Removed Member From Class: ClassName=MODEM_PT2 Member=R38
+Removed Member From Class: ClassName=MODEM_PT2 Member=U4
+Removed Member From Class: ClassName=R27_Nets Member=12V0
+Removed Member From Class: ClassName=R27_Nets Member=NetC9_1
+Added Pin To Net: NetName=MODEM_VDDBB Pin=R27-1
+Added Pin To Net: NetName=5V0 Pin=R27-2
+Added Member To Class: ClassName=POWER Member=Component C48 MLCC_0805
+Added Member To Class: ClassName=POWER Member=Component R49 RES_1218_WIDE
+Added Member To Class: ClassName=R27_Nets Member=Wire 5V0
+Added Member To Class: ClassName=R27_Nets Member=Wire MODEM_VDDBB

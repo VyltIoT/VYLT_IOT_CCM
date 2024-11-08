@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=VIN Pin=C42-1
+Removed Pin From Net: NetName=VIN Pin=U5-3
+Removed Member From Class: ClassName=C44_Nets Member=5V0
+Removed Member From Class: ClassName=C45_Nets Member=5V0
+Removed Member From Class: ClassName=C52_Nets Member=5V0
+Removed Member From Class: ClassName=R27_Nets Member=5V0
+Removed Member From Class: ClassName=U6_Nets Member=5V0
+Removed Member From Class: ClassName=U7_Nets Member=5V0
+Removed Member From Class: ClassName=U9_Nets Member=5V0
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SOIC127P800X216-8L"; UniqueID = "\VAMNGRUZ" ("\VAMNGRUZ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Winbond"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "W25Q128JWSIQ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "153-W25Q128JWSIQ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V0 Pin=C42-1
+Added Pin To Net: NetName=5V0 Pin=U5-3
+Added Member To Class: ClassName=C44_Nets Member=Wire VIN
+Added Member To Class: ClassName=C45_Nets Member=Wire VIN
+Added Member To Class: ClassName=C52_Nets Member=Wire VIN
+Added Member To Class: ClassName=R27_Nets Member=Wire VIN
+Added Member To Class: ClassName=U6_Nets Member=Wire VIN
+Added Member To Class: ClassName=U7_Nets Member=Wire VIN
+Added Member To Class: ClassName=U9_Nets Member=Wire VIN

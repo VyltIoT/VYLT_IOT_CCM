@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=MODEM_VDDBB Pin=R27-1
+Removed Member From Class: ClassName=R27_Nets Member=MODEM_VDDBB
+Added Component: Designator=U?(DPAK170P1491X483-6N)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBATT_CTRL Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=MODEM_VDDBB Pin=U?-4
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=NetR27_1 Pin=U?-2
+Added Net: Name=NetR27_1
+Added Pin To Net: NetName=NetU?_5 Pin=U?-5
+Added Net: Name=NetU?_5
+Added Pin To Net: NetName=NetU?_6 Pin=U?-6
+Added Net: Name=NetU?_6
+Added Class: Name=U?_Nets
+Added Member To Class: ClassName=MODEM_PT2 Member=Component U? LM39302
+Added Member To Class: ClassName=R27_Nets Member=Wire NetR27_1

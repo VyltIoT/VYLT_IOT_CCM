@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=J10_Nets Member=NetJ10_B6
+Removed Member From Class: ClassName=J10_Nets Member=NetJ10_B7
+Added Pin To Net: NetName=USB1_P Pin=J10-B6
+Added Pin To Net: NetName=USB1_N Pin=J10-B7

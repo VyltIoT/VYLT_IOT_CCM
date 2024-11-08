@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=5V0 Pin=C56-1
+Removed Pin From Net: NetName=5V0 Pin=C57-1
+Removed Pin From Net: NetName=5V0 Pin=C58-1
+Removed Pin From Net: NetName=5V0 Pin=L3-2
+Removed Pin From Net: NetName=5V0 Pin=R47-1
+Removed Member From Class: ClassName=C56_Nets Member=5V0
+Removed Member From Class: ClassName=C57_Nets Member=5V0
+Removed Member From Class: ClassName=C58_Nets Member=5V0
+Removed Member From Class: ClassName=L3_Nets Member=5V0
+Removed Member From Class: ClassName=R47_Nets Member=5V0
+Added Component: Designator=R49(RESC3246X06L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1218W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V0 Pin=R49-1
+Added Pin To Net: NetName=NetC56_1 Pin=C56-1
+Added Pin To Net: NetName=NetC56_1 Pin=C57-1
+Added Pin To Net: NetName=NetC56_1 Pin=C58-1
+Added Pin To Net: NetName=NetC56_1 Pin=L3-2
+Added Pin To Net: NetName=NetC56_1 Pin=R47-1
+Added Pin To Net: NetName=NetC56_1 Pin=R49-2
+Added Net: Name=NetC56_1
+Added Class: Name=R49_Nets
+Added Member To Class: ClassName=POWER Member=Component R49 RES_1218_WIDE
+Added Member To Class: ClassName=C56_Nets Member=Wire NetC56_1
+Added Member To Class: ClassName=C57_Nets Member=Wire NetC56_1
+Added Member To Class: ClassName=C58_Nets Member=Wire NetC56_1
+Added Member To Class: ClassName=L3_Nets Member=Wire NetC56_1
+Added Member To Class: ClassName=R47_Nets Member=Wire NetC56_1

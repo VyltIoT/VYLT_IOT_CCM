@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=U?_Nets Member=NetU?_5
+Removed Member From Class: ClassName=U?_Nets Member=NetU?_6
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Net Name : Old Net Name=NetU?_5 New Net Name=NetU4_5
+Change Net Name : Old Net Name=NetU?_6 New Net Name=NetU4_6
+Change Class Name : Old Net Name=U?_Nets New Net Name=U4_Nets
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_5
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_6

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VIN Pin=C44-1
+Removed Pin From Net: NetName=VIN Pin=C45-1
+Removed Pin From Net: NetName=VIN Pin=U6-3
+Removed Pin From Net: NetName=VIN Pin=U7-3
+Removed Member From Class: ClassName=C44_Nets Member=VIN
+Removed Member From Class: ClassName=C45_Nets Member=VIN
+Removed Member From Class: ClassName=U6_Nets Member=VIN
+Removed Member From Class: ClassName=U7_Nets Member=VIN
+Added Pin To Net: NetName=5V0 Pin=C44-1
+Added Pin To Net: NetName=5V0 Pin=C45-1
+Added Pin To Net: NetName=5V0 Pin=U6-3
+Added Pin To Net: NetName=5V0 Pin=U7-3
+Added Member To Class: ClassName=C44_Nets Member=Wire 5V0
+Added Member To Class: ClassName=C45_Nets Member=Wire 5V0
+Added Member To Class: ClassName=U6_Nets Member=Wire 5V0
+Added Member To Class: ClassName=U7_Nets Member=Wire 5V0

@@ -1,0 +1,154 @@
+Removed Pin From Net: NetName=5V0 Pin=C42-1
+Removed Pin From Net: NetName=5V0 Pin=C44-1
+Removed Pin From Net: NetName=5V0 Pin=C45-1
+Removed Pin From Net: NetName=VIN Pin=R27-2
+Removed Pin From Net: NetName=5V0 Pin=U5-3
+Removed Pin From Net: NetName=5V0 Pin=U6-3
+Removed Pin From Net: NetName=5V0 Pin=U7-3
+Removed Member From Class: ClassName=J5_Nets Member=5V0
+Removed Member From Class: ClassName=J6_Nets Member=5V0
+Removed Member From Class: ClassName=J7_Nets Member=5V0
+Removed Member From Class: ClassName=R27_Nets Member=VIN
+Added Component: Designator=C48(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C49(CAP_D10_H20_P5)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "10X5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Added Component: Designator=C54(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C55(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C56(CAP_D10_H20_P5)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "10X5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Added Component: Designator=C57(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C58(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=D3(DIOM6959X26L)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier  1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SS54"; VariantName = "[No Variations]"
+Added Component: Designator=L3(IND_1212)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uH"; VariantName = "[No Variations]"
+Added Component: Designator=R46(RESC3246X06L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1218W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R47(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "560112116003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R48(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "560112116003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3k3"; VariantName = "[No Variations]"
+Added Component: Designator=U10(XL4015)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "XLSemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XL4015E1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C49-2
+Added Pin To Net: NetName=GND Pin=C54-2
+Added Pin To Net: NetName=GND Pin=C55-2
+Added Pin To Net: NetName=GND Pin=C56-2
+Added Pin To Net: NetName=GND Pin=C57-2
+Added Pin To Net: NetName=GND Pin=C58-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=5V0 Pin=R27-2
+Added Pin To Net: NetName=5V0 Pin=R46-2
+Added Pin To Net: NetName=GND Pin=R48-2
+Added Pin To Net: NetName=GND Pin=U10-1
+Change Net Name : Old Net Name=5V0 New Net Name=12V0
+Added Pin To Net: NetName=5V0 Pin=C42-1
+Added Pin To Net: NetName=5V0 Pin=C44-1
+Added Pin To Net: NetName=5V0 Pin=C45-1
+Added Pin To Net: NetName=5V0 Pin=U5-3
+Added Pin To Net: NetName=5V0 Pin=U6-3
+Added Pin To Net: NetName=5V0 Pin=U7-3
+Added Net: Name=5V0
+Added Pin To Net: NetName=NetC48_1 Pin=C48-1
+Added Pin To Net: NetName=NetC48_1 Pin=C49-1
+Added Pin To Net: NetName=NetC48_1 Pin=C54-1
+Added Pin To Net: NetName=NetC48_1 Pin=C55-1
+Added Pin To Net: NetName=NetC48_1 Pin=R46-1
+Added Pin To Net: NetName=NetC48_1 Pin=U10-5
+Added Net: Name=NetC48_1
+Added Pin To Net: NetName=NetC48_2 Pin=C48-2
+Added Pin To Net: NetName=NetC48_2 Pin=U10-4
+Added Net: Name=NetC48_2
+Added Pin To Net: NetName=NetC56_1 Pin=C56-1
+Added Pin To Net: NetName=NetC56_1 Pin=C57-1
+Added Pin To Net: NetName=NetC56_1 Pin=C58-1
+Added Pin To Net: NetName=NetC56_1 Pin=L3-2
+Added Pin To Net: NetName=NetC56_1 Pin=R47-1
+Added Net: Name=NetC56_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=L3-1
+Added Pin To Net: NetName=NetD3_1 Pin=U10-3
+Added Pin To Net: NetName=NetD3_1 Pin=U10-6
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetR47_2 Pin=R47-2
+Added Pin To Net: NetName=NetR47_2 Pin=R48-1
+Added Pin To Net: NetName=NetR47_2 Pin=U10-2
+Added Net: Name=NetR47_2
+Added Class: Name=C48_Nets
+Added Class: Name=C49_Nets
+Added Class: Name=C54_Nets
+Added Class: Name=C55_Nets
+Added Class: Name=C56_Nets
+Added Class: Name=C57_Nets
+Added Class: Name=C58_Nets
+Added Class: Name=D3_Nets
+Added Class: Name=L3_Nets
+Added Class: Name=R46_Nets
+Added Class: Name=R47_Nets
+Added Class: Name=R48_Nets
+Added Class: Name=U10_Nets
+Added Member To Class: ClassName=POWER Member=Component C48 MLCC_0805
+Added Member To Class: ClassName=POWER Member=Component C49 ERP_102-2
+Added Member To Class: ClassName=POWER Member=Component C54 MLCC_0805
+Added Member To Class: ClassName=POWER Member=Component C55 MLCC_0805
+Added Member To Class: ClassName=POWER Member=Component C56 ERP_102-2
+Added Member To Class: ClassName=POWER Member=Component C57 MLCC_0805
+Added Member To Class: ClassName=POWER Member=Component C58 MLCC_0805
+Added Member To Class: ClassName=POWER Member=Component D3 ERP_104-3
+Added Member To Class: ClassName=POWER Member=Component L3 ERP_103-3
+Added Member To Class: ClassName=POWER Member=Component R46 RES_1218_WIDE
+Added Member To Class: ClassName=POWER Member=Component R47 ERP_101-1
+Added Member To Class: ClassName=POWER Member=Component R48 ERP_101-1
+Added Member To Class: ClassName=POWER Member=Component U10 XL4015
+Added Member To Class: ClassName=J5_Nets Member=Wire 12V0
+Added Member To Class: ClassName=J6_Nets Member=Wire 12V0
+Added Member To Class: ClassName=J7_Nets Member=Wire 12V0
+Added Member To Class: ClassName=R27_Nets Member=Wire 12V0
+Added Rule: Name=Schematic Supply Nets_11

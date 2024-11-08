@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=VIN Pin=C42-1
+Removed Pin From Net: NetName=VIN Pin=C44-1
+Removed Pin From Net: NetName=VIN Pin=C45-1
+Removed Pin From Net: NetName=VIN Pin=C52-1
+Removed Pin From Net: NetName=VIN Pin=R27-2
+Removed Pin From Net: NetName=VIN Pin=U5-3
+Removed Pin From Net: NetName=VIN Pin=U6-3
+Removed Pin From Net: NetName=VIN Pin=U7-3
+Removed Pin From Net: NetName=VIN Pin=U9-3
+Removed Member From Class: ClassName=J5_Nets Member=VIN
+Removed Member From Class: ClassName=J6_Nets Member=VIN
+Removed Member From Class: ClassName=J7_Nets Member=VIN
+Change component parameters: Designator = "J12" ("J12"); Footprint = "GTFP084"; UniqueID = "\AMCBREFI" ("\AMCBREFI")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Amphenol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GTFP08431BEU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "9 (8+1)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "6172"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=VIN New Net Name=5V0
+Added Pin To Net: NetName=VIN Pin=C42-1
+Added Pin To Net: NetName=VIN Pin=C44-1
+Added Pin To Net: NetName=VIN Pin=C45-1
+Added Pin To Net: NetName=VIN Pin=C52-1
+Added Pin To Net: NetName=VIN Pin=R27-2
+Added Pin To Net: NetName=VIN Pin=U5-3
+Added Pin To Net: NetName=VIN Pin=U6-3
+Added Pin To Net: NetName=VIN Pin=U7-3
+Added Pin To Net: NetName=VIN Pin=U9-3
+Added Net: Name=VIN
+Added Member To Class: ClassName=J5_Nets Member=Wire 5V0
+Added Member To Class: ClassName=J6_Nets Member=Wire 5V0
+Added Member To Class: ClassName=J7_Nets Member=Wire 5V0
+Added Rule: Name=Schematic Supply Nets_10
