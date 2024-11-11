@@ -1,0 +1,43 @@
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_2
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_3
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_20
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_46
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_55
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_56
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_57
+Added Component: Designator=C9(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C39(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=3V3 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=3V3 Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=3V3 Pin=U8-2
+Added Pin To Net: NetName=3V3 Pin=U8-3
+Added Pin To Net: NetName=3V3 Pin=U8-20
+Added Pin To Net: NetName=3V3 Pin=U8-46
+Added Pin To Net: NetName=3V3 Pin=U8-55
+Added Pin To Net: NetName=3V3 Pin=U8-56
+Added Pin To Net: NetName=GND Pin=U8-57
+Added Class: Name=C9_Nets
+Added Class: Name=C10_Nets
+Added Class: Name=C39_Nets
+Added Member To Class: ClassName=MCU Member=Component C9 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C10 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C39 MLCC_0805
+Added Member To Class: ClassName=U8_Nets Member=Wire 3V3
+Added Member To Class: ClassName=U8_Nets Member=Wire GND

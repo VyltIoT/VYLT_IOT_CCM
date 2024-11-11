@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=J19 NewDesignator=J20
+Change Component Designator: OldDesignator=J20 NewDesignator=J19
+Change Component Designator: OldDesignator=J23 NewDesignator=J25
+Change Component Designator: OldDesignator=J25 NewDesignator=J26
+Change Component Designator: OldDesignator=J26 NewDesignator=J23
+Added Member To Class: ClassName=MCU Member=Component J26 ERP_148-2

@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_7
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_9
+Added Component: Designator=TP4(TP_1MM)
+Added Component: Designator=TP5(TP_1MM)
+Added Pin To Net: NetName=NetTP4_1 Pin=TP4-1
+Added Pin To Net: NetName=NetTP4_1 Pin=U8-7
+Added Net: Name=NetTP4_1
+Added Pin To Net: NetName=NetTP5_1 Pin=TP5-1
+Added Pin To Net: NetName=NetTP5_1 Pin=U8-9
+Added Net: Name=NetTP5_1
+Added Class: Name=TP4_Nets
+Added Class: Name=TP5_Nets
+Added Member To Class: ClassName=MCU Member=Component TP4 TP_1MM
+Added Member To Class: ClassName=MCU Member=Component TP5 TP_1MM
+Added Member To Class: ClassName=U8_Nets Member=Wire NetTP4_1
+Added Member To Class: ClassName=U8_Nets Member=Wire NetTP5_1

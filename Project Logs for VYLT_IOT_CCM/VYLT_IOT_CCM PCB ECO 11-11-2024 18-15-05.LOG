@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=U8_Nets Member=ESP_IO1
+Change Net Name : Old Net Name=ESP_IO1 New Net Name=NetU8_6
+Added Member To Class: ClassName=U8_Nets Member=Wire NetU8_6

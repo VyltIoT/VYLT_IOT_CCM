@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=MCU Member=TP4
+Removed Member From Class: ClassName=U8_Nets Member=NetTP4_1
+Added Pin To Net: NetName=NetU8_7 Pin=U8-7
+Added Net: Name=NetU8_7
+Added Member To Class: ClassName=U8_Nets Member=Wire NetU8_7

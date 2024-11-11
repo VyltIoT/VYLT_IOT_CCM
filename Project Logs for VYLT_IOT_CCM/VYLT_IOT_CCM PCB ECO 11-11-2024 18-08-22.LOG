@@ -1,0 +1,36 @@
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_6
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_10
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_11
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_12
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_13
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_14
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_15
+Change component parameters: Designator = "J10" ("J10"); Footprint = "GSB1CA11101DSHR"; UniqueID = "\KUUGBYZV" ("\KUUGBYZV")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Amphenol ICC (Commercial Products)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GSB1CA11101DSHR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "24 (16+8 Dummy)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "MUP-U23010-02"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J18" ("J18"); Footprint = "GSB1CA11101DSHR"; UniqueID = "\KGVJBNOH" ("\KGVJBNOH")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Amphenol ICC (Commercial Products)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GSB1CA11101DSHR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "24 (16+8 Dummy)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "MUP-U23010-02"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TP_1MM)
+Change Net Name : Old Net Name=NetU8_6 New Net Name=ESP_IO1
+Change Net Name : Old Net Name=NetU8_11 New Net Name=ESP_IO6
+Change Net Name : Old Net Name=NetU8_12 New Net Name=ESP_IO7
+Change Net Name : Old Net Name=NetU8_13 New Net Name=ESP_IO8
+Change Net Name : Old Net Name=NetU8_14 New Net Name=ESP_IO9
+Change Net Name : Old Net Name=NetU8_15 New Net Name=ESP_IO10
+Added Pin To Net: NetName=NetTP6_1 Pin=TP6-1
+Added Pin To Net: NetName=NetTP6_1 Pin=U8-10
+Added Net: Name=NetTP6_1
+Added Class: Name=TP6_Nets
+Added Member To Class: ClassName=MCU Member=Component TP6 TP_1MM
+Added Member To Class: ClassName=U8_Nets Member=Wire ESP_IO1
+Added Member To Class: ClassName=U8_Nets Member=Wire ESP_IO6
+Added Member To Class: ClassName=U8_Nets Member=Wire ESP_IO7
+Added Member To Class: ClassName=U8_Nets Member=Wire ESP_IO8
+Added Member To Class: ClassName=U8_Nets Member=Wire ESP_IO9
+Added Member To Class: ClassName=U8_Nets Member=Wire ESP_IO10
+Added Member To Class: ClassName=U8_Nets Member=Wire NetTP6_1

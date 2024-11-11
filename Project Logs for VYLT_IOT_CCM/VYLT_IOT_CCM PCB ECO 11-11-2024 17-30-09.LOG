@@ -1,0 +1,12 @@
+Added Component: Designator=SW3(Generic6X6)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4.5X4.5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ESP32_EN Pin=SW3-2
+Added Pin To Net: NetName=GND Pin=SW3-4
+Added Pin To Net: NetName=NetSW3_1 Pin=SW3-1
+Added Net: Name=NetSW3_1
+Added Pin To Net: NetName=NetSW3_3 Pin=SW3-3
+Added Net: Name=NetSW3_3
+Added Class: Name=SW3_Nets
+Added Member To Class: ClassName=MCU Member=Component SW3 Generic6X6

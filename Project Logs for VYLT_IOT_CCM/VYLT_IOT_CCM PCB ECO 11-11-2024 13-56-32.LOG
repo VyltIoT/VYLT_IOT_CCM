@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=R27 Old Footprint=RESC3246X06L New Footprint=RESC3115X06N
+Change Component Comment : Designator=R27 Old Comment=RES_1218_WIDE New Comment=ERP_101-1
+Change component parameters: Designator = "R27" ("R27"); Footprint = "RESC3246X06L"; UniqueID = "\YDDARTUC" ("\YDDARTUC")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R50(RESC3115X06N)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR27_1 Pin=R50-1
+Added Pin To Net: NetName=5V0 Pin=R50-2
+Added Class: Name=R50_Nets
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R50 ERP_101-1

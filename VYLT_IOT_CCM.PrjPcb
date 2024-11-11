@@ -277,7 +277,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -288,20 +288,16 @@ GenerateClassCluster=0
 DocumentUniqueId=UAMSRTXW
 
 [Parameter1]
-Name=
-Value=
+Name=Project
+Value=IOT0-MODULE
 
 [Parameter2]
-Name=SheetTotal
-Value=8
-
-[Parameter3]
 Name=Rev
 Value=1.0
 
-[Parameter4]
-Name=Project
-Value=IOT0-MODULE
+[Parameter3]
+Name=SheetTotal
+Value=8
 
 [Configuration1]
 Name=Sources
@@ -1320,7 +1316,7 @@ Net60=NetName=LNA_IN|NetColor=$00C8B8AB
 Net61=NetName=NetC?_1|NetColor=clBlack
 Net62=NetName=NetC2_1|NetColor=$00C8B8AB
 Net63=NetName=NetR?_1|NetColor=clBlack
-Net64=NetName=NetTP?_1|NetColor=$00C8B8AB
+Net64=NetName=NetTP?_1|NetColor=clBlack
 Net65=NetName=RTC_ESP|NetColor=clBlack
 Net66=NetName=RTC_PWR|NetColor=$0035CC96
 Net67=NetName=RTCESP|NetColor=$0035CC96

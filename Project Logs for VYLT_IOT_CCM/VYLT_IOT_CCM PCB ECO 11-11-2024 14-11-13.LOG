@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=USB1_P Pin=J18-A6
+Removed Pin From Net: NetName=USB1_N Pin=J18-A7
+Removed Pin From Net: NetName=USB1_P Pin=R43-1
+Removed Pin From Net: NetName=MODEM_USB_P Pin=R43-2
+Removed Pin From Net: NetName=USB1_N Pin=R44-1
+Removed Pin From Net: NetName=MODEM_USB_N Pin=R44-2
+Removed Member From Class: ClassName=R44_Nets Member=MODEM_USB_N
+Removed Member From Class: ClassName=R43_Nets Member=MODEM_USB_P
+Removed Member From Class: ClassName=J18_Nets Member=NetJ18_B6
+Removed Member From Class: ClassName=J18_Nets Member=NetJ18_B7
+Removed Member From Class: ClassName=J18_Nets Member=USB1_N
+Removed Member From Class: ClassName=R44_Nets Member=USB1_N
+Removed Member From Class: ClassName=J18_Nets Member=USB1_P
+Removed Member From Class: ClassName=R43_Nets Member=USB1_P
+Removed Member From Class: ClassName=C52_Nets Member=VIN
+Removed Member From Class: ClassName=U9_Nets Member=VIN
+Added Pin To Net: NetName=5V0 Pin=C52-1
+Added Pin To Net: NetName=ESP32_USB_P Pin=R43-2
+Added Pin To Net: NetName=ESP32_USB_N Pin=R44-2
+Added Pin To Net: NetName=5V0 Pin=U9-3
+Added Pin To Net: NetName=USB2_N Pin=J18-A7
+Added Pin To Net: NetName=USB2_N Pin=J18-B7
+Added Pin To Net: NetName=USB2_N Pin=R44-1
+Added Net: Name=USB2_N
+Added Pin To Net: NetName=USB2_P Pin=J18-A6
+Added Pin To Net: NetName=USB2_P Pin=J18-B6
+Added Pin To Net: NetName=USB2_P Pin=R43-1
+Added Net: Name=USB2_P
+Added Differential Pair: Name=USB2
+Added Member To Class: ClassName=C52_Nets Member=Wire 5V0
+Added Member To Class: ClassName=U9_Nets Member=Wire 5V0
+Added Member To Class: ClassName=R44_Nets Member=Wire ESP32_USB_N
+Added Member To Class: ClassName=R43_Nets Member=Wire ESP32_USB_P
+Added Member To Class: ClassName=J18_Nets Member=Wire USB2_N
+Added Member To Class: ClassName=R44_Nets Member=Wire USB2_N
+Added Member To Class: ClassName=J18_Nets Member=Wire USB2_P
+Added Member To Class: ClassName=R43_Nets Member=Wire USB2_P
+Added Rule: Name=Schematic Differential Pairs Routing
+Added Rule: Name=Schematic Differential Pairs Routing_2

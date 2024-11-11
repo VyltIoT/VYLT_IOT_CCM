@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=ESP32_IO0 Pin=R41-1
+Removed Pin From Net: NetName=3V3 Pin=R41-2
+Removed Member From Class: ClassName=MCU Member=R41
+Change Component Footprint: Designator=SW1 Old Footprint=PTS647 New Footprint=Generic6X6
+Change Component Comment : Designator=SW1 Old Comment=PTS647 New Comment=Generic6X6
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "PTS647"; UniqueID = "\VEKRYQFZ" ("\VEKRYQFZ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "C&K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "4.5X4.5"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(Generic6X6)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4.5X4.5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=ESP32_IO0 Pin=SW2-3
+Added Pin To Net: NetName=NetSW2_2 Pin=SW2-2
+Added Net: Name=NetSW2_2
+Added Pin To Net: NetName=NetSW2_4 Pin=SW2-4
+Added Net: Name=NetSW2_4
+Added Class: Name=SW2_Nets
+Added Member To Class: ClassName=MCU Member=Component SW2 Generic6X6
