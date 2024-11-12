@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=STM_NRST Pin=C68-2
+Removed Pin From Net: NetName=STM_BOOT0 Pin=C69-2
+Removed Pin From Net: NetName=STM_NRST Pin=SW4-3
+Removed Pin From Net: NetName=STM_BOOT0 Pin=SW5-3
+Removed Member From Class: ClassName=SW5_Nets Member=STM_BOOT0
+Removed Member From Class: ClassName=SW4_Nets Member=STM_NRST
+Added Pin To Net: NetName=STM_BOOT0 Pin=C68-2
+Added Pin To Net: NetName=STM_NRST Pin=C69-2
+Added Pin To Net: NetName=STM_BOOT0 Pin=SW4-3
+Added Pin To Net: NetName=STM_NRST Pin=SW5-3
+Change Class Name : Old Net Name=C68_Nets New Net Name=C69_Nets
+Change Class Name : Old Net Name=C69_Nets New Net Name=C68_Nets
+Added Member To Class: ClassName=SW4_Nets Member=Wire STM_BOOT0
+Added Member To Class: ClassName=SW5_Nets Member=Wire STM_NRST

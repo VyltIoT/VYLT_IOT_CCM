@@ -1,0 +1,49 @@
+Removed Member From Class: ClassName=J23_Nets Member=NetJ23_5
+Removed Member From Class: ClassName=J23_Nets Member=NetJ23_6
+Removed Member From Class: ClassName=J24_Nets Member=NetJ24_4
+Removed Member From Class: ClassName=J24_Nets Member=NetJ24_5
+Removed Member From Class: ClassName=J24_Nets Member=NetJ24_6
+Removed Member From Class: ClassName=J25_Nets Member=NetJ25_1
+Removed Member From Class: ClassName=J26_Nets Member=NetJ26_1
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_36
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_37
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_38
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_39
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_40
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_41
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_42
+Added Pin To Net: NetName=ESP_IO33 Pin=J24-6
+Added Pin To Net: NetName=ESP_IO33 Pin=U8-38
+Added Net: Name=ESP_IO33
+Added Pin To Net: NetName=ESP_IO34 Pin=J23-6
+Added Pin To Net: NetName=ESP_IO34 Pin=U8-39
+Added Net: Name=ESP_IO34
+Added Pin To Net: NetName=ESP_IO35 Pin=J24-5
+Added Pin To Net: NetName=ESP_IO35 Pin=U8-40
+Added Net: Name=ESP_IO35
+Added Pin To Net: NetName=ESP_IO36 Pin=J23-5
+Added Pin To Net: NetName=ESP_IO36 Pin=U8-41
+Added Net: Name=ESP_IO36
+Added Pin To Net: NetName=ESP_IO37 Pin=J24-4
+Added Pin To Net: NetName=ESP_IO37 Pin=U8-42
+Added Net: Name=ESP_IO37
+Added Pin To Net: NetName=ESP_IO47 Pin=J26-1
+Added Pin To Net: NetName=ESP_IO47 Pin=U8-37
+Added Net: Name=ESP_IO47
+Added Pin To Net: NetName=ESP_IO48 Pin=J25-1
+Added Pin To Net: NetName=ESP_IO48 Pin=U8-36
+Added Net: Name=ESP_IO48
+Added Member To Class: ClassName=J24_Nets Member=Wire ESP_IO33
+Added Member To Class: ClassName=U8_Nets Member=Wire ESP_IO33
+Added Member To Class: ClassName=J23_Nets Member=Wire ESP_IO34
+Added Member To Class: ClassName=U8_Nets Member=Wire ESP_IO34
+Added Member To Class: ClassName=J24_Nets Member=Wire ESP_IO35
+Added Member To Class: ClassName=U8_Nets Member=Wire ESP_IO35
+Added Member To Class: ClassName=J23_Nets Member=Wire ESP_IO36
+Added Member To Class: ClassName=U8_Nets Member=Wire ESP_IO36
+Added Member To Class: ClassName=J24_Nets Member=Wire ESP_IO37
+Added Member To Class: ClassName=U8_Nets Member=Wire ESP_IO37
+Added Member To Class: ClassName=J26_Nets Member=Wire ESP_IO47
+Added Member To Class: ClassName=U8_Nets Member=Wire ESP_IO47
+Added Member To Class: ClassName=J25_Nets Member=Wire ESP_IO48
+Added Member To Class: ClassName=U8_Nets Member=Wire ESP_IO48

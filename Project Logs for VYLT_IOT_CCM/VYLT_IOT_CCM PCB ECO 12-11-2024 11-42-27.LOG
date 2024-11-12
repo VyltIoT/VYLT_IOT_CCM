@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=J23_Nets Member=NetJ23_2
+Removed Member From Class: ClassName=J24_Nets Member=NetJ24_1
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_49
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_50
+Added Pin To Net: NetName=ESP_RX0 Pin=J24-1
+Added Pin To Net: NetName=ESP_RX0 Pin=U8-50
+Added Net: Name=ESP_RX0
+Added Pin To Net: NetName=ESP_TX0 Pin=J23-2
+Added Pin To Net: NetName=ESP_TX0 Pin=U8-49
+Added Net: Name=ESP_TX0
+Added Member To Class: ClassName=J24_Nets Member=Wire ESP_RX0
+Added Member To Class: ClassName=U8_Nets Member=Wire ESP_RX0
+Added Member To Class: ClassName=J23_Nets Member=Wire ESP_TX0
+Added Member To Class: ClassName=U8_Nets Member=Wire ESP_TX0

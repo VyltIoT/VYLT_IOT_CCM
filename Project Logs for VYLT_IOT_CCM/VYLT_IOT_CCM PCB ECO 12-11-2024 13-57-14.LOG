@@ -1,0 +1,291 @@
+Added Component: Designator=C40(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Added Component: Designator=C41(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Added Component: Designator=C43(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Added Component: Designator=C59(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Added Component: Designator=C60(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C61(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C62(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C63(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C64(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C65(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C66(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C67(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=R52(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5k6"; VariantName = "[No Variations]"
+Added Component: Designator=R53(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(Generic6X6)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4.5X4.5"; VariantName = "[No Variations]"
+Added Component: Designator=U11(TSQFP50P1200X1200X160-64L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "STM32F411RET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP-64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Evelta"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "033-STM32F411RET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "STM32F4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=3V3 Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=3V3 Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=3V3 Pin=C59-1
+Added Pin To Net: NetName=GND Pin=C59-2
+Added Pin To Net: NetName=3V3 Pin=C60-1
+Added Pin To Net: NetName=GND Pin=C60-2
+Added Pin To Net: NetName=3V3 Pin=C61-1
+Added Pin To Net: NetName=GND Pin=C61-2
+Added Pin To Net: NetName=3V3 Pin=C62-1
+Added Pin To Net: NetName=GND Pin=C62-2
+Added Pin To Net: NetName=3V3 Pin=C63-1
+Added Pin To Net: NetName=GND Pin=C63-2
+Added Pin To Net: NetName=3V3 Pin=C64-1
+Added Pin To Net: NetName=GND Pin=C64-2
+Added Pin To Net: NetName=GND Pin=C65-2
+Added Pin To Net: NetName=GND Pin=C66-2
+Added Pin To Net: NetName=GND Pin=C67-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=R52-2
+Added Pin To Net: NetName=GND Pin=R53-1
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=3V3 Pin=U11-1
+Added Pin To Net: NetName=GND Pin=U11-12
+Added Pin To Net: NetName=GND Pin=U11-18
+Added Pin To Net: NetName=3V3 Pin=U11-19
+Added Pin To Net: NetName=GND Pin=U11-31
+Added Pin To Net: NetName=3V3 Pin=U11-32
+Added Pin To Net: NetName=GND Pin=U11-47
+Added Pin To Net: NetName=3V3 Pin=U11-48
+Added Pin To Net: NetName=GND Pin=U11-63
+Added Pin To Net: NetName=3V3 Pin=U11-64
+Added Pin To Net: NetName=NetC65_1 Pin=C65-1
+Added Pin To Net: NetName=NetC65_1 Pin=C66-1
+Added Pin To Net: NetName=NetC65_1 Pin=R52-1
+Added Pin To Net: NetName=NetC65_1 Pin=R53-2
+Added Pin To Net: NetName=NetC65_1 Pin=U11-13
+Added Net: Name=NetC65_1
+Added Pin To Net: NetName=NetC67_1 Pin=C67-1
+Added Pin To Net: NetName=NetC67_1 Pin=U11-30
+Added Net: Name=NetC67_1
+Added Pin To Net: NetName=NetSW?_2 Pin=SW?-2
+Added Net: Name=NetSW?_2
+Added Pin To Net: NetName=NetSW?_4 Pin=SW?-4
+Added Net: Name=NetSW?_4
+Added Pin To Net: NetName=NetU11_2 Pin=U11-2
+Added Net: Name=NetU11_2
+Added Pin To Net: NetName=NetU11_3 Pin=U11-3
+Added Net: Name=NetU11_3
+Added Pin To Net: NetName=NetU11_4 Pin=U11-4
+Added Net: Name=NetU11_4
+Added Pin To Net: NetName=NetU11_5 Pin=U11-5
+Added Net: Name=NetU11_5
+Added Pin To Net: NetName=NetU11_6 Pin=U11-6
+Added Net: Name=NetU11_6
+Added Pin To Net: NetName=NetU11_8 Pin=U11-8
+Added Net: Name=NetU11_8
+Added Pin To Net: NetName=NetU11_9 Pin=U11-9
+Added Net: Name=NetU11_9
+Added Pin To Net: NetName=NetU11_10 Pin=U11-10
+Added Net: Name=NetU11_10
+Added Pin To Net: NetName=NetU11_11 Pin=U11-11
+Added Net: Name=NetU11_11
+Added Pin To Net: NetName=NetU11_14 Pin=U11-14
+Added Net: Name=NetU11_14
+Added Pin To Net: NetName=NetU11_15 Pin=U11-15
+Added Net: Name=NetU11_15
+Added Pin To Net: NetName=NetU11_16 Pin=U11-16
+Added Net: Name=NetU11_16
+Added Pin To Net: NetName=NetU11_17 Pin=U11-17
+Added Net: Name=NetU11_17
+Added Pin To Net: NetName=NetU11_20 Pin=U11-20
+Added Net: Name=NetU11_20
+Added Pin To Net: NetName=NetU11_21 Pin=U11-21
+Added Net: Name=NetU11_21
+Added Pin To Net: NetName=NetU11_22 Pin=U11-22
+Added Net: Name=NetU11_22
+Added Pin To Net: NetName=NetU11_23 Pin=U11-23
+Added Net: Name=NetU11_23
+Added Pin To Net: NetName=NetU11_24 Pin=U11-24
+Added Net: Name=NetU11_24
+Added Pin To Net: NetName=NetU11_25 Pin=U11-25
+Added Net: Name=NetU11_25
+Added Pin To Net: NetName=NetU11_26 Pin=U11-26
+Added Net: Name=NetU11_26
+Added Pin To Net: NetName=NetU11_27 Pin=U11-27
+Added Net: Name=NetU11_27
+Added Pin To Net: NetName=NetU11_28 Pin=U11-28
+Added Net: Name=NetU11_28
+Added Pin To Net: NetName=NetU11_29 Pin=U11-29
+Added Net: Name=NetU11_29
+Added Pin To Net: NetName=NetU11_33 Pin=U11-33
+Added Net: Name=NetU11_33
+Added Pin To Net: NetName=NetU11_34 Pin=U11-34
+Added Net: Name=NetU11_34
+Added Pin To Net: NetName=NetU11_35 Pin=U11-35
+Added Net: Name=NetU11_35
+Added Pin To Net: NetName=NetU11_36 Pin=U11-36
+Added Net: Name=NetU11_36
+Added Pin To Net: NetName=NetU11_37 Pin=U11-37
+Added Net: Name=NetU11_37
+Added Pin To Net: NetName=NetU11_38 Pin=U11-38
+Added Net: Name=NetU11_38
+Added Pin To Net: NetName=NetU11_39 Pin=U11-39
+Added Net: Name=NetU11_39
+Added Pin To Net: NetName=NetU11_40 Pin=U11-40
+Added Net: Name=NetU11_40
+Added Pin To Net: NetName=NetU11_41 Pin=U11-41
+Added Net: Name=NetU11_41
+Added Pin To Net: NetName=NetU11_42 Pin=U11-42
+Added Net: Name=NetU11_42
+Added Pin To Net: NetName=NetU11_43 Pin=U11-43
+Added Net: Name=NetU11_43
+Added Pin To Net: NetName=NetU11_44 Pin=U11-44
+Added Net: Name=NetU11_44
+Added Pin To Net: NetName=NetU11_45 Pin=U11-45
+Added Net: Name=NetU11_45
+Added Pin To Net: NetName=NetU11_46 Pin=U11-46
+Added Net: Name=NetU11_46
+Added Pin To Net: NetName=NetU11_49 Pin=U11-49
+Added Net: Name=NetU11_49
+Added Pin To Net: NetName=NetU11_50 Pin=U11-50
+Added Net: Name=NetU11_50
+Added Pin To Net: NetName=NetU11_51 Pin=U11-51
+Added Net: Name=NetU11_51
+Added Pin To Net: NetName=NetU11_52 Pin=U11-52
+Added Net: Name=NetU11_52
+Added Pin To Net: NetName=NetU11_53 Pin=U11-53
+Added Net: Name=NetU11_53
+Added Pin To Net: NetName=NetU11_54 Pin=U11-54
+Added Net: Name=NetU11_54
+Added Pin To Net: NetName=NetU11_55 Pin=U11-55
+Added Net: Name=NetU11_55
+Added Pin To Net: NetName=NetU11_56 Pin=U11-56
+Added Net: Name=NetU11_56
+Added Pin To Net: NetName=NetU11_57 Pin=U11-57
+Added Net: Name=NetU11_57
+Added Pin To Net: NetName=NetU11_58 Pin=U11-58
+Added Net: Name=NetU11_58
+Added Pin To Net: NetName=NetU11_59 Pin=U11-59
+Added Net: Name=NetU11_59
+Added Pin To Net: NetName=NetU11_61 Pin=U11-61
+Added Net: Name=NetU11_61
+Added Pin To Net: NetName=NetU11_62 Pin=U11-62
+Added Net: Name=NetU11_62
+Added Pin To Net: NetName=STM_BOOT0 Pin=R?-1
+Added Pin To Net: NetName=STM_BOOT0 Pin=U11-60
+Added Net: Name=STM_BOOT0
+Added Pin To Net: NetName=STM_NRST Pin=C?-2
+Added Pin To Net: NetName=STM_NRST Pin=R?-1
+Added Pin To Net: NetName=STM_NRST Pin=SW?-3
+Added Pin To Net: NetName=STM_NRST Pin=U11-7
+Added Net: Name=STM_NRST
+Added Class: Name=C40_Nets
+Added Class: Name=C41_Nets
+Added Class: Name=C43_Nets
+Added Class: Name=C59_Nets
+Added Class: Name=C60_Nets
+Added Class: Name=C61_Nets
+Added Class: Name=C62_Nets
+Added Class: Name=C63_Nets
+Added Class: Name=C64_Nets
+Added Class: Name=C65_Nets
+Added Class: Name=C66_Nets
+Added Class: Name=C67_Nets
+Added Class: Name=C?_Nets
+Added Class: Name=R52_Nets
+Added Class: Name=R53_Nets
+Added Class: Name=R?_Nets
+Added Class: Name=SW?_Nets
+Added Class: Name=U11_Nets
+Added Member To Class: ClassName=MCU Member=Component C40 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C41 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C43 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C59 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C60 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C61 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C62 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C63 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C64 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C65 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C66 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C67 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C? MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component R52 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R53 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R? ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R? ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component SW? Generic6X6
+Added Member To Class: ClassName=MCU Member=Component U11 STM32F411RE

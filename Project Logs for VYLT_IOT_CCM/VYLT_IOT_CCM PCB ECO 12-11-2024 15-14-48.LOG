@@ -1,0 +1,27 @@
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_5
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_6
+Added Component: Designator=C69(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=SW5(Generic6X6)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4.5X4.5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C69-1
+Added Pin To Net: NetName=STM_BOOT0 Pin=C69-2
+Added Pin To Net: NetName=GND Pin=SW5-1
+Added Pin To Net: NetName=STM_BOOT0 Pin=SW5-3
+Change Net Name : Old Net Name=NetU11_5 New Net Name=STM_OSC_HS_IN
+Change Net Name : Old Net Name=NetU11_6 New Net Name=STM_OSC_HS_OUT
+Added Pin To Net: NetName=NetSW5_2 Pin=SW5-2
+Added Net: Name=NetSW5_2
+Added Pin To Net: NetName=NetSW5_4 Pin=SW5-4
+Added Net: Name=NetSW5_4
+Added Class: Name=C69_Nets
+Added Class: Name=SW5_Nets
+Added Member To Class: ClassName=MCU Member=Component C69 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component SW5 Generic6X6
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_OSC_HS_IN
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_OSC_HS_OUT

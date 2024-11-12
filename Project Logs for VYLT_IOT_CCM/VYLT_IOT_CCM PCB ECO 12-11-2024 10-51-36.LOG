@@ -1,0 +1,24 @@
+Added Component: Designator=TP4(TP_1MM)
+Added Component: Designator=TP5(TP_1MM)
+Added Component: Designator=TP6(TP_1MM)
+Added Component: Designator=TP7(TP_1MM)
+Added Component: Designator=TP8(TP_1MM)
+Added Component: Designator=TP9(TP_1MM)
+Added Pin To Net: NetName=NetJ9_1 Pin=TP4-1
+Added Pin To Net: NetName=NetJ9_2 Pin=TP5-1
+Added Pin To Net: NetName=NetJ9_3 Pin=TP6-1
+Added Pin To Net: NetName=NetJ9_4 Pin=TP7-1
+Added Pin To Net: NetName=NetJ9_5 Pin=TP8-1
+Added Pin To Net: NetName=NetJ9_6 Pin=TP9-1
+Added Class: Name=TP4_Nets
+Added Class: Name=TP5_Nets
+Added Class: Name=TP6_Nets
+Added Class: Name=TP7_Nets
+Added Class: Name=TP8_Nets
+Added Class: Name=TP9_Nets
+Added Member To Class: ClassName=POWER Member=Component TP4 TP_1MM
+Added Member To Class: ClassName=POWER Member=Component TP5 TP_1MM
+Added Member To Class: ClassName=POWER Member=Component TP6 TP_1MM
+Added Member To Class: ClassName=POWER Member=Component TP7 TP_1MM
+Added Member To Class: ClassName=POWER Member=Component TP8 TP_1MM
+Added Member To Class: ClassName=POWER Member=Component TP9 TP_1MM

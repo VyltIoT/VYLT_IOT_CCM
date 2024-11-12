@@ -1,0 +1,57 @@
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_16
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_17
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_33
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_34
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_35
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_36
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_37
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_38
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_40
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_41
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_42
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_43
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_44
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_45
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_46
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_49
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_50
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_55
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_56
+Change Net Name : Old Net Name=NetU11_16 New Net Name=STM_UART2_TX
+Change Net Name : Old Net Name=NetU11_17 New Net Name=STM_UART2_RX
+Change Net Name : Old Net Name=NetU11_33 New Net Name=STM_SPI2_NSS
+Change Net Name : Old Net Name=NetU11_34 New Net Name=STM_SPI2_SCK
+Change Net Name : Old Net Name=NetU11_35 New Net Name=STM_SPI2_MISO
+Change Net Name : Old Net Name=NetU11_36 New Net Name=STM_SPI2_MOSI
+Change Net Name : Old Net Name=NetU11_37 New Net Name=STM_UART6_TX
+Change Net Name : Old Net Name=NetU11_38 New Net Name=STM_UART6_RX
+Change Net Name : Old Net Name=NetU11_40 New Net Name=STM_I2C3_SDA
+Change Net Name : Old Net Name=NetU11_41 New Net Name=STM_I2C3_SCL
+Change Net Name : Old Net Name=NetU11_42 New Net Name=STM_UART1_TX
+Change Net Name : Old Net Name=NetU11_43 New Net Name=STM_UART1_RX
+Change Net Name : Old Net Name=NetU11_44 New Net Name=STM_USB_DM
+Change Net Name : Old Net Name=NetU11_45 New Net Name=STM_USB_DP
+Change Net Name : Old Net Name=NetU11_46 New Net Name=STM_SWD
+Change Net Name : Old Net Name=NetU11_49 New Net Name=STM_SWC
+Change Net Name : Old Net Name=NetU11_50 New Net Name=STM_JTDI
+Change Net Name : Old Net Name=NetU11_55 New Net Name=STM_SWO
+Change Net Name : Old Net Name=NetU11_56 New Net Name=STM_JRST
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_I2C3_SCL
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_I2C3_SDA
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_JRST
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_JTDI
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_SPI2_MISO
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_SPI2_MOSI
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_SPI2_NSS
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_SPI2_SCK
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_SWC
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_SWD
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_SWO
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_UART1_RX
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_UART1_TX
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_UART2_RX
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_UART2_TX
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_UART6_RX
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_UART6_TX
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_USB_DM
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_USB_DP

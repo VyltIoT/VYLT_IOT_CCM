@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_1
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_2
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_3
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_4
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_5
+Removed Member From Class: ClassName=J20_Nets Member=NetJ20_1
+Removed Member From Class: ClassName=J20_Nets Member=NetJ20_2
+Removed Member From Class: ClassName=J20_Nets Member=NetJ20_3
+Removed Member From Class: ClassName=J20_Nets Member=NetJ20_4
+Removed Member From Class: ClassName=J20_Nets Member=NetJ20_5
+Added Pin To Net: NetName=STM_SPI2_SCK Pin=J19-1
+Added Pin To Net: NetName=STM_SPI2_MOSI Pin=J19-2
+Added Pin To Net: NetName=STM_UART6_RX Pin=J19-3
+Added Pin To Net: NetName=STM_I2C3_SCL Pin=J19-4
+Added Pin To Net: NetName=STM_UART1_RX Pin=J19-5
+Added Pin To Net: NetName=STM_SPI2_NSS Pin=J20-1
+Added Pin To Net: NetName=STM_SPI2_MISO Pin=J20-2
+Added Pin To Net: NetName=STM_UART6_TX Pin=J20-3
+Added Pin To Net: NetName=STM_I2C3_SDA Pin=J20-4
+Added Pin To Net: NetName=STM_UART1_TX Pin=J20-5
+Added Member To Class: ClassName=J19_Nets Member=Wire STM_I2C3_SCL
+Added Member To Class: ClassName=J20_Nets Member=Wire STM_I2C3_SDA
+Added Member To Class: ClassName=J20_Nets Member=Wire STM_SPI2_MISO
+Added Member To Class: ClassName=J19_Nets Member=Wire STM_SPI2_MOSI
+Added Member To Class: ClassName=J20_Nets Member=Wire STM_SPI2_NSS
+Added Member To Class: ClassName=J19_Nets Member=Wire STM_SPI2_SCK
+Added Member To Class: ClassName=J19_Nets Member=Wire STM_UART1_RX
+Added Member To Class: ClassName=J20_Nets Member=Wire STM_UART1_TX
+Added Member To Class: ClassName=J19_Nets Member=Wire STM_UART6_RX
+Added Member To Class: ClassName=J20_Nets Member=Wire STM_UART6_TX
