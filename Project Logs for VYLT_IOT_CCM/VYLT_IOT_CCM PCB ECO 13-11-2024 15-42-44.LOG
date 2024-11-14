@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_6
+Removed Member From Class: ClassName=J20_Nets Member=NetJ20_6
+Added Pin To Net: NetName=STM_USB_DM Pin=J19-6
+Added Pin To Net: NetName=STM_USB_DP Pin=J20-6
+Added Member To Class: ClassName=J19_Nets Member=Wire STM_USB_DM
+Added Member To Class: ClassName=J20_Nets Member=Wire STM_USB_DP
