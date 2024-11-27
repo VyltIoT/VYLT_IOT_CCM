@@ -1,0 +1,9 @@
+Added Component: Designator=R26(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD2_2 Pin=R26-1
+Added Pin To Net: NetName=MODEM_LED_NETMODE Pin=R26-2
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R26 ERP_101-1

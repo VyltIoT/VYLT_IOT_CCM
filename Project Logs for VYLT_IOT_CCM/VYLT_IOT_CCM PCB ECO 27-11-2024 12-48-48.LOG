@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=MODEM_NRDY_STAT_3V3 Pin=Q3-3
+Removed Pin From Net: NetName=MODEM_NRDY_STAT_3V3 Pin=R27-1
+Removed Pin From Net: NetName=MODEM_LVS_3V3 Pin=R27-2
+Removed Pin From Net: NetName=MODEM_NRDY_STAT Pin=R50-2
+Removed Member From Class: ClassName=MODEM_PT2 Member=Q3
+Removed Member From Class: ClassName=MODEM_PT2 Member=R27
+Removed Member From Class: ClassName=MODEM_PT2 Member=R50
+Removed Member From Class: ClassName=U2_Nets Member=NetU2_6
+Removed Member From Class: ClassName=U2_Nets Member=NetU2_15
+Added Pin To Net: NetName=MODEM_NRDY_STAT Pin=U2-6
+Added Pin To Net: NetName=MODEM_NRDY_STAT_3V3 Pin=U2-15
+Added Member To Class: ClassName=U2_Nets Member=Wire MODEM_NRDY_STAT_3V3
+Added Member To Class: ClassName=U2_Nets Member=Wire MODEM_NRDY_STAT

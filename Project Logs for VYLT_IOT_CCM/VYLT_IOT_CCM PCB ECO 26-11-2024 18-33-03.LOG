@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=MODEM_PT2 Member=D3
+Removed Member From Class: ClassName=R27_Nets Member=MODEM_LED_STATUS
+Removed Member From Class: ClassName=D3_Nets Member=NetD3_2
+Removed Member From Class: ClassName=R27_Nets Member=NetD3_2
+Change Component Designator: OldDesignator=D3 NewDesignator=D4
+Change Component Designator: OldDesignator=R27 NewDesignator=R56
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD4_2
+Added Class: Name=D4_Nets
+Added Class: Name=R56_Nets
+Added Member To Class: ClassName=MODEM_PT2 Member=Component D4 LED_1206_TOP
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R56 ERP_101-1

@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetC48_1 Pin=R35-1
+Removed Pin From Net: NetName=12V0 Pin=R35-2
+Removed Pin From Net: NetName=5V0 Pin=R38-1
+Removed Pin From Net: NetName=NetC56_1 Pin=R38-2
+Removed Pin From Net: NetName=NetC48_1 Pin=R46-1
+Removed Pin From Net: NetName=12V0 Pin=R46-2
+Removed Pin From Net: NetName=5V0 Pin=R49-1
+Removed Pin From Net: NetName=NetC56_1 Pin=R49-2
+Removed Member From Class: ClassName=POWER Member=R35
+Removed Member From Class: ClassName=POWER Member=R38
+Removed Member From Class: ClassName=POWER Member=R46
+Removed Member From Class: ClassName=POWER Member=R49
+Added Component: Designator=J28(2PX1R)
+Added Component: Designator=J29(2PX1R)
+Added Pin To Net: NetName=12V0 Pin=J28-1
+Added Pin To Net: NetName=NetC48_1 Pin=J28-2
+Added Pin To Net: NetName=NetC56_1 Pin=J29-1
+Added Pin To Net: NetName=5V0 Pin=J29-2
+Change Class Name : Old Net Name=R35_Nets New Net Name=J28_Nets
+Change Class Name : Old Net Name=R49_Nets New Net Name=J29_Nets
+Added Member To Class: ClassName=POWER Member=Component J28 2PX1R
+Added Member To Class: ClassName=POWER Member=Component J29 2PX1R

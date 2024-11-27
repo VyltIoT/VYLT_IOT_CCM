@@ -1,0 +1,21 @@
+Added Component: Designator=D3(LED_1206_TOP)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "156120VS82500P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "GREEN"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=MODEM_LED_STATUS Pin=R27-2
+Added Net: Name=MODEM_LED_STATUS
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R27-1
+Added Net: Name=NetD3_2
+Added Member To Class: ClassName=MODEM_PT2 Member=Component D3 LED_1206_TOP
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R27 ERP_101-1
+Added Member To Class: ClassName=R27_Nets Member=Wire MODEM_LED_STATUS
+Added Member To Class: ClassName=D3_Nets Member=Wire NetD3_2
+Added Member To Class: ClassName=R27_Nets Member=Wire NetD3_2

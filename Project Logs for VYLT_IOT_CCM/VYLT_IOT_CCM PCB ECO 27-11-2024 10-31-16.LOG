@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=5V0 Pin=R27-2
+Removed Pin From Net: NetName=5V0 Pin=R50-2
+Removed Member From Class: ClassName=MODEM_PT2 Member=R27
+Removed Member From Class: ClassName=MODEM_PT2 Member=R50
+Removed Member From Class: ClassName=R33_Nets Member=NetR27_1
+Removed Member From Class: ClassName=U4_Nets Member=NetR27_1
+Added Component: Designator=J27(2PX1R)
+Added Pin To Net: NetName=5V0 Pin=J27-1
+Added Pin To Net: NetName=NetJ27_2 Pin=J27-2
+Added Pin To Net: NetName=NetJ27_2 Pin=R33-1
+Added Pin To Net: NetName=NetJ27_2 Pin=U4-2
+Added Net: Name=NetJ27_2
+Added Class: Name=J27_Nets
+Added Member To Class: ClassName=MODEM_PT2 Member=Component J27 2PX1R
+Added Member To Class: ClassName=R33_Nets Member=Wire NetJ27_2
+Added Member To Class: ClassName=U4_Nets Member=Wire NetJ27_2

@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=GND Pin=J14-20
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_61
+Added Component: Designator=Q3(MMBT2222)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MMBT2222A"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3k3"; VariantName = "[No Variations]"
+Added Component: Designator=R50(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3k3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=MODEM_LVS_3V3 Pin=R27-2
+Added Pin To Net: NetName=MODEM_NRDY_STAT_3V3 Pin=J14-20
+Added Pin To Net: NetName=MODEM_NRDY_STAT_3V3 Pin=Q3-3
+Added Pin To Net: NetName=MODEM_NRDY_STAT_3V3 Pin=R27-1
+Added Net: Name=MODEM_NRDY_STAT_3V3
+Added Pin To Net: NetName=MODEM_NRDY_STAT Pin=M1-61
+Added Pin To Net: NetName=MODEM_NRDY_STAT Pin=R50-2
+Added Net: Name=MODEM_NRDY_STAT
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R50-1
+Added Net: Name=NetQ3_1
+Added Class: Name=Q3_Nets
+Added Class: Name=R27_Nets
+Added Class: Name=R50_Nets
+Added Member To Class: ClassName=MODEM_PT2 Member=Component Q3 ERP_105-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R27 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R50 ERP_101-1
+Added Member To Class: ClassName=J14_Nets Member=Wire MODEM_NRDY_STAT_3V3
+Added Member To Class: ClassName=M1_Nets Member=Wire MODEM_NRDY_STAT

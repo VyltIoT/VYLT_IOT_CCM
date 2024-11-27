@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VBATT_3V8_CTRL Pin=J14-14
+Removed Pin From Net: NetName=MODEM_VDDBB Pin=J14-15
+Removed Pin From Net: NetName=MODEM_LED_NETSTAT Pin=SW6-3
+Removed Pin From Net: NetName=MODEM_LED_NETSTAT Pin=SW7-1
+Removed Pin From Net: NetName=MODEM_LED_NETSTAT Pin=SW7-3
+Added Pin To Net: NetName=MODEM_VDDBB Pin=J14-14
+Added Pin To Net: NetName=VBATT_3V8_CTRL Pin=J14-15

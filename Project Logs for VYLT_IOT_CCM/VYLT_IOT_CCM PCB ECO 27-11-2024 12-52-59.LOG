@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=MODEM_CTRL_RESETN Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=MODEM_CTRL_PWRKEY Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=MCU_MODEM_RESETN_3V3 Pin=Q1-1
+Removed Pin From Net: NetName=MCU_MODEM_PWRKEY_3V3 Pin=Q2-1
+Removed Member From Class: ClassName=MODEM_PT2 Member=C11
+Removed Member From Class: ClassName=MODEM_PT2 Member=C12
+Removed Member From Class: ClassName=Q2_Nets Member=MCU_MODEM_PWRKEY_3V3
+Removed Member From Class: ClassName=Q1_Nets Member=MCU_MODEM_RESETN_3V3
+Change Component Footprint: Designator=Q1 Old Footprint=SOT95P230X110-3L New Footprint=MMBT2222
+Change Component Footprint: Designator=Q2 Old Footprint=SOT95P230X110-3L New Footprint=MMBT2222
+Change Component Comment : Designator=Q1 Old Comment=PDTD143 New Comment=ERP_105-1
+Change Component Comment : Designator=Q2 Old Comment=PDTD143 New Comment=ERP_105-1
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "SOT95P230X110-3L"; UniqueID = "\JTKYWRYS" ("\JTKYWRYS")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "MMBT2222A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "SOT95P230X110-3L"; UniqueID = "\STFMYXZP" ("\STFMYXZP")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "MMBT2222A"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3k3"; VariantName = "[No Variations]"
+Added Component: Designator=R50(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3k3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_MODEM_RESETN_3V3 Pin=R27-2
+Added Pin To Net: NetName=MCU_MODEM_PWRKEY_3V3 Pin=R50-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R27-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R50-1
+Added Net: Name=NetQ2_1
+Added Class: Name=R27_Nets
+Added Class: Name=R50_Nets
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R27 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R50 ERP_101-1
+Added Member To Class: ClassName=Q1_Nets Member=Wire NetQ1_1
+Added Member To Class: ClassName=Q2_Nets Member=Wire NetQ2_1

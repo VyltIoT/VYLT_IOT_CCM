@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=NetR5_1 Pin=SW1-2
+Removed Pin From Net: NetName=MODEM_VDDEXT Pin=SW1-4
+Added Component: Designator=SW6(Generic6X6)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4.5X4.5"; VariantName = "[No Variations]"
+Added Component: Designator=SW7(Generic6X6)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4.5X4.5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MODEM_CTRL_PWRKEY Pin=SW6-1
+Added Pin To Net: NetName=GND Pin=SW6-3
+Added Pin To Net: NetName=MODEM_CTRL_RESETN Pin=SW7-1
+Added Pin To Net: NetName=GND Pin=SW7-3
+Added Pin To Net: NetName=NetSW1_2 Pin=SW1-2
+Added Net: Name=NetSW1_2
+Added Pin To Net: NetName=NetSW1_4 Pin=SW1-4
+Added Net: Name=NetSW1_4
+Added Pin To Net: NetName=NetSW6_2 Pin=SW6-2
+Added Net: Name=NetSW6_2
+Added Pin To Net: NetName=NetSW6_4 Pin=SW6-4
+Added Net: Name=NetSW6_4
+Added Pin To Net: NetName=NetSW7_2 Pin=SW7-2
+Added Net: Name=NetSW7_2
+Added Pin To Net: NetName=NetSW7_4 Pin=SW7-4
+Added Net: Name=NetSW7_4
+Added Class: Name=SW6_Nets
+Added Class: Name=SW7_Nets
+Added Member To Class: ClassName=MODEM_PT2 Member=Component SW6 Generic6X6
+Added Member To Class: ClassName=MODEM_PT2 Member=Component SW7 Generic6X6
+Added Member To Class: ClassName=SW1_Nets Member=Wire NetSW1_2
+Added Member To Class: ClassName=SW1_Nets Member=Wire NetSW1_4

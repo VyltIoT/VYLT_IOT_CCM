@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=D1 Old Footprint=LED_1206_TOP New Footprint=LED_1206
+Change Component Footprint: Designator=D2 Old Footprint=LED_1206_TOP New Footprint=LED_1206
+Change Component Comment : Designator=D1 Old Comment=LED_1206_TOP New Comment=LED_1206
+Change Component Comment : Designator=D2 Old Comment=LED_1206_TOP New Comment=LED_1206
+Change component parameters: Designator = "D1" ("D1"); Footprint = "LED_1206_TOP"; UniqueID = "\DUFLVVCO" ("\DUFLVVCO")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sunrom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "6395"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "GREEN"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "LED_1206_TOP"; UniqueID = "\ZBTUHLYD" ("\ZBTUHLYD")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sunrom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "6394"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "RED"; VariantName = "[No Variations]"

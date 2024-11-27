@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=J14_Nets Member=VBATT_CTRL
+Removed Member From Class: ClassName=R33_Nets Member=VBATT_CTRL
+Removed Member From Class: ClassName=U4_Nets Member=VBATT_CTRL
+Change Net Name : Old Net Name=VBATT_CTRL New Net Name=VBATT_3V8_CTRL
+Added Member To Class: ClassName=J14_Nets Member=Wire VBATT_3V8_CTRL
+Added Member To Class: ClassName=R33_Nets Member=Wire VBATT_3V8_CTRL
+Added Member To Class: ClassName=U4_Nets Member=Wire VBATT_3V8_CTRL

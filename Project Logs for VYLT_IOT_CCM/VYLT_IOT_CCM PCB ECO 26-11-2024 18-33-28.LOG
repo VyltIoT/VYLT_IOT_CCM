@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=D4-1
+Removed Member From Class: ClassName=MODEM_PT2 Member=D4
+Removed Member From Class: ClassName=POWER Member=D4
+Removed Member From Class: ClassName=MODEM_PT2 Member=R56
+Added Member To Class: ClassName=POWER Member=Component D3 ERP_104-3
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R27 ERP_101-1
