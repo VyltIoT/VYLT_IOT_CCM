@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=R37_Nets Member=NetR37_1
+Removed Member From Class: ClassName=U8_Nets Member=NetR37_1
+Added Component: Designator=J19(2PX1R)
+Added Pin To Net: NetName=5V0 Pin=J19-1
+Added Pin To Net: NetName=NetJ19_2 Pin=J19-2
+Added Pin To Net: NetName=NetJ19_2 Pin=R37-1
+Added Pin To Net: NetName=NetJ19_2 Pin=U8-2
+Added Net: Name=NetJ19_2
+Added Class: Name=J19_Nets
+Added Member To Class: ClassName=MODEM_PT2 Member=Component J19 2PX1R
+Added Member To Class: ClassName=R37_Nets Member=Wire NetJ19_2
+Added Member To Class: ClassName=U8_Nets Member=Wire NetJ19_2

@@ -1,0 +1,35 @@
+Removed Member From Class: ClassName=R?_Nets Member=NetJ?_A5
+Removed Member From Class: ClassName=R?_Nets Member=NetJ?_B5
+Removed Member From Class: ClassName=R?_Nets Member=STM_USB_N
+Removed Member From Class: ClassName=R?_Nets Member=STM_USB_P
+Change Component Designator: OldDesignator=J? NewDesignator=J19
+Change Component Designator: OldDesignator=R? NewDesignator=R51
+Change Component Designator: OldDesignator=R? NewDesignator=R52
+Change Component Designator: OldDesignator=R? NewDesignator=R53
+Change Component Designator: OldDesignator=R? NewDesignator=R54
+Change Net Name : Old Net Name=NetJ?_A4 New Net Name=NetJ19_A4
+Change Net Name : Old Net Name=NetJ?_A5 New Net Name=NetJ19_A5
+Change Net Name : Old Net Name=NetJ?_A8 New Net Name=NetJ19_A8
+Change Net Name : Old Net Name=NetJ?_A9 New Net Name=NetJ19_A9
+Change Net Name : Old Net Name=NetJ?_B4 New Net Name=NetJ19_B4
+Change Net Name : Old Net Name=NetJ?_B5 New Net Name=NetJ19_B5
+Change Net Name : Old Net Name=NetJ?_B8 New Net Name=NetJ19_B8
+Change Net Name : Old Net Name=NetJ?_B9 New Net Name=NetJ19_B9
+Change Class Name : Old Net Name=R?_Nets New Net Name=J19_Nets
+Added Class: Name=R51_Nets
+Added Class: Name=R52_Nets
+Added Class: Name=R53_Nets
+Added Class: Name=R54_Nets
+Added Member To Class: ClassName=MCU Member=Component R52 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R53 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R54 ERP_101-1
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_A4
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_A5
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_A8
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_A9
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_B4
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_B5
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_B8
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_B9
+Added Rule: Name=Schematic Differential Pairs Routing_8
+Added Rule: Name=Schematic Differential Pairs Routing_9

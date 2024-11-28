@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=MCU Member=C9
+Remove Class Member: Failed to remove class member
+Added Member To Class: ClassName=MCU Member=Component C58 MLCC_0805
+Added Member To Class: ClassName=POWER Member=Component J11 2PX1R
+Added Member To Class: ClassName=MODEM_PT2 Member=Component Q1 ERP_105-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component SW3 Generic6X6

@@ -1,0 +1,3 @@
+Added Component: Designator=TP4(TP_1MM)
+Added Pin To Net: NetName=NetJ4_4 Pin=TP4-1
+Added Member To Class: ClassName=POWER Member=Component TP4 TP_1MM

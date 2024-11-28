@@ -1,0 +1,476 @@
+Removed Pin From Net: NetName=5V0 Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Member From Class: ClassName=MCU Member=C4
+Removed Member From Class: ClassName=MODEM_PT2 Member=C44
+Removed Member From Class: ClassName=MODEM_PT1 Member=R36
+Removed Member From Class: ClassName=MODEM_PT2 Member=R50
+Removed Member From Class: ClassName=C1_Nets Member=GND
+Removed Member From Class: ClassName=R4_Nets Member=GND
+Removed Member From Class: ClassName=R29_Nets Member=GNSS_ANT_VDD
+Removed Member From Class: ClassName=R30_Nets Member=MODEM_ANT_GNSS
+Removed Member From Class: ClassName=R28_Nets Member=MODEM_ANT_LTE
+Removed Member From Class: ClassName=R26_Nets Member=MODEM_LED_NETMODE
+Removed Member From Class: ClassName=R25_Nets Member=MODEM_LED_NETSTAT
+Removed Member From Class: ClassName=C14_Nets Member=MODEM_SD_3V3
+Removed Member From Class: ClassName=J12_Nets Member=MODEM_SD_3V3
+Removed Member From Class: ClassName=R16_Nets Member=MODEM_SD_CLK
+Removed Member From Class: ClassName=R15_Nets Member=MODEM_SD_CMD
+Removed Member From Class: ClassName=R17_Nets Member=MODEM_SD_DATA0
+Removed Member From Class: ClassName=R18_Nets Member=MODEM_SD_DATA1
+Removed Member From Class: ClassName=R13_Nets Member=MODEM_SD_DATA2
+Removed Member From Class: ClassName=R14_Nets Member=MODEM_SD_DATA3
+Removed Member From Class: ClassName=J12_Nets Member=MODEM_SD_DETECT
+Removed Member From Class: ClassName=R9_Nets Member=MODEM_SD_VDD
+Removed Member From Class: ClassName=R11_Nets Member=MODEM_SD_VDD
+Removed Member From Class: ClassName=R12_Nets Member=MODEM_SD_VDD
+Removed Member From Class: ClassName=R5_Nets Member=MODEM_USBBOOT
+Removed Member From Class: ClassName=R21_Nets Member=MODEM_USIM_CLK
+Removed Member From Class: ClassName=R23_Nets Member=MODEM_USIM_DATA
+Removed Member From Class: ClassName=R20_Nets Member=MODEM_USIM_RST
+Removed Member From Class: ClassName=C27_Nets Member=MODEM_VDDBB
+Removed Member From Class: ClassName=C1_Nets Member=MODEM_VDDEXT
+Removed Member From Class: ClassName=C5_Nets Member=MODEM_VDDEXT
+Removed Member From Class: ClassName=R1_Nets Member=MODEM_VDDEXT
+Removed Member From Class: ClassName=R3_Nets Member=MODEM_VDDEXT
+Removed Member From Class: ClassName=R23_Nets Member=NetC18_1
+Removed Member From Class: ClassName=R21_Nets Member=NetC19_1
+Removed Member From Class: ClassName=J13_Nets Member=NetC20_1
+Removed Member From Class: ClassName=R20_Nets Member=NetC20_1
+Removed Member From Class: ClassName=ANT_50R Member=NetC22_2
+Removed Member From Class: ClassName=R28_Nets Member=NetC22_2
+Removed Member From Class: ClassName=ANT_50R Member=NetC23_1
+Removed Member From Class: ClassName=C23_Nets Member=NetC23_1
+Removed Member From Class: ClassName=L1_Nets Member=NetC23_1
+Removed Member From Class: ClassName=ANT_50R Member=NetC23_2
+Removed Member From Class: ClassName=C23_Nets Member=NetC23_2
+Removed Member From Class: ClassName=C25_Nets Member=NetC23_2
+Removed Member From Class: ClassName=R30_Nets Member=NetC23_2
+Removed Member From Class: ClassName=D1_Nets Member=NetD1_2
+Removed Member From Class: ClassName=R25_Nets Member=NetD1_2
+Removed Member From Class: ClassName=R26_Nets Member=NetD2_2
+Removed Member From Class: ClassName=D3_Nets Member=NetD3_1
+Removed Member From Class: ClassName=TP4_Nets Member=NetJ9_1
+Removed Member From Class: ClassName=TP5_Nets Member=NetJ9_2
+Removed Member From Class: ClassName=TP6_Nets Member=NetJ9_3
+Removed Member From Class: ClassName=J10_Nets Member=NetJ10_A5
+Removed Member From Class: ClassName=R6_Nets Member=NetJ10_A5
+Removed Member From Class: ClassName=J10_Nets Member=NetJ10_A8
+Removed Member From Class: ClassName=J10_Nets Member=NetJ10_B5
+Removed Member From Class: ClassName=J10_Nets Member=NetJ10_B8
+Removed Member From Class: ClassName=J12_Nets Member=NetJ12_1
+Removed Member From Class: ClassName=R12_Nets Member=NetJ12_1
+Removed Member From Class: ClassName=R13_Nets Member=NetJ12_1
+Removed Member From Class: ClassName=J12_Nets Member=NetJ12_2
+Removed Member From Class: ClassName=R11_Nets Member=NetJ12_2
+Removed Member From Class: ClassName=R14_Nets Member=NetJ12_2
+Removed Member From Class: ClassName=J12_Nets Member=NetJ12_3
+Removed Member From Class: ClassName=R15_Nets Member=NetJ12_3
+Removed Member From Class: ClassName=J12_Nets Member=NetJ12_5
+Removed Member From Class: ClassName=R16_Nets Member=NetJ12_5
+Removed Member From Class: ClassName=J12_Nets Member=NetJ12_7
+Removed Member From Class: ClassName=R9_Nets Member=NetJ12_7
+Removed Member From Class: ClassName=R17_Nets Member=NetJ12_7
+Removed Member From Class: ClassName=J12_Nets Member=NetJ12_8
+Removed Member From Class: ClassName=R18_Nets Member=NetJ12_8
+Removed Member From Class: ClassName=J13_Nets Member=NetJ13_C6
+Removed Member From Class: ClassName=R33_Nets Member=NetJ27_2
+Removed Member From Class: ClassName=U4_Nets Member=NetJ27_2
+Removed Member From Class: ClassName=L1_Nets Member=NetL1_2
+Removed Member From Class: ClassName=R29_Nets Member=NetL1_2
+Removed Member From Class: ClassName=R1_Nets Member=NetR1_1
+Removed Member From Class: ClassName=R2_Nets Member=NetR1_1
+Removed Member From Class: ClassName=U1_Nets Member=NetR1_1
+Removed Member From Class: ClassName=R3_Nets Member=NetR3_1
+Removed Member From Class: ClassName=R4_Nets Member=NetR3_1
+Removed Member From Class: ClassName=U2_Nets Member=NetR3_1
+Removed Member From Class: ClassName=R5_Nets Member=NetR5_1
+Removed Member From Class: ClassName=SW1_Nets Member=NetR5_1
+Removed Member From Class: ClassName=R31_Nets Member=NetR31_1
+Removed Member From Class: ClassName=R31_Nets Member=NetR31_2
+Removed Member From Class: ClassName=U4_Nets Member=NetR31_2
+Removed Member From Class: ClassName=U2_Nets Member=NetU2_7
+Removed Member From Class: ClassName=U2_Nets Member=NetU2_8
+Removed Member From Class: ClassName=U2_Nets Member=NetU2_9
+Removed Member From Class: ClassName=U2_Nets Member=NetU2_12
+Removed Member From Class: ClassName=U2_Nets Member=NetU2_13
+Removed Member From Class: ClassName=U2_Nets Member=NetU2_14
+Removed Member From Class: ClassName=U4_Nets Member=NetU4_6
+Removed Member From Class: ClassName=R33_Nets Member=VBATT_3V8_CTRL
+Change Component Designator: OldDesignator=C1 NewDesignator=C28
+Change Component Designator: OldDesignator=C2 NewDesignator=C29
+Change Component Designator: OldDesignator=C3 NewDesignator=C25
+Change Component Designator: OldDesignator=C5 NewDesignator=C14
+Change Component Designator: OldDesignator=C6 NewDesignator=C15
+Change Component Designator: OldDesignator=C7 NewDesignator=C30
+Change Component Designator: OldDesignator=C8 NewDesignator=C31
+Change Component Designator: OldDesignator=C13 NewDesignator=C21
+Change Component Designator: OldDesignator=C14 NewDesignator=C22
+Change Component Designator: OldDesignator=C15 NewDesignator=C23
+Change Component Designator: OldDesignator=C16 NewDesignator=C24
+Change Component Designator: OldDesignator=C17 NewDesignator=C16
+Change Component Designator: OldDesignator=C18 NewDesignator=C17
+Change Component Designator: OldDesignator=C19 NewDesignator=C18
+Change Component Designator: OldDesignator=C20 NewDesignator=C19
+Change Component Designator: OldDesignator=C21 NewDesignator=C12
+Change Component Designator: OldDesignator=C22 NewDesignator=C13
+Change Component Designator: OldDesignator=C23 NewDesignator=C9
+Change Component Designator: OldDesignator=C24 NewDesignator=C10
+Change Component Designator: OldDesignator=C25 NewDesignator=C11
+Change Component Designator: OldDesignator=C26 NewDesignator=C8
+Change Component Designator: OldDesignator=C27 NewDesignator=C32
+Change Component Designator: OldDesignator=C28 NewDesignator=C33
+Change Component Designator: OldDesignator=C29 NewDesignator=C34
+Change Component Designator: OldDesignator=C30 NewDesignator=C35
+Change Component Designator: OldDesignator=C31 NewDesignator=C36
+Change Component Designator: OldDesignator=C32 NewDesignator=C37
+Change Component Designator: OldDesignator=C33 NewDesignator=C38
+Change Component Designator: OldDesignator=C34 NewDesignator=C39
+Change Component Designator: OldDesignator=C35 NewDesignator=C40
+Change Component Designator: OldDesignator=C36 NewDesignator=C41
+Change Component Designator: OldDesignator=C37 NewDesignator=C42
+Change Component Designator: OldDesignator=C38 NewDesignator=C43
+Change Component Designator: OldDesignator=C42 NewDesignator=C20
+Change Component Designator: OldDesignator=C44 NewDesignator=C27
+Change Component Designator: OldDesignator=C45 NewDesignator=C26
+Change Component Designator: OldDesignator=C48 NewDesignator=C1
+Change Component Designator: OldDesignator=C49 NewDesignator=C2
+Change Component Designator: OldDesignator=C54 NewDesignator=C3
+Change Component Designator: OldDesignator=C55 NewDesignator=C4
+Change Component Designator: OldDesignator=C56 NewDesignator=C5
+Change Component Designator: OldDesignator=C57 NewDesignator=C6
+Change Component Designator: OldDesignator=C58 NewDesignator=C7
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=D3 NewDesignator=D1
+Change Component Designator: OldDesignator=J1 NewDesignator=J9
+Change Component Designator: OldDesignator=J2 NewDesignator=J5
+Change Component Designator: OldDesignator=J3 NewDesignator=J6
+Change Component Designator: OldDesignator=J4 NewDesignator=J7
+Change Component Designator: OldDesignator=J5 NewDesignator=J1
+Change Component Designator: OldDesignator=J6 NewDesignator=J2
+Change Component Designator: OldDesignator=J7 NewDesignator=J3
+Change Component Designator: OldDesignator=J9 NewDesignator=J4
+Change Component Designator: OldDesignator=J10 NewDesignator=J15
+Change Component Designator: OldDesignator=J11 NewDesignator=J14
+Change Component Designator: OldDesignator=J12 NewDesignator=J18
+Change Component Designator: OldDesignator=J13 NewDesignator=J16
+Change Component Designator: OldDesignator=J14 NewDesignator=J19
+Change Component Designator: OldDesignator=J15 NewDesignator=J12
+Change Component Designator: OldDesignator=J16 NewDesignator=J13
+Change Component Designator: OldDesignator=J27 NewDesignator=J20
+Change Component Designator: OldDesignator=J28 NewDesignator=J10
+Change Component Designator: OldDesignator=J29 NewDesignator=J11
+Change Component Designator: OldDesignator=L1 NewDesignator=L2
+Change Component Designator: OldDesignator=L3 NewDesignator=L1
+Change Component Designator: OldDesignator=R1 NewDesignator=R27
+Change Component Designator: OldDesignator=R2 NewDesignator=R28
+Change Component Designator: OldDesignator=R3 NewDesignator=R29
+Change Component Designator: OldDesignator=R4 NewDesignator=R30
+Change Component Designator: OldDesignator=R5 NewDesignator=R39
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R15
+Change Component Designator: OldDesignator=R9 NewDesignator=R16
+Change Component Designator: OldDesignator=R10 NewDesignator=R17
+Change Component Designator: OldDesignator=R11 NewDesignator=R18
+Change Component Designator: OldDesignator=R12 NewDesignator=R19
+Change Component Designator: OldDesignator=R13 NewDesignator=R20
+Change Component Designator: OldDesignator=R14 NewDesignator=R21
+Change Component Designator: OldDesignator=R15 NewDesignator=R23
+Change Component Designator: OldDesignator=R16 NewDesignator=R24
+Change Component Designator: OldDesignator=R17 NewDesignator=R25
+Change Component Designator: OldDesignator=R18 NewDesignator=R26
+Change Component Designator: OldDesignator=R19 NewDesignator=R10
+Change Component Designator: OldDesignator=R20 NewDesignator=R11
+Change Component Designator: OldDesignator=R21 NewDesignator=R12
+Change Component Designator: OldDesignator=R22 NewDesignator=R13
+Change Component Designator: OldDesignator=R23 NewDesignator=R14
+Change Component Designator: OldDesignator=R24 NewDesignator=R22
+Change Component Designator: OldDesignator=R25 NewDesignator=R31
+Change Component Designator: OldDesignator=R26 NewDesignator=R33
+Change Component Designator: OldDesignator=R27 NewDesignator=R32
+Change Component Designator: OldDesignator=R28 NewDesignator=R5
+Change Component Designator: OldDesignator=R29 NewDesignator=R3
+Change Component Designator: OldDesignator=R30 NewDesignator=R4
+Change Component Designator: OldDesignator=R31 NewDesignator=R35
+Change Component Designator: OldDesignator=R32 NewDesignator=R36
+Change Component Designator: OldDesignator=R33 NewDesignator=R37
+Change Component Designator: OldDesignator=R34 NewDesignator=R38
+Change Component Designator: OldDesignator=R36 NewDesignator=R7
+Change Component Designator: OldDesignator=R37 NewDesignator=R8
+Change Component Designator: OldDesignator=R47 NewDesignator=R1
+Change Component Designator: OldDesignator=R48 NewDesignator=R2
+Change Component Designator: OldDesignator=R50 NewDesignator=R34
+Change Component Designator: OldDesignator=SW6 NewDesignator=SW2
+Change Component Designator: OldDesignator=SW7 NewDesignator=SW3
+Change Component Designator: OldDesignator=TP1 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP2 NewDesignator=TP8
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP1
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP2
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP3
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP4
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP6
+Change Component Designator: OldDesignator=U1 NewDesignator=U4
+Change Component Designator: OldDesignator=U2 NewDesignator=U6
+Change Component Designator: OldDesignator=U4 NewDesignator=U8
+Change Component Designator: OldDesignator=U5 NewDesignator=U2
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Change Component Designator: OldDesignator=U7 NewDesignator=U5
+Change Component Designator: OldDesignator=U10 NewDesignator=U1
+Added Component: Designator=J17(RECE.20279.001E.01)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Taoglas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RECE-20279-001E-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taoglas/RECE-20279-001E-01?qs=WUa1z%2FNV9%252B3mVij1vDlP0A%3D%3D"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetC18_1 New Net Name=NetC17_1
+Change Net Name : Old Net Name=NetC19_1 New Net Name=NetC18_1
+Change Net Name : Old Net Name=NetC20_1 New Net Name=NetC19_1
+Change Net Name : Old Net Name=NetC22_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetC23_1 New Net Name=NetC9_1
+Change Net Name : Old Net Name=NetC23_2 New Net Name=NetC9_2
+Change Net Name : Old Net Name=NetC48_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetC48_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetC56_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetJ9_1 New Net Name=NetJ4_1
+Change Net Name : Old Net Name=NetJ9_2 New Net Name=NetJ4_2
+Change Net Name : Old Net Name=NetJ9_3 New Net Name=NetJ4_3
+Change Net Name : Old Net Name=NetJ9_4 New Net Name=NetJ4_4
+Change Net Name : Old Net Name=NetJ9_5 New Net Name=NetJ4_5
+Change Net Name : Old Net Name=NetJ9_6 New Net Name=NetJ4_6
+Change Net Name : Old Net Name=NetJ10_A5 New Net Name=NetJ15_A5
+Change Net Name : Old Net Name=NetJ10_A8 New Net Name=NetJ15_A8
+Change Net Name : Old Net Name=NetJ10_B5 New Net Name=NetJ15_B5
+Change Net Name : Old Net Name=NetJ10_B8 New Net Name=NetJ15_B8
+Change Net Name : Old Net Name=NetJ12_1 New Net Name=NetJ18_1
+Change Net Name : Old Net Name=NetJ12_2 New Net Name=NetJ18_2
+Change Net Name : Old Net Name=NetJ12_3 New Net Name=NetJ18_3
+Change Net Name : Old Net Name=NetJ12_5 New Net Name=NetJ18_5
+Change Net Name : Old Net Name=NetJ12_7 New Net Name=NetJ18_7
+Change Net Name : Old Net Name=NetJ12_8 New Net Name=NetJ18_8
+Change Net Name : Old Net Name=NetJ13_C6 New Net Name=NetJ16_C6
+Change Net Name : Old Net Name=NetJ27_2 New Net Name=NetJ20_2
+Change Net Name : Old Net Name=NetL1_2 New Net Name=NetL2_2
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR27_1
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR29_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR39_1
+Change Net Name : Old Net Name=NetR31_1 New Net Name=NetR35_1
+Change Net Name : Old Net Name=NetR31_2 New Net Name=NetR35_2
+Change Net Name : Old Net Name=NetR47_2 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetSW6_2 New Net Name=NetSW2_2
+Change Net Name : Old Net Name=NetSW6_4 New Net Name=NetSW2_4
+Change Net Name : Old Net Name=NetSW7_2 New Net Name=NetSW3_2
+Change Net Name : Old Net Name=NetSW7_4 New Net Name=NetSW3_4
+Change Net Name : Old Net Name=NetU2_7 New Net Name=NetU6_7
+Change Net Name : Old Net Name=NetU2_8 New Net Name=NetU6_8
+Change Net Name : Old Net Name=NetU2_9 New Net Name=NetU6_9
+Change Net Name : Old Net Name=NetU2_12 New Net Name=NetU6_12
+Change Net Name : Old Net Name=NetU2_13 New Net Name=NetU6_13
+Change Net Name : Old Net Name=NetU2_14 New Net Name=NetU6_14
+Change Net Name : Old Net Name=NetU4_6 New Net Name=NetU8_6
+Added Pin To Net: NetName=NetJ17_1 Pin=J17-1
+Added Net: Name=NetJ17_1
+Added Pin To Net: NetName=NetJ17_2 Pin=J17-2
+Added Net: Name=NetJ17_2
+Added Pin To Net: NetName=NetJ17_3 Pin=J17-3
+Added Net: Name=NetJ17_3
+Change Class Name : Old Net Name=C2_Nets New Net Name=C29_Nets
+Change Class Name : Old Net Name=C3_Nets New Net Name=C28_Nets
+Change Class Name : Old Net Name=C4_Nets New Net Name=C20_Nets
+Change Class Name : Old Net Name=C6_Nets New Net Name=C15_Nets
+Change Class Name : Old Net Name=C7_Nets New Net Name=C30_Nets
+Change Class Name : Old Net Name=C8_Nets New Net Name=C31_Nets
+Change Class Name : Old Net Name=C13_Nets New Net Name=C24_Nets
+Change Class Name : Old Net Name=C15_Nets New Net Name=C22_Nets
+Change Class Name : Old Net Name=C16_Nets New Net Name=C21_Nets
+Change Class Name : Old Net Name=C17_Nets New Net Name=C16_Nets
+Change Class Name : Old Net Name=C21_Nets New Net Name=C12_Nets
+Change Class Name : Old Net Name=C24_Nets New Net Name=C10_Nets
+Change Class Name : Old Net Name=C26_Nets New Net Name=C8_Nets
+Change Class Name : Old Net Name=C30_Nets New Net Name=C39_Nets
+Change Class Name : Old Net Name=C31_Nets New Net Name=C42_Nets
+Change Class Name : Old Net Name=C42_Nets New Net Name=C26_Nets
+Change Class Name : Old Net Name=J4_Nets New Net Name=J9_Nets
+Change Class Name : Old Net Name=J5_Nets New Net Name=J3_Nets
+Change Class Name : Old Net Name=J6_Nets New Net Name=J2_Nets
+Change Class Name : Old Net Name=J7_Nets New Net Name=J1_Nets
+Change Class Name : Old Net Name=J10_Nets New Net Name=J15_Nets
+Change Class Name : Old Net Name=J11_Nets New Net Name=J14_Nets
+Change Class Name : Old Net Name=J13_Nets New Net Name=J16_Nets
+Change Class Name : Old Net Name=J14_Nets New Net Name=J19_Nets
+Change Class Name : Old Net Name=R19_Nets New Net Name=R10_Nets
+Change Class Name : Old Net Name=R24_Nets New Net Name=R22_Nets
+Change Class Name : Old Net Name=R27_Nets New Net Name=R32_Nets
+Change Class Name : Old Net Name=R36_Nets New Net Name=R7_Nets
+Change Class Name : Old Net Name=R37_Nets New Net Name=R8_Nets
+Change Class Name : Old Net Name=R50_Nets New Net Name=R34_Nets
+Change Class Name : Old Net Name=TP1_Nets New Net Name=TP7_Nets
+Change Class Name : Old Net Name=TP2_Nets New Net Name=TP8_Nets
+Change Class Name : Old Net Name=TP3_Nets New Net Name=TP9_Nets
+Change Class Name : Old Net Name=U1_Nets New Net Name=U4_Nets
+Change Class Name : Old Net Name=U2_Nets New Net Name=U6_Nets
+Change Class Name : Old Net Name=U4_Nets New Net Name=U8_Nets
+Change Class Name : Old Net Name=U5_Nets New Net Name=U2_Nets
+Change Class Name : Old Net Name=U6_Nets New Net Name=U7_Nets
+Change Class Name : Old Net Name=U7_Nets New Net Name=U5_Nets
+Added Class: Name=C2_Nets
+Added Class: Name=C3_Nets
+Added Class: Name=C4_Nets
+Added Class: Name=C6_Nets
+Added Class: Name=C7_Nets
+Added Class: Name=C11_Nets
+Added Class: Name=C13_Nets
+Added Class: Name=C17_Nets
+Added Class: Name=J4_Nets
+Added Class: Name=J5_Nets
+Added Class: Name=J6_Nets
+Added Class: Name=J7_Nets
+Added Class: Name=J10_Nets
+Added Class: Name=J11_Nets
+Added Class: Name=J13_Nets
+Added Class: Name=J17_Nets
+Added Class: Name=L2_Nets
+Added Class: Name=R19_Nets
+Added Class: Name=R24_Nets
+Added Class: Name=R27_Nets
+Added Class: Name=R35_Nets
+Added Class: Name=R36_Nets
+Added Class: Name=R37_Nets
+Added Class: Name=R38_Nets
+Added Class: Name=R39_Nets
+Added Class: Name=TP1_Nets
+Added Class: Name=TP2_Nets
+Added Class: Name=TP3_Nets
+Added Class: Name=U1_Nets
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C42 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT1 Member=Component J17 RECE-20279-001E-01
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R9 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R38 ERP_101-1
+Added Member To Class: ClassName=C27_Nets Member=Wire 5V0
+Added Member To Class: ClassName=J20_Nets Member=Wire 5V0
+Added Member To Class: ClassName=C23_Nets Member=Wire GND
+Added Member To Class: ClassName=R9_Nets Member=Wire GND
+Added Member To Class: ClassName=R28_Nets Member=Wire GND
+Added Member To Class: ClassName=R30_Nets Member=Wire GND
+Added Member To Class: ClassName=R3_Nets Member=Wire GNSS_ANT_VDD
+Added Member To Class: ClassName=R4_Nets Member=Wire MODEM_ANT_GNSS
+Added Member To Class: ClassName=R5_Nets Member=Wire MODEM_ANT_LTE
+Added Member To Class: ClassName=SW2_Nets Member=Wire MODEM_CTRL_PWRKEY
+Added Member To Class: ClassName=SW3_Nets Member=Wire MODEM_CTRL_RESETN
+Added Member To Class: ClassName=R33_Nets Member=Wire MODEM_LED_NETMODE
+Added Member To Class: ClassName=R31_Nets Member=Wire MODEM_LED_NETSTAT
+Added Member To Class: ClassName=C23_Nets Member=Wire MODEM_SD_3V3
+Added Member To Class: ClassName=J18_Nets Member=Wire MODEM_SD_3V3
+Added Member To Class: ClassName=R23_Nets Member=Wire MODEM_SD_CMD
+Added Member To Class: ClassName=R25_Nets Member=Wire MODEM_SD_DATA0
+Added Member To Class: ClassName=R26_Nets Member=Wire MODEM_SD_DATA1
+Added Member To Class: ClassName=R20_Nets Member=Wire MODEM_SD_DATA2
+Added Member To Class: ClassName=R21_Nets Member=Wire MODEM_SD_DATA3
+Added Member To Class: ClassName=J18_Nets Member=Wire MODEM_SD_DETECT
+Added Member To Class: ClassName=R15_Nets Member=Wire MODEM_SD_VDD
+Added Member To Class: ClassName=R16_Nets Member=Wire MODEM_SD_VDD
+Added Member To Class: ClassName=R17_Nets Member=Wire MODEM_SD_VDD
+Added Member To Class: ClassName=R18_Nets Member=Wire MODEM_SD_VDD
+Added Member To Class: ClassName=R12_Nets Member=Wire MODEM_USIM_CLK
+Added Member To Class: ClassName=R14_Nets Member=Wire MODEM_USIM_DATA
+Added Member To Class: ClassName=R11_Nets Member=Wire MODEM_USIM_RST
+Added Member To Class: ClassName=R13_Nets Member=Wire MODEM_USIM_VDD
+Added Member To Class: ClassName=C40_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=C41_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=C43_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=C14_Nets Member=Wire MODEM_VDDEXT
+Added Member To Class: ClassName=C25_Nets Member=Wire MODEM_VDDEXT
+Added Member To Class: ClassName=R29_Nets Member=Wire MODEM_VDDEXT
+Added Member To Class: ClassName=C1_Nets Member=Wire NetC1_1
+Added Member To Class: ClassName=C1_Nets Member=Wire NetC1_2
+Added Member To Class: ClassName=C5_Nets Member=Wire NetC5_1
+Added Member To Class: ClassName=L1_Nets Member=Wire NetC5_1
+Added Member To Class: ClassName=R1_Nets Member=Wire NetC5_1
+Added Member To Class: ClassName=ANT_50R Member=Wire NetC9_1
+Added Member To Class: ClassName=C9_Nets Member=Wire NetC9_1
+Added Member To Class: ClassName=J12_Nets Member=Wire NetC9_1
+Added Member To Class: ClassName=ANT_50R Member=Wire NetC9_2
+Added Member To Class: ClassName=C9_Nets Member=Wire NetC9_2
+Added Member To Class: ClassName=R4_Nets Member=Wire NetC9_2
+Added Member To Class: ClassName=ANT_50R Member=Wire NetC13_2
+Added Member To Class: ClassName=R5_Nets Member=Wire NetC13_2
+Added Member To Class: ClassName=J16_Nets Member=Wire NetC17_1
+Added Member To Class: ClassName=R13_Nets Member=Wire NetC17_1
+Added Member To Class: ClassName=R14_Nets Member=Wire NetC17_1
+Added Member To Class: ClassName=R12_Nets Member=Wire NetC18_1
+Added Member To Class: ClassName=R11_Nets Member=Wire NetC19_1
+Added Member To Class: ClassName=D1_Nets Member=Wire NetD1_1
+Added Member To Class: ClassName=L1_Nets Member=Wire NetD1_1
+Added Member To Class: ClassName=R31_Nets Member=Wire NetD2_2
+Added Member To Class: ClassName=D3_Nets Member=Wire NetD3_2
+Added Member To Class: ClassName=R33_Nets Member=Wire NetD3_2
+Added Member To Class: ClassName=TP4_Nets Member=Wire NetJ4_4
+Added Member To Class: ClassName=TP5_Nets Member=Wire NetJ4_5
+Added Member To Class: ClassName=TP6_Nets Member=Wire NetJ4_6
+Added Member To Class: ClassName=J15_Nets Member=Wire NetJ15_A5
+Added Member To Class: ClassName=R6_Nets Member=Wire NetJ15_A5
+Added Member To Class: ClassName=J15_Nets Member=Wire NetJ15_A8
+Added Member To Class: ClassName=J15_Nets Member=Wire NetJ15_B5
+Added Member To Class: ClassName=R9_Nets Member=Wire NetJ15_B5
+Added Member To Class: ClassName=J15_Nets Member=Wire NetJ15_B8
+Added Member To Class: ClassName=J16_Nets Member=Wire NetJ16_C6
+Added Member To Class: ClassName=J18_Nets Member=Wire NetJ18_1
+Added Member To Class: ClassName=R20_Nets Member=Wire NetJ18_1
+Added Member To Class: ClassName=J18_Nets Member=Wire NetJ18_2
+Added Member To Class: ClassName=R18_Nets Member=Wire NetJ18_2
+Added Member To Class: ClassName=R21_Nets Member=Wire NetJ18_2
+Added Member To Class: ClassName=J18_Nets Member=Wire NetJ18_3
+Added Member To Class: ClassName=R17_Nets Member=Wire NetJ18_3
+Added Member To Class: ClassName=R23_Nets Member=Wire NetJ18_3
+Added Member To Class: ClassName=J18_Nets Member=Wire NetJ18_5
+Added Member To Class: ClassName=J18_Nets Member=Wire NetJ18_7
+Added Member To Class: ClassName=R16_Nets Member=Wire NetJ18_7
+Added Member To Class: ClassName=R25_Nets Member=Wire NetJ18_7
+Added Member To Class: ClassName=J18_Nets Member=Wire NetJ18_8
+Added Member To Class: ClassName=R15_Nets Member=Wire NetJ18_8
+Added Member To Class: ClassName=R26_Nets Member=Wire NetJ18_8
+Added Member To Class: ClassName=J20_Nets Member=Wire NetJ20_2
+Added Member To Class: ClassName=U8_Nets Member=Wire NetJ20_2
+Added Member To Class: ClassName=R3_Nets Member=Wire NetL2_2
+Added Member To Class: ClassName=R1_Nets Member=Wire NetR1_2
+Added Member To Class: ClassName=R2_Nets Member=Wire NetR1_2
+Added Member To Class: ClassName=R28_Nets Member=Wire NetR27_1
+Added Member To Class: ClassName=U4_Nets Member=Wire NetR27_1
+Added Member To Class: ClassName=R29_Nets Member=Wire NetR29_1
+Added Member To Class: ClassName=R30_Nets Member=Wire NetR29_1
+Added Member To Class: ClassName=U6_Nets Member=Wire NetR29_1
+Added Member To Class: ClassName=U8_Nets Member=Wire NetR35_2
+Added Member To Class: ClassName=SW1_Nets Member=Wire NetR39_1
+Added Member To Class: ClassName=SW3_Nets Member=Wire NetSW3_2
+Added Member To Class: ClassName=SW3_Nets Member=Wire NetSW3_4
+Added Member To Class: ClassName=U6_Nets Member=Wire NetU6_7
+Added Member To Class: ClassName=U6_Nets Member=Wire NetU6_8
+Added Member To Class: ClassName=U6_Nets Member=Wire NetU6_9
+Added Member To Class: ClassName=U6_Nets Member=Wire NetU6_12
+Added Member To Class: ClassName=U6_Nets Member=Wire NetU6_13
+Added Member To Class: ClassName=U6_Nets Member=Wire NetU6_14
+Added Member To Class: ClassName=U8_Nets Member=Wire NetU8_6
+Added Member To Class: ClassName=J19_Nets Member=Wire STM_I2C3_SCL
+Added Member To Class: ClassName=J19_Nets Member=Wire STM_SPI2_MOSI
+Added Member To Class: ClassName=J19_Nets Member=Wire STM_SPI2_SCK
+Added Member To Class: ClassName=J19_Nets Member=Wire STM_UART1_RX
+Added Member To Class: ClassName=J19_Nets Member=Wire STM_UART6_RX
+Added Member To Class: ClassName=J19_Nets Member=Wire STM_USB_DP
+Added Rule: Name=Schematic Differential Pairs Routing_3
+Added Rule: Name=Schematic Differential Pairs Routing_5
+Added Rule: Name=Schematic Width Constraint_8
+Added Rule: Name=Schematic Width Constraint_10
+Added Rule: Name=Schematic Width Constraint_13
+Added Rule: Name=Schematic Width Constraint_14
+Added Rule: Name=Schematic Width Constraint_15
+Added Rule: Name=Schematic Width Constraint_16
+Added Rule: Name=Schematic Width Constraint_23
+Added Rule: Name=Schematic Width Constraint_24
+Added Rule: Name=Schematic Width Constraint_25
+Added Rule: Name=Schematic Width Constraint_26

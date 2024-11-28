@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=3V3 Pin=J23-1
+Removed Pin From Net: NetName=ESP_TX0 Pin=J23-2
+Removed Pin From Net: NetName=ESP_TDI Pin=J23-3
+Removed Pin From Net: NetName=ESP_TCK Pin=J23-4
+Removed Pin From Net: NetName=ESP_RX0 Pin=J24-1
+Removed Pin From Net: NetName=ESP_TMS Pin=J24-2
+Removed Pin From Net: NetName=ESP_TDO Pin=J24-3
+Removed Member From Class: ClassName=J23_Nets Member=3V3
+Removed Member From Class: ClassName=J24_Nets Member=ESP_IO34
+Removed Member From Class: ClassName=J23_Nets Member=ESP_IO35
+Removed Member From Class: ClassName=J24_Nets Member=ESP_IO36
+Removed Member From Class: ClassName=J23_Nets Member=ESP_IO37
+Removed Member From Class: ClassName=J24_Nets Member=ESP_IO38
+Removed Member From Class: ClassName=J24_Nets Member=ESP_RX0
+Removed Member From Class: ClassName=J23_Nets Member=ESP_TCK
+Removed Member From Class: ClassName=J23_Nets Member=ESP_TDI
+Removed Member From Class: ClassName=J24_Nets Member=ESP_TDO
+Removed Member From Class: ClassName=J23_Nets Member=ESP_TX0
+Added Pin To Net: NetName=ESP_IO1 Pin=J23-1
+Added Pin To Net: NetName=ESP_IO2 Pin=J23-2
+Added Pin To Net: NetName=ESP_RX0 Pin=J23-3
+Added Pin To Net: NetName=3V3 Pin=J24-1
+Added Pin To Net: NetName=ESP_TX0 Pin=J24-2
+Added Pin To Net: NetName=ESP_TMS Pin=J24-3
+Change Net Name : Old Net Name=ESP_IO34 New Net Name=NetJ24_6
+Change Net Name : Old Net Name=ESP_IO35 New Net Name=NetJ23_6
+Change Net Name : Old Net Name=ESP_IO36 New Net Name=NetJ24_5
+Change Net Name : Old Net Name=ESP_IO37 New Net Name=NetJ23_5
+Change Net Name : Old Net Name=ESP_IO38 New Net Name=NetJ24_4
+Added Pin To Net: NetName=NetJ23_4 Pin=J23-4
+Added Net: Name=NetJ23_4
+Added Member To Class: ClassName=MCU Member=Component J20 ERP_148-2
+Added Member To Class: ClassName=J24_Nets Member=Wire 3V3
+Added Member To Class: ClassName=J23_Nets Member=Wire ESP_IO1
+Added Member To Class: ClassName=J23_Nets Member=Wire ESP_IO2
+Added Member To Class: ClassName=J23_Nets Member=Wire ESP_RX0
+Added Member To Class: ClassName=J24_Nets Member=Wire ESP_TX0
+Added Member To Class: ClassName=J23_Nets Member=Wire NetJ23_4
+Added Member To Class: ClassName=J23_Nets Member=Wire NetJ23_5
+Added Member To Class: ClassName=J23_Nets Member=Wire NetJ23_6
+Added Member To Class: ClassName=J24_Nets Member=Wire NetJ24_4
+Added Member To Class: ClassName=J24_Nets Member=Wire NetJ24_5
+Added Member To Class: ClassName=J24_Nets Member=Wire NetJ24_6

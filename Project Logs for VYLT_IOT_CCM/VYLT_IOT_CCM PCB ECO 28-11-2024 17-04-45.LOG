@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=MCU Member=J29
+Removed Member From Class: ClassName=J19_Nets Member=NetJ29_2
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_2

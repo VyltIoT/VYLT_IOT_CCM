@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=ESP_TMS Pin=J20-5
+Removed Pin From Net: NetName=ESP_TDI Pin=J20-6
+Removed Pin From Net: NetName=ESP_RX0 Pin=J23-2
+Removed Pin From Net: NetName=3V3 Pin=J24-1
+Removed Member From Class: ClassName=J24_Nets Member=3V3
+Removed Member From Class: ClassName=J23_Nets Member=ESP_RX0
+Removed Member From Class: ClassName=J20_Nets Member=ESP_TDI
+Removed Member From Class: ClassName=J20_Nets Member=ESP_TMS
+Removed Member From Class: ClassName=J24_Nets Member=NetJ24_2
+Added Pin To Net: NetName=ESP_TMS Pin=J23-2
+Added Pin To Net: NetName=ESP_RX0 Pin=J24-1
+Added Pin To Net: NetName=ESP_TDI Pin=J24-2
+Added Pin To Net: NetName=NetJ20_5 Pin=J20-5
+Added Net: Name=NetJ20_5
+Added Pin To Net: NetName=NetJ20_6 Pin=J20-6
+Added Net: Name=NetJ20_6
+Added Member To Class: ClassName=J24_Nets Member=Wire ESP_RX0
+Added Member To Class: ClassName=J24_Nets Member=Wire ESP_TDI
+Added Member To Class: ClassName=J23_Nets Member=Wire ESP_TMS
+Added Member To Class: ClassName=J20_Nets Member=Wire NetJ20_5
+Added Member To Class: ClassName=J20_Nets Member=Wire NetJ20_6

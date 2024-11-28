@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=R37_Nets Member=NetJ29_2
+Removed Member From Class: ClassName=U8_Nets Member=NetJ29_2
+Change Component Designator: OldDesignator=J29 NewDesignator=J19
+Change Net Name : Old Net Name=NetJ29_2 New Net Name=NetJ19_2
+Added Class: Name=J19_Nets
+Added Member To Class: ClassName=R37_Nets Member=Wire NetJ19_2
+Added Member To Class: ClassName=U8_Nets Member=Wire NetJ19_2

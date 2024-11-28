@@ -1,0 +1,226 @@
+Removed Member From Class: ClassName=MCU Member=C1
+Removed Member From Class: ClassName=MODEM_PT2 Member=C1
+Removed Member From Class: ClassName=MCU Member=C3
+Removed Member From Class: ClassName=MCU Member=C5
+Removed Member From Class: ClassName=MCU Member=C6
+Removed Member From Class: ClassName=MCU Member=C7
+Removed Member From Class: ClassName=POWER Member=C9
+Removed Member From Class: ClassName=STORAGE Member=C9
+Removed Member From Class: ClassName=STORAGE Member=C10
+Removed Member From Class: ClassName=POWER Member=C11
+Removed Member From Class: ClassName=STORAGE Member=C11
+Removed Member From Class: ClassName=STORAGE Member=C12
+Removed Member From Class: ClassName=POWER Member=C14
+Removed Member From Class: ClassName=MODEM_PT2 Member=C19
+Removed Member From Class: ClassName=STORAGE Member=C19
+Removed Member From Class: ClassName=MODEM_PT1 Member=C21
+Removed Member From Class: ClassName=MCU Member=C26
+Removed Member From Class: ClassName=MCU Member=C29
+Removed Member From Class: ClassName=POWER Member=C29
+Removed Member From Class: ClassName=POWER Member=C33
+Removed Member From Class: ClassName=MODEM_PT1 Member=C36
+Removed Member From Class: ClassName=POWER Member=C40
+Removed Member From Class: ClassName=MCU Member=C42
+Removed Member From Class: ClassName=MODEM_PT1 Member=C44
+Removed Member From Class: ClassName=MODEM_PT2 Member=C46
+Removed Member From Class: ClassName=MODEM_PT2 Member=C47
+Removed Member From Class: ClassName=MODEM_PT2 Member=D1
+Removed Member From Class: ClassName=POWER Member=D2
+Removed Member From Class: ClassName=MCU Member=J11
+Removed Member From Class: ClassName=STORAGE Member=J11
+Removed Member From Class: ClassName=MCU Member=J12
+Removed Member From Class: ClassName=POWER Member=J12
+Removed Member From Class: ClassName=MODEM_PT1 Member=J17
+Removed Member From Class: ClassName=MODEM_PT1 Member=J18
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=MODEM_PT1 Member=J21
+Removed Member From Class: ClassName=MODEM_PT2 Member=J21
+Removed Member From Class: ClassName=POWER Member=J21
+Removed Member From Class: ClassName=MODEM_PT2 Member=J24
+Removed Member From Class: ClassName=POWER Member=L2
+Removed Member From Class: ClassName=MCU Member=R1
+Removed Member From Class: ClassName=MODEM_PT2 Member=R3
+Removed Member From Class: ClassName=MCU Member=R5
+Removed Member From Class: ClassName=MODEM_PT2 Member=R5
+Removed Member From Class: ClassName=POWER Member=R5
+Removed Member From Class: ClassName=MODEM_PT2 Member=R7
+Removed Member From Class: ClassName=POWER Member=R7
+Removed Member From Class: ClassName=MODEM_PT2 Member=R8
+Removed Member From Class: ClassName=STORAGE Member=R8
+Removed Member From Class: ClassName=STORAGE Member=R10
+Removed Member From Class: ClassName=STORAGE Member=R11
+Removed Member From Class: ClassName=STORAGE Member=R12
+Removed Member From Class: ClassName=STORAGE Member=R14
+Removed Member From Class: ClassName=MODEM_PT1 Member=R16
+Removed Member From Class: ClassName=MODEM_PT1 Member=R18
+Removed Member From Class: ClassName=MODEM_PT1 Member=R30
+Removed Member From Class: ClassName=MODEM_PT1 Member=R31
+Removed Member From Class: ClassName=STORAGE Member=R31
+Removed Member From Class: ClassName=MCU Member=R34
+Removed Member From Class: ClassName=MODEM_PT1 Member=R39
+Removed Member From Class: ClassName=MODEM_PT2 Member=SW4
+Removed Member From Class: ClassName=MODEM_PT2 Member=SW5
+Removed Member From Class: ClassName=MODEM_PT2 Member=TP3
+Removed Member From Class: ClassName=MODEM_PT1 Member=TP4
+Removed Member From Class: ClassName=MODEM_PT1 Member=TP5
+Removed Member From Class: ClassName=POWER Member=TP7
+Removed Member From Class: ClassName=POWER Member=TP9
+Removed Member From Class: ClassName=MCU Member=U1
+Removed Member From Class: ClassName=MODEM_PT2 Member=U2
+Removed Member From Class: ClassName=STORAGE Member=U5
+Removed Member From Class: ClassName=POWER Member=U8
+Removed Member From Class: ClassName=C18_Nets Member=NetC17_1
+Removed Member From Class: ClassName=C19_Nets Member=NetC17_1
+Removed Member From Class: ClassName=R11_Nets Member=NetC17_1
+Removed Member From Class: ClassName=R12_Nets Member=NetC17_1
+Removed Member From Class: ClassName=D2_Nets Member=NetD3_2
+Removed Member From Class: ClassName=R31_Nets Member=NetD3_2
+Removed Member From Class: ClassName=J27_Nets Member=NetJ20_2
+Removed Member From Class: ClassName=J24_Nets Member=NetJ22_5
+Removed Member From Class: ClassName=J24_Nets Member=NetJ22_6
+Removed Member From Class: ClassName=J22_Nets Member=NetJ28_4
+Removed Member From Class: ClassName=J24_Nets Member=NetJ28_4
+Removed Member From Class: ClassName=J22_Nets Member=NetJ28_5
+Removed Member From Class: ClassName=J22_Nets Member=NetJ28_6
+Removed Member From Class: ClassName=SW7_Nets Member=NetSW3_2
+Removed Member From Class: ClassName=SW5_Nets Member=NetSW3_4
+Removed Member From Class: ClassName=SW7_Nets Member=NetSW3_4
+Removed Member From Class: ClassName=SW2_Nets Member=NetSW5_4
+Removed Member From Class: ClassName=SW6_Nets Member=NetSW5_4
+Removed Member From Class: ClassName=SW2_Nets Member=NetSW7_2
+Removed Member From Class: ClassName=SW5_Nets Member=NetSW7_2
+Removed Member From Class: ClassName=SW6_Nets Member=NetSW7_2
+Added Member To Class: ClassName=POWER Member=Component C1 MLCC_0805
+Added Member To Class: ClassName=POWER Member=Component C2 ERP_102-2
+Added Member To Class: ClassName=POWER Member=Component C3 MLCC_0805
+Added Member To Class: ClassName=POWER Member=Component C4 MLCC_0805
+Added Member To Class: ClassName=POWER Member=Component C5 ERP_102-2
+Added Member To Class: ClassName=POWER Member=Component C6 MLCC_0805
+Added Member To Class: ClassName=POWER Member=Component C7 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C8 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C13 ERP_102-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C14 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C15 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C18 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C19 MLCC_0805
+Added Member To Class: ClassName=STORAGE Member=Component C20 MLCC_0805
+Added Member To Class: ClassName=STORAGE Member=Component C22 MLCC_0805
+Added Member To Class: ClassName=STORAGE Member=Component C23 MLCC_0805
+Added Member To Class: ClassName=STORAGE Member=Component C24 MLCC_0805
+Added Member To Class: ClassName=STORAGE Member=Component C25 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C26 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C27 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C28 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C29 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C30 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C31 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C32 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C34 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C35 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C37 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C38 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C41 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C44 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C45 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C48 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C51 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C52 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C53 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C54 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C55 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C56 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C57 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C58 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C59 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C60 MLCC_0805
+Added Member To Class: ClassName=POWER Member=Component D1 ERP_104-3
+Added Member To Class: ClassName=MODEM_PT2 Member=Component D2 LED_1206
+Added Member To Class: ClassName=MODEM_PT2 Member=Component D3 LED_1206
+Added Member To Class: ClassName=POWER Member=Component J2 6PX1R_M
+Added Member To Class: ClassName=POWER Member=Component J6 6PX1R_M
+Added Member To Class: ClassName=POWER Member=Component J9 6PX1R_M
+Added Member To Class: ClassName=POWER Member=Component J10 2PX1R
+Added Member To Class: ClassName=POWER Member=Component J11 2PX1R
+Added Member To Class: ClassName=MODEM_PT1 Member=Component J14 2PX1R
+Added Member To Class: ClassName=MODEM_PT1 Member=Component J15 GSB1CA11101DSHR
+Added Member To Class: ClassName=MODEM_PT1 Member=Component J16 MUP-7801-1
+Added Member To Class: ClassName=STORAGE Member=Component J18 GTFP084
+Added Member To Class: ClassName=MODEM_PT2 Member=Component J19 20PX2R_M
+Added Member To Class: ClassName=MODEM_PT2 Member=Component J20 2PX1R
+Added Member To Class: ClassName=MCU Member=Component J22 ERP_148-2
+Added Member To Class: ClassName=MCU Member=Component J23 ERP_148-2
+Added Member To Class: ClassName=MCU Member=Component J29 GSB1CA11101DSHR
+Added Member To Class: ClassName=POWER Member=Component L1 ERP_103-3
+Added Member To Class: ClassName=POWER Member=Component R1 ERP_101-1
+Added Member To Class: ClassName=POWER Member=Component R2 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R4 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R5 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R7 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R8 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R9 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R13 ERP_101-1
+Added Member To Class: ClassName=STORAGE Member=Component R15 ERP_101-1
+Added Member To Class: ClassName=STORAGE Member=Component R16 ERP_101-1
+Added Member To Class: ClassName=STORAGE Member=Component R17 ERP_101-1
+Added Member To Class: ClassName=STORAGE Member=Component R18 ERP_101-1
+Added Member To Class: ClassName=STORAGE Member=Component R19 ERP_101-1
+Added Member To Class: ClassName=STORAGE Member=Component R20 ERP_101-1
+Added Member To Class: ClassName=STORAGE Member=Component R21 ERP_101-1
+Added Member To Class: ClassName=STORAGE Member=Component R23 ERP_101-1
+Added Member To Class: ClassName=STORAGE Member=Component R24 ERP_101-1
+Added Member To Class: ClassName=STORAGE Member=Component R25 ERP_101-1
+Added Member To Class: ClassName=STORAGE Member=Component R26 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R27 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R28 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R29 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R31 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R32 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R33 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R34 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R36 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R37 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R42 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R43 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R44 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R45 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R47 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R50 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component SW2 Generic6X6
+Added Member To Class: ClassName=MODEM_PT2 Member=Component SW3 Generic6X6
+Added Member To Class: ClassName=MCU Member=Component SW7 Generic6X6
+Added Member To Class: ClassName=POWER Member=Component TP1 TP_1MM
+Added Member To Class: ClassName=POWER Member=Component TP4 TP_1MM
+Added Member To Class: ClassName=POWER Member=Component TP6 TP_1MM
+Added Member To Class: ClassName=MODEM_PT1 Member=Component TP7 TP_1MM
+Added Member To Class: ClassName=MODEM_PT1 Member=Component TP8 TP_1MM
+Added Member To Class: ClassName=MODEM_PT2 Member=Component TP9 TP_1MM
+Added Member To Class: ClassName=POWER Member=Component U1 XL4015
+Added Member To Class: ClassName=STORAGE Member=Component U2 ERP_123-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component U4 TXS0108EPW
+Added Member To Class: ClassName=MODEM_PT2 Member=Component U6 TXS0108EPW
+Added Member To Class: ClassName=MODEM_PT2 Member=Component U7 ERP_123-1
+Added Member To Class: ClassName=MCU Member=Component U9 STM32F411RE
+Added Member To Class: ClassName=MCU Member=Component U10 ERP_123-1
+Added Member To Class: ClassName=C18_Nets Member=Wire NetC18_1
+Added Member To Class: ClassName=J16_Nets Member=Wire NetC18_1
+Added Member To Class: ClassName=R12_Nets Member=Wire NetC18_1
+Added Member To Class: ClassName=C19_Nets Member=Wire NetC19_1
+Added Member To Class: ClassName=J16_Nets Member=Wire NetC19_1
+Added Member To Class: ClassName=R11_Nets Member=Wire NetC19_1
+Added Member To Class: ClassName=D2_Nets Member=Wire NetD2_2
+Added Member To Class: ClassName=R31_Nets Member=Wire NetD2_2
+Added Member To Class: ClassName=J22_Nets Member=Wire NetJ22_4
+Added Member To Class: ClassName=J22_Nets Member=Wire NetJ22_5
+Added Member To Class: ClassName=J22_Nets Member=Wire NetJ22_6
+Added Member To Class: ClassName=J24_Nets Member=Wire NetJ24_4
+Added Member To Class: ClassName=J24_Nets Member=Wire NetJ24_5
+Added Member To Class: ClassName=J24_Nets Member=Wire NetJ24_6
+Added Member To Class: ClassName=J27_Nets Member=Wire NetJ27_2
+Added Member To Class: ClassName=SW2_Nets Member=Wire NetSW2_2
+Added Member To Class: ClassName=SW2_Nets Member=Wire NetSW2_4
+Added Member To Class: ClassName=SW5_Nets Member=Wire NetSW5_2
+Added Member To Class: ClassName=SW5_Nets Member=Wire NetSW5_4
+Added Member To Class: ClassName=SW6_Nets Member=Wire NetSW6_2
+Added Member To Class: ClassName=SW6_Nets Member=Wire NetSW6_4
+Added Member To Class: ClassName=SW7_Nets Member=Wire NetSW7_2
+Added Member To Class: ClassName=SW7_Nets Member=Wire NetSW7_4

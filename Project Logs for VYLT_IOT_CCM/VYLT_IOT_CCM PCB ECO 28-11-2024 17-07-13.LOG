@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=MCU Member=J29
+Removed Member From Class: ClassName=J19_Nets Member=NetJ29_2
+Added Component: Designator=J19(6PX1R_F)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ19_1 Pin=J19-1
+Added Pin To Net: NetName=NetJ19_2 Pin=J19-2
+Added Pin To Net: NetName=NetJ19_3 Pin=J19-3
+Added Pin To Net: NetName=NetJ19_4 Pin=J19-4
+Added Pin To Net: NetName=NetJ19_5 Pin=J19-5
+Added Pin To Net: NetName=NetJ19_6 Pin=J19-6
+Added Member To Class: ClassName=MCU Member=Component J19 ERP_148-2
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_1
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_2
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_3
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_4
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_5
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_6

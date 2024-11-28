@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=STM_USB_DP Pin=U9-45
+Removed Member From Class: ClassName=U9_Nets Member=STM_USB_DM
+Removed Member From Class: ClassName=U9_Nets Member=STM_USB_DP
+Added Component: Designator=J?(GSB1CA11101DSHR)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Amphenol ICC (Commercial Products)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GSB1CA11101DSHR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "24 (16+8 Dummy)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MUP-U23010-02"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J?-A1
+Added Pin To Net: NetName=GND Pin=J?-A12
+Added Pin To Net: NetName=GND Pin=J?-B1
+Added Pin To Net: NetName=GND Pin=J?-B12
+Added Pin To Net: NetName=GND Pin=J?-SH1
+Added Pin To Net: NetName=GND Pin=J?-SH2
+Added Pin To Net: NetName=GND Pin=J?-SH3
+Added Pin To Net: NetName=GND Pin=J?-SH4
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetJ?_A4 Pin=J?-A4
+Added Net: Name=NetJ?_A4
+Added Pin To Net: NetName=NetJ?_A5 Pin=J?-A5
+Added Pin To Net: NetName=NetJ?_A5 Pin=R?-1
+Added Net: Name=NetJ?_A5
+Added Pin To Net: NetName=NetJ?_A8 Pin=J?-A8
+Added Net: Name=NetJ?_A8
+Added Pin To Net: NetName=NetJ?_A9 Pin=J?-A9
+Added Net: Name=NetJ?_A9
+Added Pin To Net: NetName=NetJ?_B4 Pin=J?-B4
+Added Net: Name=NetJ?_B4
+Added Pin To Net: NetName=NetJ?_B5 Pin=J?-B5
+Added Pin To Net: NetName=NetJ?_B5 Pin=R?-1
+Added Net: Name=NetJ?_B5
+Added Pin To Net: NetName=NetJ?_B8 Pin=J?-B8
+Added Net: Name=NetJ?_B8
+Added Pin To Net: NetName=NetJ?_B9 Pin=J?-B9
+Added Net: Name=NetJ?_B9
+Added Pin To Net: NetName=STM_USB_N Pin=R?-2
+Added Pin To Net: NetName=STM_USB_N Pin=U9-44
+Added Net: Name=STM_USB_N
+Added Pin To Net: NetName=STM_USB_P Pin=R?-2
+Added Pin To Net: NetName=STM_USB_P Pin=U9-45
+Added Net: Name=STM_USB_P
+Added Pin To Net: NetName=USB3_N Pin=J?-A7
+Added Pin To Net: NetName=USB3_N Pin=J?-B7
+Added Pin To Net: NetName=USB3_N Pin=R?-1
+Added Net: Name=USB3_N
+Added Pin To Net: NetName=USB3_P Pin=J?-A6
+Added Pin To Net: NetName=USB3_P Pin=J?-B6
+Added Pin To Net: NetName=USB3_P Pin=R?-1
+Added Net: Name=USB3_P
+Added Class: Name=J?_Nets
+Added Class: Name=R?_Nets
+Added Differential Pair: Name=STM_USB
+Added Differential Pair: Name=USB3
+Added Member To Class: ClassName=MCU Member=Component J? GSB1CA11101DSHR
+Added Member To Class: ClassName=MCU Member=Component R? ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R? ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R? ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R? ERP_101-1
+Added Member To Class: ClassName=U9_Nets Member=Wire STM_USB_N
+Added Member To Class: ClassName=U9_Nets Member=Wire STM_USB_P
+Added Rule: Name=Schematic Differential Pairs Routing_1
+Added Rule: Name=Schematic Differential Pairs Routing_4
+Added Rule: Name=Schematic Differential Pairs Routing_6
+Added Rule: Name=Schematic Differential Pairs Routing_7
+Added Rule: Name=Schematic Routing Via Style_2
+Added Rule: Name=Schematic Routing Via Style_3

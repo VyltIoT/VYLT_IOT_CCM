@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C68-1
+Removed Pin From Net: NetName=STM_BOOT0 Pin=C68-2
+Removed Pin From Net: NetName=GND Pin=C69-1
+Removed Pin From Net: NetName=STM_NRST Pin=C69-2
+Removed Pin From Net: NetName=GND Pin=SW4-1
+Removed Member From Class: ClassName=MCU Member=C68
+Removed Member From Class: ClassName=MCU Member=C69
+Removed Member From Class: ClassName=SW4_Nets Member=GND
+Removed Member From Class: ClassName=U11_Nets Member=NetU11_39
+Added Pin To Net: NetName=3V3 Pin=SW4-1
+Change Net Name : Old Net Name=NetU11_39 New Net Name=STM_IO_C8
+Added Member To Class: ClassName=SW4_Nets Member=Wire 3V3
+Added Member To Class: ClassName=U11_Nets Member=Wire STM_IO_C8

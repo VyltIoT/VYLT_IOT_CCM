@@ -1,0 +1,121 @@
+Change component parameters: Designator = "J15" ("J15"); Footprint = "uFL_50R"; UniqueID = "\LIJPDPGS" ("\LIJPDPGS")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sunrom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "5345"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "L3W3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J16" ("J16"); Footprint = "uFL_50R"; UniqueID = "\QUUTPTSO" ("\QUUTPTSO")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sunrom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "5345"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "L3W3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=M2(ESP32-S3-WROOM-1U)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ESP32-S3-WROOM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetM2_1 Pin=M2-1
+Added Net: Name=NetM2_1
+Added Pin To Net: NetName=NetM2_2 Pin=M2-2
+Added Net: Name=NetM2_2
+Added Pin To Net: NetName=NetM2_3 Pin=M2-3
+Added Net: Name=NetM2_3
+Added Pin To Net: NetName=NetM2_4 Pin=M2-4
+Added Net: Name=NetM2_4
+Added Pin To Net: NetName=NetM2_5 Pin=M2-5
+Added Net: Name=NetM2_5
+Added Pin To Net: NetName=NetM2_6 Pin=M2-6
+Added Net: Name=NetM2_6
+Added Pin To Net: NetName=NetM2_7 Pin=M2-7
+Added Net: Name=NetM2_7
+Added Pin To Net: NetName=NetM2_8 Pin=M2-8
+Added Net: Name=NetM2_8
+Added Pin To Net: NetName=NetM2_9 Pin=M2-9
+Added Net: Name=NetM2_9
+Added Pin To Net: NetName=NetM2_10 Pin=M2-10
+Added Net: Name=NetM2_10
+Added Pin To Net: NetName=NetM2_11 Pin=M2-11
+Added Net: Name=NetM2_11
+Added Pin To Net: NetName=NetM2_12 Pin=M2-12
+Added Net: Name=NetM2_12
+Added Pin To Net: NetName=NetM2_13 Pin=M2-13
+Added Net: Name=NetM2_13
+Added Pin To Net: NetName=NetM2_14 Pin=M2-14
+Added Net: Name=NetM2_14
+Added Pin To Net: NetName=NetM2_15 Pin=M2-15
+Added Net: Name=NetM2_15
+Added Pin To Net: NetName=NetM2_16 Pin=M2-16
+Added Net: Name=NetM2_16
+Added Pin To Net: NetName=NetM2_17 Pin=M2-17
+Added Net: Name=NetM2_17
+Added Pin To Net: NetName=NetM2_18 Pin=M2-18
+Added Net: Name=NetM2_18
+Added Pin To Net: NetName=NetM2_19 Pin=M2-19
+Added Net: Name=NetM2_19
+Added Pin To Net: NetName=NetM2_20 Pin=M2-20
+Added Net: Name=NetM2_20
+Added Pin To Net: NetName=NetM2_21 Pin=M2-21
+Added Net: Name=NetM2_21
+Added Pin To Net: NetName=NetM2_22 Pin=M2-22
+Added Net: Name=NetM2_22
+Added Pin To Net: NetName=NetM2_23 Pin=M2-23
+Added Net: Name=NetM2_23
+Added Pin To Net: NetName=NetM2_24 Pin=M2-24
+Added Net: Name=NetM2_24
+Added Pin To Net: NetName=NetM2_25 Pin=M2-25
+Added Net: Name=NetM2_25
+Added Pin To Net: NetName=NetM2_26 Pin=M2-26
+Added Net: Name=NetM2_26
+Added Pin To Net: NetName=NetM2_27 Pin=M2-27
+Added Net: Name=NetM2_27
+Added Pin To Net: NetName=NetM2_28 Pin=M2-28
+Added Net: Name=NetM2_28
+Added Pin To Net: NetName=NetM2_29 Pin=M2-29
+Added Net: Name=NetM2_29
+Added Pin To Net: NetName=NetM2_30 Pin=M2-30
+Added Net: Name=NetM2_30
+Added Pin To Net: NetName=NetM2_31 Pin=M2-31
+Added Net: Name=NetM2_31
+Added Pin To Net: NetName=NetM2_32 Pin=M2-32
+Added Net: Name=NetM2_32
+Added Pin To Net: NetName=NetM2_33 Pin=M2-33
+Added Net: Name=NetM2_33
+Added Pin To Net: NetName=NetM2_34 Pin=M2-34
+Added Net: Name=NetM2_34
+Added Pin To Net: NetName=NetM2_35 Pin=M2-35
+Added Net: Name=NetM2_35
+Added Pin To Net: NetName=NetM2_36 Pin=M2-36
+Added Net: Name=NetM2_36
+Added Pin To Net: NetName=NetM2_37 Pin=M2-37
+Added Net: Name=NetM2_37
+Added Pin To Net: NetName=NetM2_38 Pin=M2-38
+Added Net: Name=NetM2_38
+Added Pin To Net: NetName=NetM2_39 Pin=M2-39
+Added Net: Name=NetM2_39
+Added Pin To Net: NetName=NetM2_40 Pin=M2-40
+Added Net: Name=NetM2_40
+Added Pin To Net: NetName=NetM2_41 Pin=M2-41
+Added Net: Name=NetM2_41
+Added Pin To Net: NetName=NetM2_42 Pin=M2-42
+Added Net: Name=NetM2_42
+Added Pin To Net: NetName=NetM2_43 Pin=M2-43
+Added Net: Name=NetM2_43
+Added Pin To Net: NetName=NetM2_44 Pin=M2-44
+Added Net: Name=NetM2_44
+Added Pin To Net: NetName=NetM2_45 Pin=M2-45
+Added Net: Name=NetM2_45
+Added Pin To Net: NetName=NetM2_46 Pin=M2-46
+Added Net: Name=NetM2_46
+Added Pin To Net: NetName=NetM2_47 Pin=M2-47
+Added Net: Name=NetM2_47
+Added Pin To Net: NetName=NetM2_48 Pin=M2-48
+Added Net: Name=NetM2_48
+Added Pin To Net: NetName=NetM2_49 Pin=M2-49
+Added Net: Name=NetM2_49
+Added Class: Name=M2_Nets
+Added Member To Class: ClassName=MCU Member=Component M2 ESP32-S3-WROOM-1(U)

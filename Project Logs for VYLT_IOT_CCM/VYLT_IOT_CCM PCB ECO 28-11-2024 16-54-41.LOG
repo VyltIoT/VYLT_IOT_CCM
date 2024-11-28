@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=5V0 Pin=J19-1
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=R37_Nets Member=NetJ19_2
+Removed Member From Class: ClassName=U8_Nets Member=NetJ19_2
+Removed Member From Class: ClassName=J27_Nets Member=NetJ25_3
+Removed Member From Class: ClassName=J27_Nets Member=NetJ25_5
+Removed Member From Class: ClassName=J27_Nets Member=NetJ25_6
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=U8-2
+Added Net: Name=NetR37_1
+Change Class Name : Old Net Name=J27_Nets New Net Name=J26_Nets
+Added Class: Name=J27_Nets
+Added Member To Class: ClassName=MCU Member=Component J22 ERP_148-2
+Added Member To Class: ClassName=MCU Member=Component J26 ERP_148-2
+Added Member To Class: ClassName=MCU Member=Component J28 GSB1CA11101DSHR
+Added Member To Class: ClassName=J26_Nets Member=Wire NetJ26_3
+Added Member To Class: ClassName=J26_Nets Member=Wire NetJ26_5
+Added Member To Class: ClassName=J26_Nets Member=Wire NetJ26_6
+Added Member To Class: ClassName=R37_Nets Member=Wire NetR37_1
+Added Member To Class: ClassName=U8_Nets Member=Wire NetR37_1

@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=STM_SPI2_NSS Pin=J20-1
+Removed Pin From Net: NetName=STM_SPI2_MISO Pin=J20-2
+Removed Pin From Net: NetName=STM_UART6_TX Pin=J20-3
+Removed Pin From Net: NetName=STM_I2C3_SDA Pin=J20-4
+Removed Pin From Net: NetName=STM_UART1_TX Pin=J20-5
+Removed Pin From Net: NetName=STM_USB_DM Pin=J20-6
+Removed Member From Class: ClassName=J20_Nets Member=STM_I2C3_SDA
+Removed Member From Class: ClassName=J20_Nets Member=STM_SPI2_MISO
+Removed Member From Class: ClassName=J20_Nets Member=STM_SPI2_NSS
+Removed Member From Class: ClassName=J20_Nets Member=STM_UART1_TX
+Removed Member From Class: ClassName=J20_Nets Member=STM_UART6_TX
+Removed Member From Class: ClassName=J20_Nets Member=STM_USB_DM
+Added Pin To Net: NetName=ESP_IO1 Pin=J20-1
+Added Pin To Net: NetName=ESP_IO2 Pin=J20-2
+Added Pin To Net: NetName=ESP_TX0 Pin=J20-3
+Added Pin To Net: NetName=ESP_RX0 Pin=J20-4
+Added Pin To Net: NetName=ESP_TMS Pin=J20-5
+Added Pin To Net: NetName=ESP_TDI Pin=J20-6
+Added Member To Class: ClassName=J20_Nets Member=Wire ESP_IO1
+Added Member To Class: ClassName=J20_Nets Member=Wire ESP_IO2
+Added Member To Class: ClassName=J20_Nets Member=Wire ESP_RX0
+Added Member To Class: ClassName=J20_Nets Member=Wire ESP_TDI
+Added Member To Class: ClassName=J20_Nets Member=Wire ESP_TMS
+Added Member To Class: ClassName=J20_Nets Member=Wire ESP_TX0

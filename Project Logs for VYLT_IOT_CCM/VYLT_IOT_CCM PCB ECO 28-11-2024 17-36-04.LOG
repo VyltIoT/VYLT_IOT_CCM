@@ -1,0 +1,46 @@
+Removed Member From Class: ClassName=M2_Nets Member=NetM2_8
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_20
+Added Component: Designator=D4(LED_1206)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Sunrom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "6395"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "GREEN"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED_1206)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Sunrom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "6395"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "GREEN"; VariantName = "[No Variations]"
+Added Component: Designator=R55(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R56(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=ESP_LED Pin=M2-8
+Added Pin To Net: NetName=ESP_LED Pin=R56-2
+Added Net: Name=ESP_LED
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R55-1
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R56-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=STM_LED Pin=R55-2
+Added Pin To Net: NetName=STM_LED Pin=U9-20
+Added Net: Name=STM_LED
+Added Class: Name=D4_Nets
+Added Class: Name=D5_Nets
+Added Class: Name=R55_Nets
+Added Class: Name=R56_Nets
+Added Member To Class: ClassName=MCU Member=Component D4 LED_1206
+Added Member To Class: ClassName=MCU Member=Component D5 LED_1206
+Added Member To Class: ClassName=MCU Member=Component R55 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R56 ERP_101-1
+Added Member To Class: ClassName=M2_Nets Member=Wire ESP_LED
+Added Member To Class: ClassName=U9_Nets Member=Wire STM_LED

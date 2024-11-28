@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=ESP_IO6 Pin=M2-6
+Removed Pin From Net: NetName=ESP_IO7 Pin=M2-7
+Removed Member From Class: ClassName=M2_Nets Member=ESP_IO4
+Removed Member From Class: ClassName=M2_Nets Member=ESP_IO5
+Removed Member From Class: ClassName=M2_Nets Member=ESP_IO6
+Removed Member From Class: ClassName=M2_Nets Member=ESP_IO7
+Removed Member From Class: ClassName=M2_Nets Member=ESP_IO15
+Removed Member From Class: ClassName=M2_Nets Member=ESP_IO16
+Change Net Name : Old Net Name=ESP_IO4 New Net Name=NetM2_4
+Change Net Name : Old Net Name=ESP_IO5 New Net Name=NetM2_5
+Change Net Name : Old Net Name=ESP_IO15 New Net Name=NetM2_8
+Change Net Name : Old Net Name=ESP_IO16 New Net Name=NetM2_9
+Added Pin To Net: NetName=NetM2_6 Pin=M2-6
+Added Net: Name=NetM2_6
+Added Pin To Net: NetName=NetM2_7 Pin=M2-7
+Added Net: Name=NetM2_7
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_4
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_5
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_6
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_7
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_8
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_9

@@ -1,0 +1,5 @@
+Remove Class Member: Failed to remove class member
+Added Member To Class: ClassName=MODEM_PT2 Member=Component J19 2PX1R
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_2
+Added Member To Class: ClassName=R37_Nets Member=Wire NetJ19_2
+Added Member To Class: ClassName=U8_Nets Member=Wire NetJ19_2
