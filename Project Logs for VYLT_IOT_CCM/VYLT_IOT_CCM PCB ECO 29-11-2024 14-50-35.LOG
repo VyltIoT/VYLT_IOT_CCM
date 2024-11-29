@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=STM_LED Pin=U9-20
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_14
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_15
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_21
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_22
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_23
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_24
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_25
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_26
+Added Pin To Net: NetName=STM_LED Pin=U9-26
+Change Net Name : Old Net Name=NetU9_14 New Net Name=STM_SYS_WKP
+Change Net Name : Old Net Name=NetU9_15 New Net Name=STM_IO_A1
+Change Net Name : Old Net Name=NetU9_21 New Net Name=STM_IO_A5
+Change Net Name : Old Net Name=NetU9_22 New Net Name=STM_IO_A6
+Change Net Name : Old Net Name=NetU9_23 New Net Name=STM_IO_A7
+Change Net Name : Old Net Name=NetU9_24 New Net Name=STM_IO_C4
+Change Net Name : Old Net Name=NetU9_25 New Net Name=STM_IO_C5
+Added Pin To Net: NetName=STM_IO_A4 Pin=U9-20
+Added Net: Name=STM_IO_A4
+Added Member To Class: ClassName=U9_Nets Member=Wire STM_IO_A1
+Added Member To Class: ClassName=U9_Nets Member=Wire STM_IO_A4
+Added Member To Class: ClassName=U9_Nets Member=Wire STM_IO_A5
+Added Member To Class: ClassName=U9_Nets Member=Wire STM_IO_A6
+Added Member To Class: ClassName=U9_Nets Member=Wire STM_IO_A7
+Added Member To Class: ClassName=U9_Nets Member=Wire STM_IO_C4
+Added Member To Class: ClassName=U9_Nets Member=Wire STM_IO_C5
+Added Member To Class: ClassName=U9_Nets Member=Wire STM_SYS_WKP

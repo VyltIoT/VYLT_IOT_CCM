@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=J21_Nets Member=NetJ21_4
+Removed Member From Class: ClassName=J24_Nets Member=NetJ24_1
+Removed Member From Class: ClassName=J25_Nets Member=NetJ25_1
+Added Pin To Net: NetName=3V3 Pin=J21-4
+Added Pin To Net: NetName=STM_NRST Pin=J24-1
+Added Pin To Net: NetName=GND Pin=J25-1
+Added Member To Class: ClassName=J21_Nets Member=Wire 3V3
+Added Member To Class: ClassName=J25_Nets Member=Wire GND
+Added Member To Class: ClassName=J24_Nets Member=Wire STM_NRST

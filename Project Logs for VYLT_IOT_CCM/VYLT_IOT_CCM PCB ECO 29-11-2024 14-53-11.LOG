@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=J26_Nets Member=NetJ26_2
+Removed Member From Class: ClassName=J27_Nets Member=NetJ27_1
+Removed Member From Class: ClassName=J27_Nets Member=NetJ27_2
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_27
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_28
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_29
+Added Pin To Net: NetName=STM_IO_B1 Pin=J27-2
+Added Pin To Net: NetName=STM_IO_B1 Pin=U9-27
+Added Net: Name=STM_IO_B1
+Added Pin To Net: NetName=STM_IO_B2 Pin=J26-2
+Added Pin To Net: NetName=STM_IO_B2 Pin=U9-28
+Added Net: Name=STM_IO_B2
+Added Pin To Net: NetName=STM_IO_B10 Pin=J27-1
+Added Pin To Net: NetName=STM_IO_B10 Pin=U9-29
+Added Net: Name=STM_IO_B10
+Added Member To Class: ClassName=J27_Nets Member=Wire STM_IO_B1
+Added Member To Class: ClassName=U9_Nets Member=Wire STM_IO_B1
+Added Member To Class: ClassName=J26_Nets Member=Wire STM_IO_B2
+Added Member To Class: ClassName=U9_Nets Member=Wire STM_IO_B2
+Added Member To Class: ClassName=J27_Nets Member=Wire STM_IO_B10
+Added Member To Class: ClassName=U9_Nets Member=Wire STM_IO_B10

@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=J27_Nets Member=STM_IO_A6
+Removed Member From Class: ClassName=J26_Nets Member=STM_IO_A7
+Change Net Name : Old Net Name=STM_IO_A6 New Net Name=NetJ27_4
+Change Net Name : Old Net Name=STM_IO_A7 New Net Name=NetJ26_4
+Added Member To Class: ClassName=J26_Nets Member=Wire NetJ26_4
+Added Member To Class: ClassName=J27_Nets Member=Wire NetJ27_4

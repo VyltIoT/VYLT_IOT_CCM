@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=STM_I2C3_SCL Pin=J22-4
+Removed Pin From Net: NetName=STM_UART1_RX Pin=J22-5
+Removed Member From Class: ClassName=J23_Nets Member=NetJ23_4
+Removed Member From Class: ClassName=J23_Nets Member=NetJ23_5
+Removed Member From Class: ClassName=J22_Nets Member=STM_I2C3_SCL
+Removed Member From Class: ClassName=J22_Nets Member=STM_UART1_RX
+Removed Member From Class: ClassName=J22_Nets Member=STM_USB_DP
+Added Pin To Net: NetName=STM_UART6_RX Pin=J22-4
+Added Pin To Net: NetName=STM_IO_C8 Pin=J23-4
+Added Pin To Net: NetName=STM_UART6_TX Pin=J23-5
+Change Net Name : Old Net Name=STM_USB_DP New Net Name=NetJ22_6
+Added Pin To Net: NetName=NetJ22_5 Pin=J22-5
+Added Net: Name=NetJ22_5
+Added Member To Class: ClassName=J22_Nets Member=Wire NetJ22_5
+Added Member To Class: ClassName=J22_Nets Member=Wire NetJ22_6
+Added Member To Class: ClassName=J23_Nets Member=Wire STM_IO_C8
+Added Member To Class: ClassName=J22_Nets Member=Wire STM_UART6_RX
+Added Member To Class: ClassName=J23_Nets Member=Wire STM_UART6_TX

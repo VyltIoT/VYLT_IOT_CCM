@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=STM_SPI2_MOSI Pin=J22-2
+Removed Pin From Net: NetName=STM_UART6_RX Pin=J22-3
+Removed Member From Class: ClassName=J23_Nets Member=ESP_IO2
+Removed Member From Class: ClassName=J23_Nets Member=NetJ23_3
+Removed Member From Class: ClassName=J22_Nets Member=STM_SPI2_MOSI
+Removed Member From Class: ClassName=J22_Nets Member=STM_UART6_RX
+Added Pin To Net: NetName=STM_UART1_TX Pin=J22-2
+Added Pin To Net: NetName=STM_I2C3_SDA Pin=J22-3
+Added Pin To Net: NetName=STM_UART1_RX Pin=J23-2
+Added Pin To Net: NetName=STM_I2C3_SCL Pin=J23-3
+Added Member To Class: ClassName=J23_Nets Member=Wire STM_I2C3_SCL
+Added Member To Class: ClassName=J22_Nets Member=Wire STM_I2C3_SDA
+Added Member To Class: ClassName=J23_Nets Member=Wire STM_UART1_RX
+Added Member To Class: ClassName=J22_Nets Member=Wire STM_UART1_TX

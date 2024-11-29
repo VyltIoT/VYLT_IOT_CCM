@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=STM_IO_C5 Pin=J26-3
+Removed Pin From Net: NetName=STM_IO_C4 Pin=J27-3
+Removed Member From Class: ClassName=J27_Nets Member=STM_IO_C4
+Removed Member From Class: ClassName=J26_Nets Member=STM_IO_C5
+Added Pin To Net: NetName=STM_IO_C4 Pin=J26-3
+Added Pin To Net: NetName=STM_IO_C5 Pin=J27-3
+Added Member To Class: ClassName=J26_Nets Member=Wire STM_IO_C4
+Added Member To Class: ClassName=J27_Nets Member=Wire STM_IO_C5

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=STM_SPI2_SCK Pin=J22-1
+Removed Member From Class: ClassName=J23_Nets Member=ESP_IO1
+Removed Member From Class: ClassName=J22_Nets Member=STM_SPI2_SCK
+Added Pin To Net: NetName=GND Pin=J22-1
+Added Pin To Net: NetName=3V3 Pin=J23-1
+Added Member To Class: ClassName=J23_Nets Member=Wire 3V3
+Added Member To Class: ClassName=J22_Nets Member=Wire GND

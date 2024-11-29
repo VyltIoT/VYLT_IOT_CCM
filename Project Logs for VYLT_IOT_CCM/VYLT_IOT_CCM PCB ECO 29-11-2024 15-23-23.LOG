@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC55_1 Pin=C55-1
+Removed Pin From Net: NetName=GND Pin=C55-2
+Removed Member From Class: ClassName=MCU Member=C55
+Removed Member From Class: ClassName=C56_Nets Member=NetC55_1
+Removed Member From Class: ClassName=R44_Nets Member=NetC55_1
+Removed Member From Class: ClassName=R46_Nets Member=NetC55_1
+Removed Member From Class: ClassName=U9_Nets Member=NetC55_1
+Change Net Name : Old Net Name=NetC55_1 New Net Name=NetC56_1
+Added Member To Class: ClassName=C56_Nets Member=Wire NetC56_1
+Added Member To Class: ClassName=R44_Nets Member=Wire NetC56_1
+Added Member To Class: ClassName=R46_Nets Member=Wire NetC56_1
+Added Member To Class: ClassName=U9_Nets Member=Wire NetC56_1

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=ESP_IO13 Pin=J20-5
+Removed Pin From Net: NetName=ESP_IO12 Pin=J20-6
+Removed Member From Class: ClassName=J20_Nets Member=ESP_IO12
+Removed Member From Class: ClassName=J20_Nets Member=ESP_IO13
+Removed Member From Class: ClassName=J24_Nets Member=NetJ24_3
+Removed Member From Class: ClassName=J25_Nets Member=NetJ25_3
+Added Pin To Net: NetName=ESP_IO12 Pin=J24-3
+Added Pin To Net: NetName=ESP_IO13 Pin=J25-3
+Added Pin To Net: NetName=NetJ20_5 Pin=J20-5
+Added Net: Name=NetJ20_5
+Added Pin To Net: NetName=NetJ20_6 Pin=J20-6
+Added Net: Name=NetJ20_6
+Added Member To Class: ClassName=J24_Nets Member=Wire ESP_IO12
+Added Member To Class: ClassName=J25_Nets Member=Wire ESP_IO13
+Added Member To Class: ClassName=J20_Nets Member=Wire NetJ20_5
+Added Member To Class: ClassName=J20_Nets Member=Wire NetJ20_6

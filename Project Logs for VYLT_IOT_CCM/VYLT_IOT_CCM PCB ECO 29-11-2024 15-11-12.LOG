@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_11
+Change Component Designator: OldDesignator= NewDesignator=U9
+Added Pin To Net: NetName=STM_LED Pin=U9-11
+Added Member To Class: ClassName=U9_Nets Member=Wire STM_LED

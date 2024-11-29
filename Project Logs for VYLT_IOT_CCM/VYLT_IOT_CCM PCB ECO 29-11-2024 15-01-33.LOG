@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=STM_UART2_RX Pin=J26-4
+Removed Pin From Net: NetName=STM_UART2_TX Pin=J27-4
+Removed Member From Class: ClassName=J26_Nets Member=STM_UART2_RX
+Removed Member From Class: ClassName=J27_Nets Member=STM_UART2_TX
+Added Pin To Net: NetName=STM_UART2_TX Pin=J26-4
+Added Pin To Net: NetName=STM_UART2_RX Pin=J27-4
+Added Member To Class: ClassName=J27_Nets Member=Wire STM_UART2_RX
+Added Member To Class: ClassName=J26_Nets Member=Wire STM_UART2_TX
