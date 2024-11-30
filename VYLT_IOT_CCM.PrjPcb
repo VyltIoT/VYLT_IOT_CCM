@@ -304,6 +304,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Design Rule Check - VYLT_IOT_CCM.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Project
 Value=IOT0-MODULE
