@@ -288,7 +288,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UAMSRTXW
 
 [Document15]
-DocumentPath=VYLT_IOT_CCM.Annotation
+DocumentPath=VYLT_IOT_CCM.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -306,6 +306,22 @@ DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for VYLT_IOT_CCM\Design Rule Check - VYLT_IOT_CCM.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.LDP
 DItemRevisionGUID=
 
 [Parameter1]

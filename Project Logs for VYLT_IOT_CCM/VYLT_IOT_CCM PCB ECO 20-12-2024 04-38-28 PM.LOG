@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=NetC9_1 Pin=J12-1
+Removed Pin From Net: NetName=GND Pin=J12-3
+Removed Pin From Net: NetName=NetC13_2 Pin=J13-1
+Removed Pin From Net: NetName=GND Pin=J13-3
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=J28_Nets Member=NetJ29_A4
+Removed Member From Class: ClassName=J28_Nets Member=NetJ29_A5
+Removed Member From Class: ClassName=R49_Nets Member=NetJ29_A5
+Removed Member From Class: ClassName=J28_Nets Member=NetJ29_A8
+Removed Member From Class: ClassName=J28_Nets Member=NetJ29_A9
+Removed Member From Class: ClassName=J28_Nets Member=NetJ29_B4
+Removed Member From Class: ClassName=J28_Nets Member=NetJ29_B5
+Removed Member From Class: ClassName=R55_Nets Member=NetJ29_B5
+Removed Member From Class: ClassName=J28_Nets Member=NetJ29_B8
+Removed Member From Class: ClassName=J28_Nets Member=NetJ29_B9
+Removed Member From Class: ClassName=SW7_Nets Member=NetSW5_2
+Removed Member From Class: ClassName=SW5_Nets Member=NetSW7_4
+Change Component Kind : Designator=C12 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=C13 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=C10 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=C11 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "C24" ("C24"); Footprint = "CAPC2012X13L"; UniqueID = "\PZJWLXTE" ("\PZJWLXTE")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J12" ("J12"); Footprint = "uFL_50R"; UniqueID = "\RRPJKBVV" ("\RRPJKBVV")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "L3W3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J13" ("J13"); Footprint = "uFL_50R"; UniqueID = "\GRGRMDEF" ("\GRGRMDEF")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "L3W3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J12-1
+Added Pin To Net: NetName=NetC9_1 Pin=J12-3
+Added Pin To Net: NetName=GND Pin=J13-1
+Added Pin To Net: NetName=NetC13_2 Pin=J13-3
+Added Class: Name=J30_Nets
+Added Class: Name=J31_Nets
+Added Class: Name=J32_Nets
+Added Class: Name=J33_Nets
+Added Member To Class: ClassName=MCU Member=Component C46 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C48 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C50 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C51 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C52 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C53 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C55 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C59 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C61 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component J21 ERP_148-2
+Added Member To Class: ClassName=MCU Member=Component J22 ERP_148-2
+Added Member To Class: ClassName=MCU Member=Component J26 ERP_148-2
+Added Member To Class: ClassName=MCU Member=Component J27 ERP_148-2
+Added Member To Class: ClassName=MCU Member=Component J28 GSB1CA11101DSHR
+Add Class Member: Failed to add class member : Component J30 Jumper Cap
+Add Class Member: Failed to add class member : Component J31 Jumper Cap
+Add Class Member: Failed to add class member : Component J32 Jumper Cap
+Add Class Member: Failed to add class member : Component J33 Jumper Cap
+Added Member To Class: ClassName=MCU Member=Component R40 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R47 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R48 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R51 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R53 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R54 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R56 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component SW4 Generic6X6
+Added Member To Class: ClassName=MCU Member=Component SW7 Generic6X6
+Added Member To Class: ClassName=J28_Nets Member=Wire NetJ28_A4
+Added Member To Class: ClassName=J28_Nets Member=Wire NetJ28_A5
+Added Member To Class: ClassName=R49_Nets Member=Wire NetJ28_A5
+Added Member To Class: ClassName=J28_Nets Member=Wire NetJ28_A8
+Added Member To Class: ClassName=J28_Nets Member=Wire NetJ28_A9
+Added Member To Class: ClassName=J28_Nets Member=Wire NetJ28_B4
+Added Member To Class: ClassName=J28_Nets Member=Wire NetJ28_B5
+Added Member To Class: ClassName=R55_Nets Member=Wire NetJ28_B5
+Added Member To Class: ClassName=J28_Nets Member=Wire NetJ28_B8
+Added Member To Class: ClassName=J28_Nets Member=Wire NetJ28_B9
+Added Member To Class: ClassName=SW5_Nets Member=Wire NetSW5_4
+Added Member To Class: ClassName=SW7_Nets Member=Wire NetSW7_2
