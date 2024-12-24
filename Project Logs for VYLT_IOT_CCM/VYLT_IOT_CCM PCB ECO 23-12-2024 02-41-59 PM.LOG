@@ -1,0 +1,19 @@
+Remove Class Member: Failed to remove class member
+Added Component: Designator=J32(6PX1R_F)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ32_1 Pin=J32-1
+Added Net: Name=NetJ32_1
+Added Pin To Net: NetName=NetJ32_2 Pin=J32-2
+Added Net: Name=NetJ32_2
+Added Pin To Net: NetName=NetJ32_3 Pin=J32-3
+Added Net: Name=NetJ32_3
+Added Pin To Net: NetName=NetJ32_4 Pin=J32-4
+Added Net: Name=NetJ32_4
+Added Pin To Net: NetName=NetJ32_5 Pin=J32-5
+Added Net: Name=NetJ32_5
+Added Pin To Net: NetName=NetJ32_6 Pin=J32-6
+Added Net: Name=NetJ32_6
+Added Class: Name=J32_Nets
+Added Member To Class: ClassName=MCU Member=Component J32 ERP_148-2

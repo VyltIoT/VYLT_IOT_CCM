@@ -1,0 +1,47 @@
+Removed Member From Class: ClassName=J32_Nets Member=NetJ32_A4
+Removed Member From Class: ClassName=J32_Nets Member=NetJ32_A5
+Removed Member From Class: ClassName=R45_Nets Member=NetJ32_A5
+Removed Member From Class: ClassName=J32_Nets Member=NetJ32_A8
+Removed Member From Class: ClassName=J32_Nets Member=NetJ32_A9
+Removed Member From Class: ClassName=J32_Nets Member=NetJ32_B4
+Removed Member From Class: ClassName=J32_Nets Member=NetJ32_B5
+Removed Member From Class: ClassName=R48_Nets Member=NetJ32_B5
+Removed Member From Class: ClassName=J32_Nets Member=NetJ32_B8
+Removed Member From Class: ClassName=J32_Nets Member=NetJ32_B9
+Removed Member From Class: ClassName=J33_Nets Member=NetJ33_C6
+Change Component Designator: OldDesignator=J19 NewDesignator=J30
+Change Component Designator: OldDesignator=J30 NewDesignator=J31
+Change Component Designator: OldDesignator=J31 NewDesignator=J32
+Change Component Designator: OldDesignator=J32 NewDesignator=J33
+Change Component Designator: OldDesignator=J33 NewDesignator=J19
+Change Net Name : Old Net Name=NetJ19_1 New Net Name=NetJ30_1
+Change Net Name : Old Net Name=NetJ19_2 New Net Name=NetJ30_2
+Change Net Name : Old Net Name=NetJ19_3 New Net Name=NetJ30_3
+Change Net Name : Old Net Name=NetJ19_4 New Net Name=NetJ30_4
+Change Net Name : Old Net Name=NetJ19_5 New Net Name=NetJ30_5
+Change Net Name : Old Net Name=NetJ19_6 New Net Name=NetJ30_6
+Change Net Name : Old Net Name=NetJ32_A4 New Net Name=NetJ33_A4
+Change Net Name : Old Net Name=NetJ32_A5 New Net Name=NetJ33_A5
+Change Net Name : Old Net Name=NetJ32_A8 New Net Name=NetJ33_A8
+Change Net Name : Old Net Name=NetJ32_A9 New Net Name=NetJ33_A9
+Change Net Name : Old Net Name=NetJ32_B4 New Net Name=NetJ33_B4
+Change Net Name : Old Net Name=NetJ32_B5 New Net Name=NetJ33_B5
+Change Net Name : Old Net Name=NetJ32_B8 New Net Name=NetJ33_B8
+Change Net Name : Old Net Name=NetJ32_B9 New Net Name=NetJ33_B9
+Change Net Name : Old Net Name=NetJ33_C6 New Net Name=NetJ19_C6
+Change Class Name : Old Net Name=J30_Nets New Net Name=J31_Nets
+Change Class Name : Old Net Name=J31_Nets New Net Name=J32_Nets
+Change Class Name : Old Net Name=J32_Nets New Net Name=J33_Nets
+Change Class Name : Old Net Name=J33_Nets New Net Name=J19_Nets
+Added Class: Name=J30_Nets
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_C6
+Added Member To Class: ClassName=J33_Nets Member=Wire NetJ33_A4
+Added Member To Class: ClassName=J33_Nets Member=Wire NetJ33_A5
+Added Member To Class: ClassName=R45_Nets Member=Wire NetJ33_A5
+Added Member To Class: ClassName=J33_Nets Member=Wire NetJ33_A8
+Added Member To Class: ClassName=J33_Nets Member=Wire NetJ33_A9
+Added Member To Class: ClassName=J33_Nets Member=Wire NetJ33_B4
+Added Member To Class: ClassName=J33_Nets Member=Wire NetJ33_B5
+Added Member To Class: ClassName=R48_Nets Member=Wire NetJ33_B5
+Added Member To Class: ClassName=J33_Nets Member=Wire NetJ33_B8
+Added Member To Class: ClassName=J33_Nets Member=Wire NetJ33_B9

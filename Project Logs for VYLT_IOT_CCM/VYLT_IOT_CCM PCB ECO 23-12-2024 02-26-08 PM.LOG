@@ -1,0 +1,38 @@
+Removed Member From Class: ClassName=POWER Member=J14
+Removed Member From Class: ClassName=POWER Member=J15
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=MODEM_PT1 Member=J21
+Removed Member From Class: ClassName=MODEM_PT1 Member=J23
+Removed Member From Class: ClassName=MODEM_PT1 Member=J24
+Removed Member From Class: ClassName=STORAGE Member=J24
+Removed Member From Class: ClassName=MODEM_PT2 Member=J25
+Removed Member From Class: ClassName=MODEM_PT2 Member=J31
+Removed Member From Class: ClassName=C56_Nets Member=NetC55_1
+Added Member To Class: ClassName=MCU Member=Component C47 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C49 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C51 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C53 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C55 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C57 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C59 MLCC_0805
+Add Class Member: Failed to add class member : Component J10 Jumper Cap
+Add Class Member: Failed to add class member : Component J11 Jumper Cap
+Added Member To Class: ClassName=POWER Member=Component J12 2PX1R
+Added Member To Class: ClassName=POWER Member=Component J13 2PX1R
+Added Member To Class: ClassName=MODEM_PT1 Member=Component J14 ERP_148-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component J15 ERP_148-1
+Add Class Member: Failed to add class member : Component J16 Jumper Cap
+Added Member To Class: ClassName=MODEM_PT1 Member=Component J18 GSB1CA11101DSHR
+Added Member To Class: ClassName=MODEM_PT1 Member=Component J19 MUP-7801-1
+Added Member To Class: ClassName=STORAGE Member=Component J20 GTFP084
+Added Member To Class: ClassName=MODEM_PT2 Member=Component J21 20PX2R_M
+Added Member To Class: ClassName=MODEM_PT2 Member=Component J23 2PX1R
+Added Member To Class: ClassName=MCU Member=Component J24 ERP_148-2
+Added Member To Class: ClassName=MCU Member=Component J25 ERP_148-2
+Added Member To Class: ClassName=MCU Member=Component J26 ERP_148-2
+Added Member To Class: ClassName=MCU Member=Component J27 ERP_148-2
+Added Member To Class: ClassName=MCU Member=Component J28 ERP_148-2
+Added Member To Class: ClassName=MCU Member=Component R42 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R45 ERP_101-1
+Added Member To Class: ClassName=C56_Nets Member=Wire NetC56_1
+Added Member To Class: ClassName=U9_Nets Member=Wire NetC56_1

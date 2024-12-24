@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_C6
+Change Component Designator: OldDesignator=J19 NewDesignator=J33
+Change Component Designator: OldDesignator=J33 NewDesignator=J19
+Change Net Name : Old Net Name=NetJ19_C6 New Net Name=NetJ33_C6
+Change Net Name : Old Net Name=NetJ33_1 New Net Name=NetJ19_1
+Change Net Name : Old Net Name=NetJ33_2 New Net Name=NetJ19_2
+Change Net Name : Old Net Name=NetJ33_3 New Net Name=NetJ19_3
+Change Net Name : Old Net Name=NetJ33_4 New Net Name=NetJ19_4
+Change Net Name : Old Net Name=NetJ33_5 New Net Name=NetJ19_5
+Change Net Name : Old Net Name=NetJ33_6 New Net Name=NetJ19_6
+Change Class Name : Old Net Name=J19_Nets New Net Name=J33_Nets
+Added Class: Name=J19_Nets
+Added Member To Class: ClassName=MCU Member=Component J30 ERP_148-2
+Added Member To Class: ClassName=MCU Member=Component J31 ERP_148-2
+Added Member To Class: ClassName=J33_Nets Member=Wire NetJ33_C6

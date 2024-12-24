@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=3V3 Pin=C44-1
+Removed Pin From Net: NetName=GND Pin=C44-2
+Removed Pin From Net: NetName=GND Pin=C58-2
+Removed Pin From Net: NetName=GND Pin=D5-1
+Removed Pin From Net: NetName=GND Pin=J29-A1
+Removed Pin From Net: NetName=GND Pin=J29-A12
+Removed Pin From Net: NetName=GND Pin=J29-B1
+Removed Pin From Net: NetName=GND Pin=J29-B12
+Removed Pin From Net: NetName=GND Pin=J29-SH1
+Removed Pin From Net: NetName=GND Pin=J29-SH2
+Removed Pin From Net: NetName=GND Pin=J29-SH3
+Removed Pin From Net: NetName=GND Pin=J29-SH4
+Removed Pin From Net: NetName=GND Pin=M2-1
+Removed Pin From Net: NetName=3V3 Pin=M2-2
+Removed Pin From Net: NetName=ESP_IO17 Pin=M2-10
+Removed Pin From Net: NetName=ESP_IO18 Pin=M2-11
+Removed Pin From Net: NetName=ESP_IO8 Pin=M2-12
+Removed Pin From Net: NetName=ESP_IO9 Pin=M2-17
+Removed Pin From Net: NetName=ESP_IO10 Pin=M2-18
+Removed Pin From Net: NetName=ESP_IO11 Pin=M2-19
+Removed Pin From Net: NetName=ESP_IO12 Pin=M2-20
+Removed Pin From Net: NetName=ESP_IO13 Pin=M2-21
+Removed Pin From Net: NetName=ESP_IO14 Pin=M2-22
+Removed Pin From Net: NetName=ESP_TCK Pin=M2-32
+Removed Pin From Net: NetName=ESP_TDO Pin=M2-33
+Removed Pin From Net: NetName=ESP_TDI Pin=M2-34
+Removed Pin From Net: NetName=ESP_TMS Pin=M2-35
+Removed Pin From Net: NetName=ESP_RX0 Pin=M2-36
+Removed Pin From Net: NetName=ESP_TX0 Pin=M2-37
+Removed Pin From Net: NetName=GND Pin=M2-40
+Removed Pin From Net: NetName=GND Pin=M2-41
+Removed Pin From Net: NetName=GND Pin=M2-42
+Removed Pin From Net: NetName=GND Pin=M2-43
+Removed Pin From Net: NetName=GND Pin=M2-44
+Removed Pin From Net: NetName=GND Pin=M2-45
+Removed Pin From Net: NetName=GND Pin=M2-46
+Removed Pin From Net: NetName=GND Pin=M2-47
+Removed Pin From Net: NetName=GND Pin=M2-48
+Removed Pin From Net: NetName=GND Pin=M2-49
+Removed Pin From Net: NetName=3V3 Pin=R46-2
+Removed Pin From Net: NetName=3V3 Pin=R47-2
+Removed Pin From Net: NetName=GND Pin=R48-1
+Removed Pin From Net: NetName=GND Pin=R51-2
+Removed Pin From Net: NetName=GND Pin=R56-2
+Removed Pin From Net: NetName=GND Pin=SW6-4
+Removed Pin From Net: NetName=GND Pin=SW7-1
+Removed Member From Class: ClassName=MCU Member=C44
+Removed Member From Class: ClassName=MCU Member=C58
+Removed Member From Class: ClassName=MCU Member=D5
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=MCU Member=J29
+Removed Member From Class: ClassName=MCU Member=M2
+Removed Member From Class: ClassName=MCU Member=R41
+Removed Member From Class: ClassName=MCU Member=R46
+Removed Member From Class: ClassName=MCU Member=R47
+Removed Member From Class: ClassName=MCU Member=R48
+Removed Member From Class: ClassName=MCU Member=R51
+Removed Member From Class: ClassName=MCU Member=R53
+Removed Member From Class: ClassName=MCU Member=R54
+Removed Member From Class: ClassName=MCU Member=R56
+Removed Member From Class: ClassName=MCU Member=SW6
+Removed Member From Class: ClassName=MCU Member=SW7
+Add Class Member: Failed to add class member : Component J30 Jumper Cap
+Add Class Member: Failed to add class member : Component J31 Jumper Cap
+Add Class Member: Failed to add class member : Component J32 Jumper Cap
+Add Class Member: Failed to add class member : Component J33 Jumper Cap

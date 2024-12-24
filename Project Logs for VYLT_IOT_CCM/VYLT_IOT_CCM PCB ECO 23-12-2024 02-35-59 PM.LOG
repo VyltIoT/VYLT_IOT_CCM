@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=MODEM_USIM_VDD Pin=J19-C1
+Removed Pin From Net: NetName=NetC19_1 Pin=J19-C2
+Removed Pin From Net: NetName=NetC18_1 Pin=J19-C3
+Removed Pin From Net: NetName=GND Pin=J19-C5
+Removed Pin From Net: NetName=NetC17_1 Pin=J19-C7
+Removed Pin From Net: NetName=MODEM_USIM_DET Pin=J19-CD
+Removed Pin From Net: NetName=GND Pin=J19-G1
+Removed Pin From Net: NetName=GND Pin=J19-G2
+Removed Pin From Net: NetName=GND Pin=J19-G3
+Removed Pin From Net: NetName=GND Pin=J19-G4
+Remove Class Member: Failed to remove class member
+Added Component: Designator=J30(6PX1R_F)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J50(MUP-7801-1)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "MUP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "MUP-C7801-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "7 (6 + 1)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ST2103SD1921"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MODEM_USIM_VDD Pin=J50-C1
+Added Pin To Net: NetName=NetC19_1 Pin=J50-C2
+Added Pin To Net: NetName=NetC18_1 Pin=J50-C3
+Added Pin To Net: NetName=GND Pin=J50-C5
+Added Pin To Net: NetName=NetC17_1 Pin=J50-C7
+Added Pin To Net: NetName=MODEM_USIM_DET Pin=J50-CD
+Added Pin To Net: NetName=GND Pin=J50-G1
+Added Pin To Net: NetName=GND Pin=J50-G2
+Added Pin To Net: NetName=GND Pin=J50-G3
+Added Pin To Net: NetName=GND Pin=J50-G4
+Added Pin To Net: NetName=NetJ30_1 Pin=J30-1
+Added Net: Name=NetJ30_1
+Added Pin To Net: NetName=NetJ30_2 Pin=J30-2
+Added Net: Name=NetJ30_2
+Added Pin To Net: NetName=NetJ30_3 Pin=J30-3
+Added Net: Name=NetJ30_3
+Added Pin To Net: NetName=NetJ30_4 Pin=J30-4
+Added Net: Name=NetJ30_4
+Added Pin To Net: NetName=NetJ30_5 Pin=J30-5
+Added Net: Name=NetJ30_5
+Added Pin To Net: NetName=NetJ30_6 Pin=J30-6
+Added Net: Name=NetJ30_6
+Added Pin To Net: NetName=NetJ50_C6 Pin=J50-C6
+Added Net: Name=NetJ50_C6
+Change Class Name : Old Net Name=J?_Nets New Net Name=J50_Nets
+Added Member To Class: ClassName=MCU Member=Component J30 ERP_148-2
+Added Member To Class: ClassName=MODEM_PT1 Member=Component J50 MUP-7801-1
+Added Member To Class: ClassName=J30_Nets Member=Wire NetJ30_1
+Added Member To Class: ClassName=J30_Nets Member=Wire NetJ30_2
+Added Member To Class: ClassName=J30_Nets Member=Wire NetJ30_3
+Added Member To Class: ClassName=J30_Nets Member=Wire NetJ30_4
+Added Member To Class: ClassName=J30_Nets Member=Wire NetJ30_5
+Added Member To Class: ClassName=J30_Nets Member=Wire NetJ30_6
+Added Member To Class: ClassName=J50_Nets Member=Wire NetJ50_C6

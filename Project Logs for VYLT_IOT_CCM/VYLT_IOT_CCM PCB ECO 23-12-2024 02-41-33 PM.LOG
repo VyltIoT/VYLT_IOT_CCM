@@ -1,0 +1,154 @@
+Removed Member From Class: ClassName=MODEM_PT2 Member=D1
+Removed Member From Class: ClassName=MODEM_PT1 Member=J4
+Removed Member From Class: ClassName=MODEM_PT1 Member=L1
+Removed Member From Class: ClassName=STORAGE Member=R9
+Removed Member From Class: ClassName=J20_Nets Member=NetJ20_C6
+Removed Member From Class: ClassName=J21_Nets Member=NetJ21_1
+Removed Member From Class: ClassName=R19_Nets Member=NetJ21_1
+Removed Member From Class: ClassName=R20_Nets Member=NetJ21_1
+Removed Member From Class: ClassName=J21_Nets Member=NetJ21_2
+Removed Member From Class: ClassName=R18_Nets Member=NetJ21_2
+Removed Member From Class: ClassName=R21_Nets Member=NetJ21_2
+Removed Member From Class: ClassName=J21_Nets Member=NetJ21_3
+Removed Member From Class: ClassName=R17_Nets Member=NetJ21_3
+Removed Member From Class: ClassName=R23_Nets Member=NetJ21_3
+Removed Member From Class: ClassName=J21_Nets Member=NetJ21_5
+Removed Member From Class: ClassName=R24_Nets Member=NetJ21_5
+Removed Member From Class: ClassName=J21_Nets Member=NetJ21_7
+Removed Member From Class: ClassName=R16_Nets Member=NetJ21_7
+Removed Member From Class: ClassName=R25_Nets Member=NetJ21_7
+Removed Member From Class: ClassName=J21_Nets Member=NetJ21_8
+Removed Member From Class: ClassName=R15_Nets Member=NetJ21_8
+Removed Member From Class: ClassName=R26_Nets Member=NetJ21_8
+Removed Member From Class: ClassName=J32_Nets Member=NetJ32_A4
+Removed Member From Class: ClassName=J32_Nets Member=NetJ32_A5
+Removed Member From Class: ClassName=R45_Nets Member=NetJ32_A5
+Removed Member From Class: ClassName=J32_Nets Member=NetJ32_A8
+Removed Member From Class: ClassName=J32_Nets Member=NetJ32_A9
+Removed Member From Class: ClassName=J32_Nets Member=NetJ32_B4
+Removed Member From Class: ClassName=J32_Nets Member=NetJ32_B5
+Removed Member From Class: ClassName=R48_Nets Member=NetJ32_B5
+Removed Member From Class: ClassName=J32_Nets Member=NetJ32_B8
+Removed Member From Class: ClassName=J32_Nets Member=NetJ32_B9
+Removed Member From Class: ClassName=R37_Nets Member=NetJ33_2
+Removed Member From Class: ClassName=U8_Nets Member=NetJ33_2
+Change Component Designator: OldDesignator=J19 NewDesignator=J32
+Change Component Designator: OldDesignator=J20 NewDesignator=J19
+Change Component Designator: OldDesignator=J21 NewDesignator=J20
+Change Component Designator: OldDesignator=J22 NewDesignator=J21
+Change Component Designator: OldDesignator=J32 NewDesignator=J33
+Change Component Designator: OldDesignator=J33 NewDesignator=J23
+Change Net Name : Old Net Name=NetJ19_1 New Net Name=NetJ32_1
+Change Net Name : Old Net Name=NetJ19_2 New Net Name=NetJ32_2
+Change Net Name : Old Net Name=NetJ19_3 New Net Name=NetJ32_3
+Change Net Name : Old Net Name=NetJ19_4 New Net Name=NetJ32_4
+Change Net Name : Old Net Name=NetJ19_5 New Net Name=NetJ32_5
+Change Net Name : Old Net Name=NetJ19_6 New Net Name=NetJ32_6
+Change Net Name : Old Net Name=NetJ20_C6 New Net Name=NetJ19_C6
+Change Net Name : Old Net Name=NetJ21_1 New Net Name=NetJ20_1
+Change Net Name : Old Net Name=NetJ21_2 New Net Name=NetJ20_2
+Change Net Name : Old Net Name=NetJ21_3 New Net Name=NetJ20_3
+Change Net Name : Old Net Name=NetJ21_5 New Net Name=NetJ20_5
+Change Net Name : Old Net Name=NetJ21_7 New Net Name=NetJ20_7
+Change Net Name : Old Net Name=NetJ21_8 New Net Name=NetJ20_8
+Change Net Name : Old Net Name=NetJ32_A4 New Net Name=NetJ33_A4
+Change Net Name : Old Net Name=NetJ32_A5 New Net Name=NetJ33_A5
+Change Net Name : Old Net Name=NetJ32_A8 New Net Name=NetJ33_A8
+Change Net Name : Old Net Name=NetJ32_A9 New Net Name=NetJ33_A9
+Change Net Name : Old Net Name=NetJ32_B4 New Net Name=NetJ33_B4
+Change Net Name : Old Net Name=NetJ32_B5 New Net Name=NetJ33_B5
+Change Net Name : Old Net Name=NetJ32_B8 New Net Name=NetJ33_B8
+Change Net Name : Old Net Name=NetJ32_B9 New Net Name=NetJ33_B9
+Change Net Name : Old Net Name=NetJ33_2 New Net Name=NetJ23_2
+Change Class Name : Old Net Name=J20_Nets New Net Name=J19_Nets
+Change Class Name : Old Net Name=J21_Nets New Net Name=J20_Nets
+Change Class Name : Old Net Name=J22_Nets New Net Name=J21_Nets
+Change Class Name : Old Net Name=J32_Nets New Net Name=J33_Nets
+Added Class: Name=J22_Nets
+Added Class: Name=J32_Nets
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C8 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component D3 LED_1206
+Added Member To Class: ClassName=MODEM_PT1 Member=Component J19 MUP-7801-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component L2 ERP_103-3
+Added Member To Class: ClassName=STORAGE Member=Component R17 ERP_101-1
+Added Member To Class: ClassName=POWER Member=Component TP1 TP_1MM
+Added Member To Class: ClassName=J23_Nets Member=Wire 5V0
+Added Member To Class: ClassName=J19_Nets Member=Wire NetJ19_C6
+Added Member To Class: ClassName=J20_Nets Member=Wire NetJ20_1
+Added Member To Class: ClassName=R19_Nets Member=Wire NetJ20_1
+Added Member To Class: ClassName=R20_Nets Member=Wire NetJ20_1
+Added Member To Class: ClassName=J20_Nets Member=Wire NetJ20_2
+Added Member To Class: ClassName=R18_Nets Member=Wire NetJ20_2
+Added Member To Class: ClassName=R21_Nets Member=Wire NetJ20_2
+Added Member To Class: ClassName=J20_Nets Member=Wire NetJ20_3
+Added Member To Class: ClassName=R17_Nets Member=Wire NetJ20_3
+Added Member To Class: ClassName=R23_Nets Member=Wire NetJ20_3
+Added Member To Class: ClassName=J20_Nets Member=Wire NetJ20_5
+Added Member To Class: ClassName=R24_Nets Member=Wire NetJ20_5
+Added Member To Class: ClassName=J20_Nets Member=Wire NetJ20_7
+Added Member To Class: ClassName=R16_Nets Member=Wire NetJ20_7
+Added Member To Class: ClassName=R25_Nets Member=Wire NetJ20_7
+Added Member To Class: ClassName=J20_Nets Member=Wire NetJ20_8
+Added Member To Class: ClassName=R15_Nets Member=Wire NetJ20_8
+Added Member To Class: ClassName=R26_Nets Member=Wire NetJ20_8
+Added Member To Class: ClassName=J23_Nets Member=Wire NetJ23_2
+Added Member To Class: ClassName=R37_Nets Member=Wire NetJ23_2
+Added Member To Class: ClassName=U8_Nets Member=Wire NetJ23_2
+Added Member To Class: ClassName=J33_Nets Member=Wire NetJ33_A4
+Added Member To Class: ClassName=J33_Nets Member=Wire NetJ33_A5
+Added Member To Class: ClassName=R45_Nets Member=Wire NetJ33_A5
+Added Member To Class: ClassName=J33_Nets Member=Wire NetJ33_A8
+Added Member To Class: ClassName=J33_Nets Member=Wire NetJ33_A9
+Added Member To Class: ClassName=J33_Nets Member=Wire NetJ33_B4
+Added Member To Class: ClassName=J33_Nets Member=Wire NetJ33_B5
+Added Member To Class: ClassName=R48_Nets Member=Wire NetJ33_B5
+Added Member To Class: ClassName=J33_Nets Member=Wire NetJ33_B8
+Added Member To Class: ClassName=J33_Nets Member=Wire NetJ33_B9
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_1
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_2
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_3
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_4
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_24
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_25
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_26
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_27
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_35
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_43
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_44
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_45
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_62
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_63
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_64
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_65
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_66
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_73
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_74
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_75
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_77
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_78
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_79
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_80
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_83
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_84
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_113
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_114
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_118
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_120
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_126
+Added Member To Class: ClassName=TP7_Nets Member=Wire NetM1_126
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_127
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_128
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_129
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_130
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_131
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_132
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_133
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_134
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_135
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_136
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_139
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_140
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_141
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_142
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_143
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_144

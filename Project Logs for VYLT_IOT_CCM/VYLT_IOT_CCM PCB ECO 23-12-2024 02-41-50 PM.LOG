@@ -1,0 +1,5 @@
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=MCU Member=J23
+Removed Member From Class: ClassName=MODEM_PT1 Member=J23
+Added Member To Class: ClassName=MODEM_PT1 Member=Component J19 MUP-7801-1
+Added Member To Class: ClassName=MCU Member=Component J33 GSB1CA11101DSHR

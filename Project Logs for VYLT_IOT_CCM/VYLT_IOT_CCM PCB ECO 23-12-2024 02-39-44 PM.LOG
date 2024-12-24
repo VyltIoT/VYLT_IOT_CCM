@@ -1,0 +1,925 @@
+Removed Pin From Net: NetName=MODEM_LED_NETMODE Pin=M1-5
+Removed Pin From Net: NetName=MODEM_LED_NETSTAT Pin=M1-6
+Removed Pin From Net: NetName=GND Pin=M1-10
+Removed Pin From Net: NetName=MODEM_UART1_RX Pin=M1-11
+Removed Pin From Net: NetName=MODEM_UART1_TX Pin=M1-12
+Removed Pin From Net: NetName=MODEM_USIM_DET Pin=M1-13
+Removed Pin From Net: NetName=MODEM_USIM_VDD Pin=M1-14
+Removed Pin From Net: NetName=MODEM_USIM_DATA Pin=M1-15
+Removed Pin From Net: NetName=MODEM_USIM_CLK Pin=M1-16
+Removed Pin From Net: NetName=MODEM_USIM_RST Pin=M1-17
+Removed Pin From Net: NetName=MODEM_CTRL_RESETN Pin=M1-20
+Removed Pin From Net: NetName=MODEM_CTRL_PWRKEY Pin=M1-21
+Removed Pin From Net: NetName=MODEM_SD_DETECT Pin=M1-23
+Removed Pin From Net: NetName=MODEM_SD_DATA3 Pin=M1-28
+Removed Pin From Net: NetName=MODEM_SD_DATA2 Pin=M1-29
+Removed Pin From Net: NetName=MODEM_SD_DATA1 Pin=M1-30
+Removed Pin From Net: NetName=MODEM_SD_DATA0 Pin=M1-31
+Removed Pin From Net: NetName=MODEM_SD_CLK Pin=M1-32
+Removed Pin From Net: NetName=MODEM_SD_CMD Pin=M1-33
+Removed Pin From Net: NetName=MODEM_SD_VDD Pin=M1-34
+Removed Pin From Net: NetName=MODEM_SPI0_CS Pin=M1-37
+Removed Pin From Net: NetName=MODEM_SPI0_MO Pin=M1-38
+Removed Pin From Net: NetName=MODEM_SPI0_MI Pin=M1-39
+Removed Pin From Net: NetName=MODEM_SPI0_CLK Pin=M1-40
+Removed Pin From Net: NetName=MODEM_I2C1_SCL Pin=M1-41
+Removed Pin From Net: NetName=MODEM_I2C1_SDA Pin=M1-42
+Removed Pin From Net: NetName=MODEM_ANT_GNSS Pin=M1-47
+Removed Pin From Net: NetName=MODEM_ANT_LTE Pin=M1-49
+Removed Pin From Net: NetName=MODEM_NRDY_STAT Pin=M1-61
+Removed Pin From Net: NetName=MODEM_UART0_TX Pin=M1-67
+Removed Pin From Net: NetName=MODEM_UART0_RX Pin=M1-68
+Removed Pin From Net: NetName=MODEM_USB_P Pin=M1-69
+Removed Pin From Net: NetName=MODEM_USB_N Pin=M1-70
+Removed Pin From Net: NetName=MODEM_USB_VBUS Pin=M1-71
+Removed Pin From Net: NetName=MODEM_USBBOOT Pin=M1-115
+Removed Pin From Net: NetName=MODEM_FLASH_SIO3 Pin=M1-119
+Removed Pin From Net: NetName=MODEM_FLASH_SIO2 Pin=M1-121
+Removed Pin From Net: NetName=MODEM_FLASH_SIO1 Pin=M1-122
+Removed Pin From Net: NetName=MODEM_FLASH_SIO0 Pin=M1-123
+Removed Pin From Net: NetName=MODEM_FLASH_CS Pin=M1-124
+Removed Pin From Net: NetName=MODEM_FLASH_SCK Pin=M1-125
+Removed Pin From Net: NetName=MODEM_UART2_RX Pin=M1-137
+Removed Pin From Net: NetName=MODEM_UART2_TX Pin=M1-138
+Removed Pin From Net: NetName=STM_OSC_HS_IN Pin=U9-5
+Removed Pin From Net: NetName=STM_OSC_HS_OUT Pin=U9-6
+Removed Pin From Net: NetName=STM_LED Pin=U9-11
+Removed Pin From Net: NetName=STM_SYS_WKP Pin=U9-14
+Removed Pin From Net: NetName=STM_IO_A1 Pin=U9-15
+Removed Pin From Net: NetName=STM_UART2_TX Pin=U9-16
+Removed Pin From Net: NetName=STM_UART2_RX Pin=U9-17
+Removed Pin From Net: NetName=STM_IO_C4 Pin=U9-24
+Removed Pin From Net: NetName=STM_IO_C5 Pin=U9-25
+Removed Pin From Net: NetName=STM_IO_B0 Pin=U9-26
+Removed Pin From Net: NetName=STM_IO_B1 Pin=U9-27
+Removed Pin From Net: NetName=STM_IO_B2 Pin=U9-28
+Removed Pin From Net: NetName=STM_SPI2_NSS Pin=U9-33
+Removed Pin From Net: NetName=STM_SPI2_SCK Pin=U9-34
+Removed Pin From Net: NetName=STM_SPI2_MISO Pin=U9-35
+Removed Pin From Net: NetName=STM_SPI2_MOSI Pin=U9-36
+Removed Pin From Net: NetName=STM_UART6_TX Pin=U9-37
+Removed Pin From Net: NetName=STM_UART6_RX Pin=U9-38
+Removed Pin From Net: NetName=STM_IO_C8 Pin=U9-39
+Removed Pin From Net: NetName=STM_I2C3_SDA Pin=U9-40
+Removed Pin From Net: NetName=STM_I2C3_SCL Pin=U9-41
+Removed Pin From Net: NetName=STM_UART1_TX Pin=U9-42
+Removed Pin From Net: NetName=STM_UART1_RX Pin=U9-43
+Removed Pin From Net: NetName=STM_USB_N Pin=U9-44
+Removed Pin From Net: NetName=STM_USB_P Pin=U9-45
+Removed Pin From Net: NetName=STM_JTDI Pin=U9-50
+Removed Pin From Net: NetName=STM_JRST Pin=U9-56
+Removed Member From Class: ClassName=MODEM_PT1 Member=M1
+Removed Member From Class: ClassName=ANT_50R Member=NetC9_1
+Removed Member From Class: ClassName=ANT_50R Member=NetC9_2
+Removed Member From Class: ClassName=ANT_50R Member=NetC13_2
+Removed Member From Class: ClassName=U9_Nets Member=NetC55_1
+Removed Member From Class: ClassName=U9_Nets Member=NetC56_1
+Removed Member From Class: ClassName=U8_Nets Member=NetJ23_2
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_1
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_2
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_3
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_4
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_18
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_24
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_25
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_26
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_27
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_35
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_43
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_44
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_45
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_55
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_62
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_63
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_64
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_65
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_66
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_73
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_74
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_75
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_77
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_78
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_79
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_80
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_81
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_82
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_83
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_84
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_113
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_114
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_116
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_117
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_118
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_120
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_126
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_127
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_128
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_129
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_130
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_131
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_132
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_133
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_134
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_135
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_136
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_139
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_140
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_141
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_142
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_143
+Removed Member From Class: ClassName=M1_Nets Member=NetM1_144
+Removed Member From Class: ClassName=U8_Nets Member=NetR35_2
+Removed Member From Class: ClassName=U8_Nets Member=NetU8_6
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_2
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_3
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_4
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_8
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_9
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_10
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_20
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_21
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_22
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_23
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_29
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_51
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_52
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_53
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_54
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_57
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_58
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_59
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_61
+Removed Member From Class: ClassName=U9_Nets Member=NetU9_62
+Change Component Designator: OldDesignator=C1 NewDesignator=C?
+Change Component Designator: OldDesignator=C2 NewDesignator=C?
+Change Component Designator: OldDesignator=C3 NewDesignator=C?
+Change Component Designator: OldDesignator=C4 NewDesignator=C?
+Change Component Designator: OldDesignator=C5 NewDesignator=C?
+Change Component Designator: OldDesignator=C6 NewDesignator=C?
+Change Component Designator: OldDesignator=C7 NewDesignator=C?
+Change Component Designator: OldDesignator=C8 NewDesignator=C?
+Change Component Designator: OldDesignator=C9 NewDesignator=C?
+Change Component Designator: OldDesignator=C10 NewDesignator=C?
+Change Component Designator: OldDesignator=C11 NewDesignator=C?
+Change Component Designator: OldDesignator=C12 NewDesignator=C?
+Change Component Designator: OldDesignator=C13 NewDesignator=C?
+Change Component Designator: OldDesignator=C14 NewDesignator=C?
+Change Component Designator: OldDesignator=C15 NewDesignator=C?
+Change Component Designator: OldDesignator=C16 NewDesignator=C?
+Change Component Designator: OldDesignator=C17 NewDesignator=C?
+Change Component Designator: OldDesignator=C18 NewDesignator=C?
+Change Component Designator: OldDesignator=C19 NewDesignator=C?
+Change Component Designator: OldDesignator=C20 NewDesignator=C?
+Change Component Designator: OldDesignator=C21 NewDesignator=C?
+Change Component Designator: OldDesignator=C22 NewDesignator=C?
+Change Component Designator: OldDesignator=C23 NewDesignator=C?
+Change Component Designator: OldDesignator=C24 NewDesignator=C?
+Change Component Designator: OldDesignator=C25 NewDesignator=C?
+Change Component Designator: OldDesignator=C26 NewDesignator=C?
+Change Component Designator: OldDesignator=C27 NewDesignator=C?
+Change Component Designator: OldDesignator=C28 NewDesignator=C?
+Change Component Designator: OldDesignator=C29 NewDesignator=C?
+Change Component Designator: OldDesignator=C30 NewDesignator=C?
+Change Component Designator: OldDesignator=C31 NewDesignator=C?
+Change Component Designator: OldDesignator=C32 NewDesignator=C?
+Change Component Designator: OldDesignator=C33 NewDesignator=C?
+Change Component Designator: OldDesignator=C34 NewDesignator=C?
+Change Component Designator: OldDesignator=C35 NewDesignator=C?
+Change Component Designator: OldDesignator=C36 NewDesignator=C?
+Change Component Designator: OldDesignator=C37 NewDesignator=C?
+Change Component Designator: OldDesignator=C38 NewDesignator=C?
+Change Component Designator: OldDesignator=C39 NewDesignator=C?
+Change Component Designator: OldDesignator=C40 NewDesignator=C?
+Change Component Designator: OldDesignator=C41 NewDesignator=C?
+Change Component Designator: OldDesignator=C42 NewDesignator=C?
+Change Component Designator: OldDesignator=C43 NewDesignator=C?
+Change Component Designator: OldDesignator=C44 NewDesignator=C?
+Change Component Designator: OldDesignator=C45 NewDesignator=C?
+Change Component Designator: OldDesignator=C46 NewDesignator=C?
+Change Component Designator: OldDesignator=C47 NewDesignator=C?
+Change Component Designator: OldDesignator=C48 NewDesignator=C?
+Change Component Designator: OldDesignator=C49 NewDesignator=C?
+Change Component Designator: OldDesignator=C50 NewDesignator=C?
+Change Component Designator: OldDesignator=C51 NewDesignator=C?
+Change Component Designator: OldDesignator=C52 NewDesignator=C?
+Change Component Designator: OldDesignator=C53 NewDesignator=C?
+Change Component Designator: OldDesignator=C54 NewDesignator=C?
+Change Component Designator: OldDesignator=C55 NewDesignator=C?
+Change Component Designator: OldDesignator=C56 NewDesignator=C?
+Change Component Designator: OldDesignator=C57 NewDesignator=C?
+Change Component Designator: OldDesignator=C58 NewDesignator=C?
+Change Component Designator: OldDesignator=C59 NewDesignator=C?
+Change Component Designator: OldDesignator=D1 NewDesignator=D?
+Change Component Designator: OldDesignator=D2 NewDesignator=D?
+Change Component Designator: OldDesignator=D3 NewDesignator=D?
+Change Component Designator: OldDesignator=D4 NewDesignator=D?
+Change Component Designator: OldDesignator=J1 NewDesignator=J?
+Change Component Designator: OldDesignator=J2 NewDesignator=J?
+Change Component Designator: OldDesignator=J3 NewDesignator=J?
+Change Component Designator: OldDesignator=J4 NewDesignator=J?
+Change Component Designator: OldDesignator=J5 NewDesignator=J?
+Change Component Designator: OldDesignator=J6 NewDesignator=J?
+Change Component Designator: OldDesignator=J7 NewDesignator=J?
+Change Component Designator: OldDesignator=J8 NewDesignator=J?
+Change Component Designator: OldDesignator=J9 NewDesignator=J?
+Change Component Designator: OldDesignator=J12 NewDesignator=J?
+Change Component Designator: OldDesignator=J13 NewDesignator=J?
+Change Component Designator: OldDesignator=J14 NewDesignator=J?
+Change Component Designator: OldDesignator=J15 NewDesignator=J?
+Change Component Designator: OldDesignator=J17 NewDesignator=J?
+Change Component Designator: OldDesignator=J18 NewDesignator=J?
+Change Component Designator: OldDesignator=J19 NewDesignator=J?
+Change Component Designator: OldDesignator=J20 NewDesignator=J?
+Change Component Designator: OldDesignator=J21 NewDesignator=J?
+Change Component Designator: OldDesignator=J23 NewDesignator=J?
+Change Component Designator: OldDesignator=J24 NewDesignator=J?
+Change Component Designator: OldDesignator=J25 NewDesignator=J?
+Change Component Designator: OldDesignator=J26 NewDesignator=J?
+Change Component Designator: OldDesignator=J27 NewDesignator=J?
+Change Component Designator: OldDesignator=J28 NewDesignator=J?
+Change Component Designator: OldDesignator=J29 NewDesignator=J?
+Change Component Designator: OldDesignator=J30 NewDesignator=J?
+Change Component Designator: OldDesignator=J31 NewDesignator=J?
+Change Component Designator: OldDesignator=J32 NewDesignator=J?
+Change Component Designator: OldDesignator=J33 NewDesignator=J?
+Change Component Designator: OldDesignator=L1 NewDesignator=L?
+Change Component Designator: OldDesignator=L2 NewDesignator=L?
+Change Component Designator: OldDesignator=M1 NewDesignator=M?
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q?
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q?
+Change Component Designator: OldDesignator=R1 NewDesignator=R?
+Change Component Designator: OldDesignator=R2 NewDesignator=R?
+Change Component Designator: OldDesignator=R3 NewDesignator=R?
+Change Component Designator: OldDesignator=R4 NewDesignator=R?
+Change Component Designator: OldDesignator=R5 NewDesignator=R?
+Change Component Designator: OldDesignator=R6 NewDesignator=R?
+Change Component Designator: OldDesignator=R7 NewDesignator=R?
+Change Component Designator: OldDesignator=R8 NewDesignator=R?
+Change Component Designator: OldDesignator=R9 NewDesignator=R?
+Change Component Designator: OldDesignator=R10 NewDesignator=R?
+Change Component Designator: OldDesignator=R11 NewDesignator=R?
+Change Component Designator: OldDesignator=R12 NewDesignator=R?
+Change Component Designator: OldDesignator=R13 NewDesignator=R?
+Change Component Designator: OldDesignator=R14 NewDesignator=R?
+Change Component Designator: OldDesignator=R15 NewDesignator=R?
+Change Component Designator: OldDesignator=R16 NewDesignator=R?
+Change Component Designator: OldDesignator=R17 NewDesignator=R?
+Change Component Designator: OldDesignator=R18 NewDesignator=R?
+Change Component Designator: OldDesignator=R19 NewDesignator=R?
+Change Component Designator: OldDesignator=R20 NewDesignator=R?
+Change Component Designator: OldDesignator=R21 NewDesignator=R?
+Change Component Designator: OldDesignator=R22 NewDesignator=R?
+Change Component Designator: OldDesignator=R23 NewDesignator=R?
+Change Component Designator: OldDesignator=R24 NewDesignator=R?
+Change Component Designator: OldDesignator=R25 NewDesignator=R?
+Change Component Designator: OldDesignator=R26 NewDesignator=R?
+Change Component Designator: OldDesignator=R27 NewDesignator=R?
+Change Component Designator: OldDesignator=R28 NewDesignator=R?
+Change Component Designator: OldDesignator=R29 NewDesignator=R?
+Change Component Designator: OldDesignator=R30 NewDesignator=R?
+Change Component Designator: OldDesignator=R31 NewDesignator=R?
+Change Component Designator: OldDesignator=R32 NewDesignator=R?
+Change Component Designator: OldDesignator=R33 NewDesignator=R?
+Change Component Designator: OldDesignator=R34 NewDesignator=R?
+Change Component Designator: OldDesignator=R35 NewDesignator=R?
+Change Component Designator: OldDesignator=R36 NewDesignator=R?
+Change Component Designator: OldDesignator=R37 NewDesignator=R?
+Change Component Designator: OldDesignator=R38 NewDesignator=R?
+Change Component Designator: OldDesignator=R39 NewDesignator=R?
+Change Component Designator: OldDesignator=R40 NewDesignator=R?
+Change Component Designator: OldDesignator=R41 NewDesignator=R?
+Change Component Designator: OldDesignator=R42 NewDesignator=R?
+Change Component Designator: OldDesignator=R43 NewDesignator=R?
+Change Component Designator: OldDesignator=R44 NewDesignator=R?
+Change Component Designator: OldDesignator=R45 NewDesignator=R?
+Change Component Designator: OldDesignator=R46 NewDesignator=R?
+Change Component Designator: OldDesignator=R47 NewDesignator=R?
+Change Component Designator: OldDesignator=R48 NewDesignator=R?
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW?
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW?
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW?
+Change Component Designator: OldDesignator=SW4 NewDesignator=SW?
+Change Component Designator: OldDesignator=SW5 NewDesignator=SW?
+Change Component Designator: OldDesignator=TP1 NewDesignator=TP?
+Change Component Designator: OldDesignator=TP2 NewDesignator=TP?
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP?
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP?
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP?
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP?
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP?
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP?
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP?
+Change Component Designator: OldDesignator=U1 NewDesignator=U?
+Change Component Designator: OldDesignator=U2 NewDesignator=U?
+Change Component Designator: OldDesignator=U3 NewDesignator=U?
+Change Component Designator: OldDesignator=U4 NewDesignator=U?
+Change Component Designator: OldDesignator=U5 NewDesignator=U?
+Change Component Designator: OldDesignator=U6 NewDesignator=U?
+Change Component Designator: OldDesignator=U7 NewDesignator=U?
+Change Component Designator: OldDesignator=U8 NewDesignator=U?
+Change Component Designator: OldDesignator=U9 NewDesignator=U?
+Change Component Designator: OldDesignator=U10 NewDesignator=U?
+Change Component Designator: OldDesignator=X1 NewDesignator=X?
+Added Component: Designator=M?(EC200U)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Quectel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "027-EC200UCNAA-N05-SGNSA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(TSQFP50P1200X1200X160-64L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "STM32F411RET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP-64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Evelta"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "033-STM32F411RET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "STM32F4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MODEM_LED_NETMODE Pin=M?-5
+Added Pin To Net: NetName=MODEM_LED_NETSTAT Pin=M?-6
+Added Pin To Net: NetName=GND Pin=M?-10
+Added Pin To Net: NetName=MODEM_UART1_RX Pin=M?-11
+Added Pin To Net: NetName=MODEM_UART1_TX Pin=M?-12
+Added Pin To Net: NetName=MODEM_USIM_DET Pin=M?-13
+Added Pin To Net: NetName=MODEM_USIM_VDD Pin=M?-14
+Added Pin To Net: NetName=MODEM_USIM_DATA Pin=M?-15
+Added Pin To Net: NetName=MODEM_USIM_CLK Pin=M?-16
+Added Pin To Net: NetName=MODEM_USIM_RST Pin=M?-17
+Added Pin To Net: NetName=MODEM_CTRL_RESETN Pin=M?-20
+Added Pin To Net: NetName=MODEM_CTRL_PWRKEY Pin=M?-21
+Added Pin To Net: NetName=MODEM_SD_DETECT Pin=M?-23
+Added Pin To Net: NetName=MODEM_SD_DATA3 Pin=M?-28
+Added Pin To Net: NetName=MODEM_SD_DATA2 Pin=M?-29
+Added Pin To Net: NetName=MODEM_SD_DATA1 Pin=M?-30
+Added Pin To Net: NetName=MODEM_SD_DATA0 Pin=M?-31
+Added Pin To Net: NetName=MODEM_SD_CLK Pin=M?-32
+Added Pin To Net: NetName=MODEM_SD_CMD Pin=M?-33
+Added Pin To Net: NetName=MODEM_SD_VDD Pin=M?-34
+Added Pin To Net: NetName=MODEM_SPI0_CS Pin=M?-37
+Added Pin To Net: NetName=MODEM_SPI0_MO Pin=M?-38
+Added Pin To Net: NetName=MODEM_SPI0_MI Pin=M?-39
+Added Pin To Net: NetName=MODEM_SPI0_CLK Pin=M?-40
+Added Pin To Net: NetName=MODEM_I2C1_SCL Pin=M?-41
+Added Pin To Net: NetName=MODEM_I2C1_SDA Pin=M?-42
+Added Pin To Net: NetName=MODEM_ANT_GNSS Pin=M?-47
+Added Pin To Net: NetName=MODEM_ANT_LTE Pin=M?-49
+Added Pin To Net: NetName=MODEM_NRDY_STAT Pin=M?-61
+Added Pin To Net: NetName=MODEM_UART0_TX Pin=M?-67
+Added Pin To Net: NetName=MODEM_UART0_RX Pin=M?-68
+Added Pin To Net: NetName=MODEM_USB_P Pin=M?-69
+Added Pin To Net: NetName=MODEM_USB_N Pin=M?-70
+Added Pin To Net: NetName=MODEM_USB_VBUS Pin=M?-71
+Added Pin To Net: NetName=MODEM_USBBOOT Pin=M?-115
+Added Pin To Net: NetName=MODEM_FLASH_SIO3 Pin=M?-119
+Added Pin To Net: NetName=MODEM_FLASH_SIO2 Pin=M?-121
+Added Pin To Net: NetName=MODEM_FLASH_SIO1 Pin=M?-122
+Added Pin To Net: NetName=MODEM_FLASH_SIO0 Pin=M?-123
+Added Pin To Net: NetName=MODEM_FLASH_CS Pin=M?-124
+Added Pin To Net: NetName=MODEM_FLASH_SCK Pin=M?-125
+Added Pin To Net: NetName=MODEM_UART2_RX Pin=M?-137
+Added Pin To Net: NetName=MODEM_UART2_TX Pin=M?-138
+Added Pin To Net: NetName=STM_OSC_HS_IN Pin=U?-5
+Added Pin To Net: NetName=STM_OSC_HS_OUT Pin=U?-6
+Added Pin To Net: NetName=STM_LED Pin=U?-11
+Added Pin To Net: NetName=STM_SYS_WKP Pin=U?-14
+Added Pin To Net: NetName=STM_IO_A1 Pin=U?-15
+Added Pin To Net: NetName=STM_UART2_TX Pin=U?-16
+Added Pin To Net: NetName=STM_UART2_RX Pin=U?-17
+Added Pin To Net: NetName=STM_IO_C4 Pin=U?-24
+Added Pin To Net: NetName=STM_IO_C5 Pin=U?-25
+Added Pin To Net: NetName=STM_IO_B0 Pin=U?-26
+Added Pin To Net: NetName=STM_IO_B1 Pin=U?-27
+Added Pin To Net: NetName=STM_IO_B2 Pin=U?-28
+Added Pin To Net: NetName=STM_SPI2_NSS Pin=U?-33
+Added Pin To Net: NetName=STM_SPI2_SCK Pin=U?-34
+Added Pin To Net: NetName=STM_SPI2_MISO Pin=U?-35
+Added Pin To Net: NetName=STM_SPI2_MOSI Pin=U?-36
+Added Pin To Net: NetName=STM_UART6_TX Pin=U?-37
+Added Pin To Net: NetName=STM_UART6_RX Pin=U?-38
+Added Pin To Net: NetName=STM_IO_C8 Pin=U?-39
+Added Pin To Net: NetName=STM_I2C3_SDA Pin=U?-40
+Added Pin To Net: NetName=STM_I2C3_SCL Pin=U?-41
+Added Pin To Net: NetName=STM_UART1_TX Pin=U?-42
+Added Pin To Net: NetName=STM_UART1_RX Pin=U?-43
+Added Pin To Net: NetName=STM_USB_N Pin=U?-44
+Added Pin To Net: NetName=STM_USB_P Pin=U?-45
+Added Pin To Net: NetName=STM_JTDI Pin=U?-50
+Added Pin To Net: NetName=STM_JRST Pin=U?-56
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetC17_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC18_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC19_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC55_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC56_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=NetJ?_1
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=NetJ?_2
+Change Net Name : Old Net Name=NetJ4_3 New Net Name=NetJ?_3
+Change Net Name : Old Net Name=NetJ4_4 New Net Name=NetJ?_4
+Change Net Name : Old Net Name=NetJ4_5 New Net Name=NetJ?_5
+Change Net Name : Old Net Name=NetJ4_6 New Net Name=NetJ?_6
+Change Net Name : Old Net Name=NetJ18_A5 New Net Name=NetJ?_A5
+Change Net Name : Old Net Name=NetJ18_A8 New Net Name=NetJ?_A8
+Change Net Name : Old Net Name=NetJ18_B5 New Net Name=NetJ?_B5
+Change Net Name : Old Net Name=NetJ18_B8 New Net Name=NetJ?_B8
+Change Net Name : Old Net Name=NetJ19_1 New Net Name=NetJ?_1
+Change Net Name : Old Net Name=NetJ19_2 New Net Name=NetJ?_2
+Change Net Name : Old Net Name=NetJ19_3 New Net Name=NetJ?_3
+Change Net Name : Old Net Name=NetJ19_4 New Net Name=NetJ?_4
+Change Net Name : Old Net Name=NetJ19_5 New Net Name=NetJ?_5
+Change Net Name : Old Net Name=NetJ19_6 New Net Name=NetJ?_6
+Change Net Name : Old Net Name=NetJ20_1 New Net Name=NetJ?_1
+Change Net Name : Old Net Name=NetJ20_2 New Net Name=NetJ?_2
+Change Net Name : Old Net Name=NetJ20_3 New Net Name=NetJ?_3
+Change Net Name : Old Net Name=NetJ20_5 New Net Name=NetJ?_5
+Change Net Name : Old Net Name=NetJ20_7 New Net Name=NetJ?_7
+Change Net Name : Old Net Name=NetJ20_8 New Net Name=NetJ?_8
+Change Net Name : Old Net Name=NetJ23_2 New Net Name=NetJ?_2
+Change Net Name : Old Net Name=NetJ32_A4 New Net Name=NetJ?_A4
+Change Net Name : Old Net Name=NetJ32_A5 New Net Name=NetJ?_A5
+Change Net Name : Old Net Name=NetJ32_A8 New Net Name=NetJ?_A8
+Change Net Name : Old Net Name=NetJ32_A9 New Net Name=NetJ?_A9
+Change Net Name : Old Net Name=NetJ32_B4 New Net Name=NetJ?_B4
+Change Net Name : Old Net Name=NetJ32_B5 New Net Name=NetJ?_B5
+Change Net Name : Old Net Name=NetJ32_B8 New Net Name=NetJ?_B8
+Change Net Name : Old Net Name=NetJ32_B9 New Net Name=NetJ?_B9
+Change Net Name : Old Net Name=NetJ33_C6 New Net Name=NetJ?_C6
+Change Net Name : Old Net Name=NetL2_2 New Net Name=NetL?_2
+Change Net Name : Old Net Name=NetM1_18 New Net Name=NetM?_18
+Change Net Name : Old Net Name=NetM1_55 New Net Name=NetM?_55
+Change Net Name : Old Net Name=NetM1_81 New Net Name=NetM?_81
+Change Net Name : Old Net Name=NetM1_82 New Net Name=NetM?_82
+Change Net Name : Old Net Name=NetM1_116 New Net Name=NetM?_116
+Change Net Name : Old Net Name=NetM1_117 New Net Name=NetM?_117
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetQ?_1
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ?_1
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR?_1
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR?_1
+Change Net Name : Old Net Name=NetR29_1 New Net Name=NetR?_1
+Change Net Name : Old Net Name=NetR35_1 New Net Name=NetR?_1
+Change Net Name : Old Net Name=NetR35_2 New Net Name=NetR?_1
+Change Net Name : Old Net Name=NetR39_1 New Net Name=NetR?_1
+Change Net Name : Old Net Name=NetSW1_2 New Net Name=NetSW?_2
+Change Net Name : Old Net Name=NetSW1_4 New Net Name=NetSW?_4
+Change Net Name : Old Net Name=NetSW2_2 New Net Name=NetSW?_2
+Change Net Name : Old Net Name=NetSW2_4 New Net Name=NetSW?_4
+Change Net Name : Old Net Name=NetSW3_2 New Net Name=NetSW?_2
+Change Net Name : Old Net Name=NetSW3_4 New Net Name=NetSW?_4
+Change Net Name : Old Net Name=NetSW4_2 New Net Name=NetSW?_2
+Change Net Name : Old Net Name=NetSW4_4 New Net Name=NetSW?_4
+Change Net Name : Old Net Name=NetSW5_2 New Net Name=NetSW?_2
+Change Net Name : Old Net Name=NetSW5_4 New Net Name=NetSW?_4
+Change Net Name : Old Net Name=NetU6_7 New Net Name=NetU?_7
+Change Net Name : Old Net Name=NetU6_8 New Net Name=NetU?_8
+Change Net Name : Old Net Name=NetU6_9 New Net Name=NetU?_9
+Change Net Name : Old Net Name=NetU6_12 New Net Name=NetU?_12
+Change Net Name : Old Net Name=NetU6_13 New Net Name=NetU?_13
+Change Net Name : Old Net Name=NetU6_14 New Net Name=NetU?_14
+Change Net Name : Old Net Name=NetU8_6 New Net Name=NetU?_6
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Black
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Black
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Black
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Black
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Black
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Black
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Black
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Black
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Black
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Black
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Black
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Black
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Black
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Black
+Added Pin To Net: NetName=NetM?_1 Pin=M?-1
+Added Net: Name=NetM?_1
+Added Pin To Net: NetName=NetM?_2 Pin=M?-2
+Added Net: Name=NetM?_2
+Added Pin To Net: NetName=NetM?_3 Pin=M?-3
+Added Net: Name=NetM?_3
+Added Pin To Net: NetName=NetM?_4 Pin=M?-4
+Added Net: Name=NetM?_4
+Added Pin To Net: NetName=NetM?_24 Pin=M?-24
+Added Net: Name=NetM?_24
+Added Pin To Net: NetName=NetM?_25 Pin=M?-25
+Added Net: Name=NetM?_25
+Added Pin To Net: NetName=NetM?_26 Pin=M?-26
+Added Net: Name=NetM?_26
+Added Pin To Net: NetName=NetM?_27 Pin=M?-27
+Added Net: Name=NetM?_27
+Added Pin To Net: NetName=NetM?_35 Pin=M?-35
+Added Net: Name=NetM?_35
+Added Pin To Net: NetName=NetM?_43 Pin=M?-43
+Added Net: Name=NetM?_43
+Added Pin To Net: NetName=NetM?_44 Pin=M?-44
+Added Net: Name=NetM?_44
+Added Pin To Net: NetName=NetM?_45 Pin=M?-45
+Added Net: Name=NetM?_45
+Added Pin To Net: NetName=NetM?_62 Pin=M?-62
+Added Net: Name=NetM?_62
+Added Pin To Net: NetName=NetM?_63 Pin=M?-63
+Added Net: Name=NetM?_63
+Added Pin To Net: NetName=NetM?_64 Pin=M?-64
+Added Net: Name=NetM?_64
+Added Pin To Net: NetName=NetM?_65 Pin=M?-65
+Added Net: Name=NetM?_65
+Added Pin To Net: NetName=NetM?_66 Pin=M?-66
+Added Net: Name=NetM?_66
+Added Pin To Net: NetName=NetM?_73 Pin=M?-73
+Added Net: Name=NetM?_73
+Added Pin To Net: NetName=NetM?_74 Pin=M?-74
+Added Net: Name=NetM?_74
+Added Pin To Net: NetName=NetM?_75 Pin=M?-75
+Added Net: Name=NetM?_75
+Added Pin To Net: NetName=NetM?_77 Pin=M?-77
+Added Net: Name=NetM?_77
+Added Pin To Net: NetName=NetM?_78 Pin=M?-78
+Added Net: Name=NetM?_78
+Added Pin To Net: NetName=NetM?_79 Pin=M?-79
+Added Net: Name=NetM?_79
+Added Pin To Net: NetName=NetM?_80 Pin=M?-80
+Added Net: Name=NetM?_80
+Added Pin To Net: NetName=NetM?_83 Pin=M?-83
+Added Net: Name=NetM?_83
+Added Pin To Net: NetName=NetM?_84 Pin=M?-84
+Added Net: Name=NetM?_84
+Added Pin To Net: NetName=NetM?_113 Pin=M?-113
+Added Net: Name=NetM?_113
+Added Pin To Net: NetName=NetM?_114 Pin=M?-114
+Added Net: Name=NetM?_114
+Added Pin To Net: NetName=NetM?_118 Pin=M?-118
+Added Net: Name=NetM?_118
+Added Pin To Net: NetName=NetM?_120 Pin=M?-120
+Added Net: Name=NetM?_120
+Added Pin To Net: NetName=NetM?_126 Pin=M?-126
+Added Pin To Net: NetName=NetM?_126 Pin=TP?-1
+Added Net: Name=NetM?_126
+Added Pin To Net: NetName=NetM?_127 Pin=M?-127
+Added Net: Name=NetM?_127
+Added Pin To Net: NetName=NetM?_128 Pin=M?-128
+Added Net: Name=NetM?_128
+Added Pin To Net: NetName=NetM?_129 Pin=M?-129
+Added Net: Name=NetM?_129
+Added Pin To Net: NetName=NetM?_130 Pin=M?-130
+Added Net: Name=NetM?_130
+Added Pin To Net: NetName=NetM?_131 Pin=M?-131
+Added Net: Name=NetM?_131
+Added Pin To Net: NetName=NetM?_132 Pin=M?-132
+Added Net: Name=NetM?_132
+Added Pin To Net: NetName=NetM?_133 Pin=M?-133
+Added Net: Name=NetM?_133
+Added Pin To Net: NetName=NetM?_134 Pin=M?-134
+Added Net: Name=NetM?_134
+Added Pin To Net: NetName=NetM?_135 Pin=M?-135
+Added Net: Name=NetM?_135
+Added Pin To Net: NetName=NetM?_136 Pin=M?-136
+Added Net: Name=NetM?_136
+Added Pin To Net: NetName=NetM?_139 Pin=M?-139
+Added Net: Name=NetM?_139
+Added Pin To Net: NetName=NetM?_140 Pin=M?-140
+Added Net: Name=NetM?_140
+Added Pin To Net: NetName=NetM?_141 Pin=M?-141
+Added Net: Name=NetM?_141
+Added Pin To Net: NetName=NetM?_142 Pin=M?-142
+Added Net: Name=NetM?_142
+Added Pin To Net: NetName=NetM?_143 Pin=M?-143
+Added Net: Name=NetM?_143
+Added Pin To Net: NetName=NetM?_144 Pin=M?-144
+Added Net: Name=NetM?_144
+Added Pin To Net: NetName=NetU?_2 Pin=U?-2
+Added Net: Name=NetU?_2
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Net: Name=NetU?_3
+Added Pin To Net: NetName=NetU?_4 Pin=U?-4
+Added Net: Name=NetU?_4
+Add Net: Net with name "NetU?_8" already exists
+Add Net: Net with name "NetU?_9" already exists
+Added Pin To Net: NetName=NetU?_10 Pin=U?-10
+Added Net: Name=NetU?_10
+Added Pin To Net: NetName=NetU?_20 Pin=U?-20
+Added Net: Name=NetU?_20
+Added Pin To Net: NetName=NetU?_21 Pin=U?-21
+Added Net: Name=NetU?_21
+Added Pin To Net: NetName=NetU?_22 Pin=U?-22
+Added Net: Name=NetU?_22
+Added Pin To Net: NetName=NetU?_23 Pin=U?-23
+Added Net: Name=NetU?_23
+Added Pin To Net: NetName=NetU?_29 Pin=U?-29
+Added Net: Name=NetU?_29
+Added Pin To Net: NetName=NetU?_51 Pin=U?-51
+Added Net: Name=NetU?_51
+Added Pin To Net: NetName=NetU?_52 Pin=U?-52
+Added Net: Name=NetU?_52
+Added Pin To Net: NetName=NetU?_53 Pin=U?-53
+Added Net: Name=NetU?_53
+Added Pin To Net: NetName=NetU?_54 Pin=U?-54
+Added Net: Name=NetU?_54
+Added Pin To Net: NetName=NetU?_57 Pin=U?-57
+Added Net: Name=NetU?_57
+Added Pin To Net: NetName=NetU?_58 Pin=U?-58
+Added Net: Name=NetU?_58
+Added Pin To Net: NetName=NetU?_59 Pin=U?-59
+Added Net: Name=NetU?_59
+Added Pin To Net: NetName=NetU?_61 Pin=U?-61
+Added Net: Name=NetU?_61
+Added Pin To Net: NetName=NetU?_62 Pin=U?-62
+Added Net: Name=NetU?_62
+Change Class Name : Old Net Name=J21_Nets New Net Name=J?_Nets
+Change Class Name : Old Net Name=M1_Nets New Net Name=M?_Nets
+Change Class Name : Old Net Name=U8_Nets New Net Name=R?_Nets
+Change Class Name : Old Net Name=U9_Nets New Net Name=U?_Nets
+Change Class Name : Old Net Name=U10_Nets New Net Name=C?_Nets
+Change Class Name : Old Net Name=X1_Nets New Net Name=X?_Nets
+Added Class: Name=D?_Nets
+Added Class: Name=L?_Nets
+Added Class: Name=Q?_Nets
+Added Class: Name=SW?_Nets
+Added Class: Name=TP?_Nets
+Added Member To Class: ClassName=MODEM_PT1 Member=Component M? EC200U
+Added Member To Class: ClassName=MODEM_PT2 Member=Component M? EC200U
+Added Member To Class: ClassName=MCU Member=Component U? STM32F411RE
+Added Member To Class: ClassName=J?_Nets Member=Wire 3V3
+Added Member To Class: ClassName=R?_Nets Member=Wire 3V3
+Added Member To Class: ClassName=J?_Nets Member=Wire 5V0
+Added Member To Class: ClassName=U?_Nets Member=Wire 5V0
+Added Member To Class: ClassName=J?_Nets Member=Wire 12V0
+Added Member To Class: ClassName=J?_Nets Member=Wire ESP_IO8
+Added Member To Class: ClassName=J?_Nets Member=Wire ESP_IO9
+Added Member To Class: ClassName=J?_Nets Member=Wire ESP_IO10
+Added Member To Class: ClassName=J?_Nets Member=Wire ESP_IO11
+Added Member To Class: ClassName=J?_Nets Member=Wire ESP_IO12
+Added Member To Class: ClassName=J?_Nets Member=Wire ESP_IO13
+Added Member To Class: ClassName=J?_Nets Member=Wire ESP_IO14
+Added Member To Class: ClassName=J?_Nets Member=Wire ESP_IO17
+Added Member To Class: ClassName=J?_Nets Member=Wire ESP_IO18
+Added Member To Class: ClassName=J?_Nets Member=Wire ESP_RX0
+Added Member To Class: ClassName=J?_Nets Member=Wire ESP_TCK
+Added Member To Class: ClassName=J?_Nets Member=Wire ESP_TDI
+Added Member To Class: ClassName=J?_Nets Member=Wire ESP_TDO
+Added Member To Class: ClassName=J?_Nets Member=Wire ESP_TMS
+Added Member To Class: ClassName=J?_Nets Member=Wire ESP_TX0
+Added Member To Class: ClassName=R?_Nets Member=Wire GNSS_ANT_VDD
+Added Member To Class: ClassName=U?_Nets Member=Wire GNSS_ANT_VDD
+Added Member To Class: ClassName=C?_Nets Member=Wire GNSS_ANT_VDD
+Added Member To Class: ClassName=R?_Nets Member=Wire MCU_MODEM_PWRKEY_3V3
+Added Member To Class: ClassName=R?_Nets Member=Wire MCU_MODEM_RESETN_3V3
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_ANT_GNSS
+Added Member To Class: ClassName=C?_Nets Member=Wire MODEM_ANT_GNSS
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_ANT_LTE
+Added Member To Class: ClassName=C?_Nets Member=Wire MODEM_ANT_LTE
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_FLASH_CS
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_FLASH_CS
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_FLASH_SCK
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_FLASH_SIO0
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_FLASH_SIO1
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_FLASH_SIO2
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_FLASH_SIO3
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_I2C1_SCL_3V3
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_I2C1_SCL
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_I2C1_SDA_3V3
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_I2C1_SDA
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_LED_NETMODE
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_LED_NETSTAT
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_LVS_3V3
+Added Member To Class: ClassName=C?_Nets Member=Wire MODEM_LVS_3V3
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_NRDY_STAT_3V3
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_NRDY_STAT
+Added Member To Class: ClassName=J?_Nets Member=Wire MODEM_SD_3V3
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_SD_3V3
+Added Member To Class: ClassName=C?_Nets Member=Wire MODEM_SD_3V3
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_SD_CLK
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_SD_CMD
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_SD_DATA0
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_SD_DATA1
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_SD_DATA2
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_SD_DATA3
+Added Member To Class: ClassName=J?_Nets Member=Wire MODEM_SD_DETECT
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_SD_VDD
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_SPI0_CLK_3V3
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_SPI0_CLK
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_SPI0_CS_3V3
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_SPI0_CS
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_SPI0_MI_3V3
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_SPI0_MI
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_SPI0_MO_3V3
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_SPI0_MO
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_UART0_RX_3V3
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_UART0_RX
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_UART0_TX_3V3
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_UART0_TX
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_UART1_RX_3V3
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_UART1_RX
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_UART1_TX_3V3
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_UART1_TX
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_UART2_RX_3V3
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_UART2_RX
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_UART2_TX_3V3
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_UART2_TX
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_USB_N
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_USB_P
+Added Member To Class: ClassName=J?_Nets Member=Wire MODEM_USB_VBUS
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_USBBOOT
+Added Member To Class: ClassName=J?_Nets Member=Wire MODEM_USBVBUS
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_USIM_CLK
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_USIM_DATA
+Added Member To Class: ClassName=J?_Nets Member=Wire MODEM_USIM_DET
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_USIM_DET
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_USIM_RST
+Added Member To Class: ClassName=J?_Nets Member=Wire MODEM_USIM_VDD
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_USIM_VDD
+Added Member To Class: ClassName=C?_Nets Member=Wire MODEM_USIM_VDD
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=C?_Nets Member=Wire MODEM_VDDBB
+Added Member To Class: ClassName=R?_Nets Member=Wire MODEM_VDDEXT
+Added Member To Class: ClassName=U?_Nets Member=Wire MODEM_VDDEXT
+Added Member To Class: ClassName=C?_Nets Member=Wire MODEM_VDDEXT
+Added Member To Class: ClassName=ANT_50R Member=Wire NetC?_1
+Added Member To Class: ClassName=J?_Nets Member=Wire NetC?_1
+Added Member To Class: ClassName=R?_Nets Member=Wire NetC?_1
+Added Member To Class: ClassName=U?_Nets Member=Wire NetC?_1
+Added Member To Class: ClassName=C?_Nets Member=Wire NetC?_1
+Added Member To Class: ClassName=ANT_50R Member=Wire NetC?_2
+Added Member To Class: ClassName=J?_Nets Member=Wire NetC?_2
+Added Member To Class: ClassName=R?_Nets Member=Wire NetC?_2
+Added Member To Class: ClassName=U?_Nets Member=Wire NetC?_2
+Added Member To Class: ClassName=C?_Nets Member=Wire NetC?_2
+Added Member To Class: ClassName=U?_Nets Member=Wire NetD?_1
+Added Member To Class: ClassName=R?_Nets Member=Wire NetD?_2
+Added Member To Class: ClassName=J?_Nets Member=Wire NetJ?_1
+Added Member To Class: ClassName=R?_Nets Member=Wire NetJ?_1
+Added Member To Class: ClassName=J?_Nets Member=Wire NetJ?_2
+Added Member To Class: ClassName=R?_Nets Member=Wire NetJ?_2
+Added Member To Class: ClassName=U?_Nets Member=Wire NetJ?_2
+Added Member To Class: ClassName=J?_Nets Member=Wire NetJ?_3
+Added Member To Class: ClassName=R?_Nets Member=Wire NetJ?_3
+Added Member To Class: ClassName=J?_Nets Member=Wire NetJ?_4
+Added Member To Class: ClassName=J?_Nets Member=Wire NetJ?_5
+Added Member To Class: ClassName=R?_Nets Member=Wire NetJ?_5
+Added Member To Class: ClassName=J?_Nets Member=Wire NetJ?_6
+Added Member To Class: ClassName=J?_Nets Member=Wire NetJ?_7
+Added Member To Class: ClassName=R?_Nets Member=Wire NetJ?_7
+Added Member To Class: ClassName=J?_Nets Member=Wire NetJ?_8
+Added Member To Class: ClassName=R?_Nets Member=Wire NetJ?_8
+Added Member To Class: ClassName=J?_Nets Member=Wire NetJ?_A4
+Added Member To Class: ClassName=J?_Nets Member=Wire NetJ?_A5
+Added Member To Class: ClassName=R?_Nets Member=Wire NetJ?_A5
+Added Member To Class: ClassName=J?_Nets Member=Wire NetJ?_A8
+Added Member To Class: ClassName=J?_Nets Member=Wire NetJ?_A9
+Added Member To Class: ClassName=J?_Nets Member=Wire NetJ?_B4
+Added Member To Class: ClassName=J?_Nets Member=Wire NetJ?_B5
+Added Member To Class: ClassName=R?_Nets Member=Wire NetJ?_B5
+Added Member To Class: ClassName=J?_Nets Member=Wire NetJ?_B8
+Added Member To Class: ClassName=J?_Nets Member=Wire NetJ?_B9
+Added Member To Class: ClassName=J?_Nets Member=Wire NetJ?_C6
+Added Member To Class: ClassName=R?_Nets Member=Wire NetL?_2
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_1
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_2
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_3
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_4
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_18
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_24
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_25
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_26
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_27
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_35
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_43
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_44
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_45
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_55
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_62
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_63
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_64
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_65
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_66
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_73
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_74
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_75
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_77
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_78
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_79
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_80
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_81
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_82
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_83
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_84
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_113
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_114
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_116
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_117
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_118
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_120
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_126
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_127
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_128
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_129
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_130
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_131
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_132
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_133
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_134
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_135
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_136
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_139
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_140
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_141
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_142
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_143
+Added Member To Class: ClassName=M?_Nets Member=Wire NetM?_144
+Added Member To Class: ClassName=R?_Nets Member=Wire NetQ?_1
+Added Member To Class: ClassName=R?_Nets Member=Wire NetR?_1
+Added Member To Class: ClassName=U?_Nets Member=Wire NetR?_1
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_2
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_3
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_4
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_6
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_7
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_8
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_9
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_10
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_12
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_13
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_14
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_20
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_21
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_22
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_23
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_29
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_51
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_52
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_53
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_54
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_57
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_58
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_59
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_61
+Added Member To Class: ClassName=U?_Nets Member=Wire NetU?_62
+Added Member To Class: ClassName=R?_Nets Member=Wire STM_BOOT0
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_I2C3_SCL
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_I2C3_SDA
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_IO_A1
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_IO_B0
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_IO_B1
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_IO_B2
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_IO_C4
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_IO_C5
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_IO_C8
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_JRST
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_JTDI
+Added Member To Class: ClassName=R?_Nets Member=Wire STM_LED
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_NRST
+Added Member To Class: ClassName=R?_Nets Member=Wire STM_NRST
+Added Member To Class: ClassName=C?_Nets Member=Wire STM_OSC_HS_IN
+Added Member To Class: ClassName=C?_Nets Member=Wire STM_OSC_HS_OUT
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_SPI2_MISO
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_SPI2_MOSI
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_SPI2_NSS
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_SPI2_SCK
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_SWC
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_SWD
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_SWO
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_SYS_WKP
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_UART1_RX
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_UART1_TX
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_UART2_RX
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_UART2_TX
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_UART6_RX
+Added Member To Class: ClassName=J?_Nets Member=Wire STM_UART6_TX
+Added Member To Class: ClassName=R?_Nets Member=Wire STM_USB_N
+Added Member To Class: ClassName=R?_Nets Member=Wire STM_USB_P
+Added Member To Class: ClassName=J?_Nets Member=Wire USB1_N
+Added Member To Class: ClassName=R?_Nets Member=Wire USB1_N
+Added Member To Class: ClassName=J?_Nets Member=Wire USB1_P
+Added Member To Class: ClassName=R?_Nets Member=Wire USB1_P
+Added Member To Class: ClassName=J?_Nets Member=Wire USB3_N
+Added Member To Class: ClassName=R?_Nets Member=Wire USB3_N
+Added Member To Class: ClassName=J?_Nets Member=Wire USB3_P
+Added Member To Class: ClassName=R?_Nets Member=Wire USB3_P
+Added Member To Class: ClassName=U?_Nets Member=Wire VBATT_3V8_CTRL
+Added Rule: Name=Schematic Differential Pairs Routing_1
+Added Rule: Name=Schematic Differential Pairs Routing_4
+Added Rule: Name=Schematic Differential Pairs Routing_6
+Added Rule: Name=Schematic Differential Pairs Routing_7
+Added Rule: Name=Schematic Differential Pairs Routing_8
+Added Rule: Name=Schematic Differential Pairs Routing_9
+Added Rule: Name=Schematic Differential Pairs Routing_10
+Added Rule: Name=Schematic Width Constraint
+Added Rule: Name=Schematic Width Constraint_1
+Added Rule: Name=Schematic Width Constraint_2
+Added Rule: Name=Schematic Width Constraint_3
+Added Rule: Name=Schematic Width Constraint_4
+Added Rule: Name=Schematic Width Constraint_6
+Added Rule: Name=Schematic Width Constraint_7
+Added Rule: Name=Schematic Width Constraint_9
+Added Rule: Name=Schematic Width Constraint_11
+Added Rule: Name=Schematic Width Constraint_12
+Added Rule: Name=Schematic Width Constraint_27
+Added Rule: Name=Schematic Width Constraint_28
+Added Rule: Name=Schematic Width Constraint_29
+Added Rule: Name=Schematic Width Constraint_30
+Added Rule: Name=Schematic Width Constraint_31
+Added Rule: Name=Schematic Width Constraint_32
+Added Rule: Name=Schematic Width Constraint_33
+Added Rule: Name=Schematic Width Constraint_34
