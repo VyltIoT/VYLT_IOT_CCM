@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=J24_Nets Member=NetJ24_6
+Removed Member From Class: ClassName=J25_Nets Member=NetJ25_6
+Added Pin To Net: NetName=ESP_IO13 Pin=J24-6
+Added Pin To Net: NetName=ESP_IO21 Pin=J25-6
+Added Member To Class: ClassName=J24_Nets Member=Wire ESP_IO13
+Added Member To Class: ClassName=J25_Nets Member=Wire ESP_IO21

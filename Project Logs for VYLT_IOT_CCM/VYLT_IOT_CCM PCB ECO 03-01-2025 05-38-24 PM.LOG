@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=ESP_IO6 Pin=J30-4
+Removed Pin From Net: NetName=ESP_IO7 Pin=J31-4
+Removed Pin From Net: NetName=ESP_IO5 Pin=J31-5
+Removed Member From Class: ClassName=J31_Nets Member=ESP_IO5
+Removed Member From Class: ClassName=J30_Nets Member=ESP_IO6
+Removed Member From Class: ClassName=J31_Nets Member=ESP_IO7
+Removed Member From Class: ClassName=J30_Nets Member=NetJ30_2
+Removed Member From Class: ClassName=J30_Nets Member=NetJ30_3
+Removed Member From Class: ClassName=J30_Nets Member=NetJ30_5
+Removed Member From Class: ClassName=J31_Nets Member=NetJ31_2
+Removed Member From Class: ClassName=J31_Nets Member=NetJ31_3
+Removed Member From Class: ClassName=M2_Nets Member=NetM2_9
+Added Pin To Net: NetName=ESP_IO18 Pin=J30-2
+Added Pin To Net: NetName=ESP_IO7 Pin=J30-4
+Added Pin To Net: NetName=ESP_IO5 Pin=J30-5
+Added Pin To Net: NetName=ESP_IO8 Pin=J31-2
+Added Pin To Net: NetName=ESP_IO17 Pin=J31-3
+Added Pin To Net: NetName=ESP_IO15 Pin=J31-4
+Added Pin To Net: NetName=ESP_IO6 Pin=J31-5
+Added Pin To Net: NetName=ESP_IO16 Pin=J30-3
+Added Pin To Net: NetName=ESP_IO16 Pin=M2-9
+Added Net: Name=ESP_IO16
+Added Member To Class: ClassName=J30_Nets Member=Wire ESP_IO5
+Added Member To Class: ClassName=J31_Nets Member=Wire ESP_IO6
+Added Member To Class: ClassName=J30_Nets Member=Wire ESP_IO7
+Added Member To Class: ClassName=J31_Nets Member=Wire ESP_IO8
+Added Member To Class: ClassName=J31_Nets Member=Wire ESP_IO15
+Added Member To Class: ClassName=J30_Nets Member=Wire ESP_IO16
+Added Member To Class: ClassName=M2_Nets Member=Wire ESP_IO16
+Added Member To Class: ClassName=J31_Nets Member=Wire ESP_IO17
+Added Member To Class: ClassName=J30_Nets Member=Wire ESP_IO18

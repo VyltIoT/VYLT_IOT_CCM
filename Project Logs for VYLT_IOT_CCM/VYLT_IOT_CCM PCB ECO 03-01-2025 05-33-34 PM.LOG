@@ -1,0 +1,105 @@
+Removed Pin From Net: NetName=ESP_TX0 Pin=J26-1
+Removed Pin From Net: NetName=ESP_TMS Pin=J26-2
+Removed Pin From Net: NetName=ESP_TDO Pin=J26-3
+Removed Pin From Net: NetName=ESP_RX0 Pin=J27-1
+Removed Pin From Net: NetName=ESP_TDI Pin=J27-2
+Removed Pin From Net: NetName=ESP_TCK Pin=J27-3
+Removed Pin From Net: NetName=3V3 Pin=J27-4
+Removed Pin From Net: NetName=ESP_IO14 Pin=J30-2
+Removed Pin From Net: NetName=ESP_IO12 Pin=J30-3
+Removed Pin From Net: NetName=ESP_IO10 Pin=J30-4
+Removed Pin From Net: NetName=ESP_IO8 Pin=J30-5
+Removed Pin From Net: NetName=ESP_IO17 Pin=J30-6
+Removed Pin From Net: NetName=GND Pin=J31-1
+Removed Pin From Net: NetName=GND Pin=J31-2
+Removed Pin From Net: NetName=ESP_IO13 Pin=J31-3
+Removed Pin From Net: NetName=ESP_IO11 Pin=J31-4
+Removed Pin From Net: NetName=ESP_IO9 Pin=J31-5
+Removed Pin From Net: NetName=ESP_IO18 Pin=J31-6
+Removed Member From Class: ClassName=J27_Nets Member=3V3
+Removed Member From Class: ClassName=J30_Nets Member=ESP_IO8
+Removed Member From Class: ClassName=J31_Nets Member=ESP_IO9
+Removed Member From Class: ClassName=J30_Nets Member=ESP_IO10
+Removed Member From Class: ClassName=J31_Nets Member=ESP_IO11
+Removed Member From Class: ClassName=J30_Nets Member=ESP_IO12
+Removed Member From Class: ClassName=J31_Nets Member=ESP_IO13
+Removed Member From Class: ClassName=J30_Nets Member=ESP_IO14
+Removed Member From Class: ClassName=J30_Nets Member=ESP_IO17
+Removed Member From Class: ClassName=J31_Nets Member=ESP_IO18
+Removed Member From Class: ClassName=J27_Nets Member=ESP_RX0
+Removed Member From Class: ClassName=J27_Nets Member=ESP_TCK
+Removed Member From Class: ClassName=J27_Nets Member=ESP_TDI
+Removed Member From Class: ClassName=J26_Nets Member=ESP_TDO
+Removed Member From Class: ClassName=J26_Nets Member=ESP_TMS
+Removed Member From Class: ClassName=J26_Nets Member=ESP_TX0
+Removed Member From Class: ClassName=J26_Nets Member=STM_JRST
+Removed Member From Class: ClassName=J26_Nets Member=STM_JTDI
+Removed Member From Class: ClassName=J30_Nets Member=STM_NRST
+Removed Member From Class: ClassName=J27_Nets Member=STM_SWC
+Removed Member From Class: ClassName=J26_Nets Member=STM_SWD
+Removed Member From Class: ClassName=J27_Nets Member=STM_SWO
+Added Pin To Net: NetName=3V3 Pin=J26-1
+Added Pin To Net: NetName=GND Pin=J27-1
+Added Pin To Net: NetName=3V3 Pin=J30-6
+Added Pin To Net: NetName=GND Pin=J31-6
+Change Net Name : Old Net Name=STM_JRST New Net Name=NetJ26_6
+Change Net Name : Old Net Name=STM_JTDI New Net Name=NetJ26_5
+Change Net Name : Old Net Name=STM_NRST New Net Name=NetJ30_1
+Change Net Name : Old Net Name=STM_SWC New Net Name=NetJ27_5
+Change Net Name : Old Net Name=STM_SWD New Net Name=NetJ26_4
+Change Net Name : Old Net Name=STM_SWO New Net Name=NetJ27_6
+Added Pin To Net: NetName=NetJ26_2 Pin=J26-2
+Added Net: Name=NetJ26_2
+Added Pin To Net: NetName=NetJ26_3 Pin=J26-3
+Added Net: Name=NetJ26_3
+Added Pin To Net: NetName=NetJ27_2 Pin=J27-2
+Added Net: Name=NetJ27_2
+Added Pin To Net: NetName=NetJ27_3 Pin=J27-3
+Added Net: Name=NetJ27_3
+Added Pin To Net: NetName=NetJ27_4 Pin=J27-4
+Added Net: Name=NetJ27_4
+Added Pin To Net: NetName=NetJ30_2 Pin=J30-2
+Added Net: Name=NetJ30_2
+Added Pin To Net: NetName=NetJ30_3 Pin=J30-3
+Added Net: Name=NetJ30_3
+Added Pin To Net: NetName=NetJ30_4 Pin=J30-4
+Added Net: Name=NetJ30_4
+Added Pin To Net: NetName=NetJ30_5 Pin=J30-5
+Added Net: Name=NetJ30_5
+Added Pin To Net: NetName=NetJ31_1 Pin=J31-1
+Added Net: Name=NetJ31_1
+Added Pin To Net: NetName=NetJ31_2 Pin=J31-2
+Added Net: Name=NetJ31_2
+Added Pin To Net: NetName=NetJ31_3 Pin=J31-3
+Added Net: Name=NetJ31_3
+Added Pin To Net: NetName=NetJ31_4 Pin=J31-4
+Added Net: Name=NetJ31_4
+Added Pin To Net: NetName=NetJ31_5 Pin=J31-5
+Added Net: Name=NetJ31_5
+Added Member To Class: ClassName=J26_Nets Member=Wire 3V3
+Added Member To Class: ClassName=J30_Nets Member=Wire 3V3
+Added Member To Class: ClassName=C61_Nets Member=Wire ESP_EN
+Added Member To Class: ClassName=M2_Nets Member=Wire ESP_EN
+Added Member To Class: ClassName=R50_Nets Member=Wire ESP_EN
+Added Member To Class: ClassName=SW6_Nets Member=Wire ESP_EN
+Added Member To Class: ClassName=J27_Nets Member=Wire GND
+Added Member To Class: ClassName=J26_Nets Member=Wire NetJ26_2
+Added Member To Class: ClassName=J26_Nets Member=Wire NetJ26_3
+Added Member To Class: ClassName=J26_Nets Member=Wire NetJ26_4
+Added Member To Class: ClassName=J26_Nets Member=Wire NetJ26_5
+Added Member To Class: ClassName=J26_Nets Member=Wire NetJ26_6
+Added Member To Class: ClassName=J27_Nets Member=Wire NetJ27_2
+Added Member To Class: ClassName=J27_Nets Member=Wire NetJ27_3
+Added Member To Class: ClassName=J27_Nets Member=Wire NetJ27_4
+Added Member To Class: ClassName=J27_Nets Member=Wire NetJ27_5
+Added Member To Class: ClassName=J27_Nets Member=Wire NetJ27_6
+Added Member To Class: ClassName=J30_Nets Member=Wire NetJ30_1
+Added Member To Class: ClassName=J30_Nets Member=Wire NetJ30_2
+Added Member To Class: ClassName=J30_Nets Member=Wire NetJ30_3
+Added Member To Class: ClassName=J30_Nets Member=Wire NetJ30_4
+Added Member To Class: ClassName=J30_Nets Member=Wire NetJ30_5
+Added Member To Class: ClassName=J31_Nets Member=Wire NetJ31_1
+Added Member To Class: ClassName=J31_Nets Member=Wire NetJ31_2
+Added Member To Class: ClassName=J31_Nets Member=Wire NetJ31_3
+Added Member To Class: ClassName=J31_Nets Member=Wire NetJ31_4
+Added Member To Class: ClassName=J31_Nets Member=Wire NetJ31_5

@@ -1,0 +1,60 @@
+Removed Member From Class: ClassName=J25_Nets Member=STM_I2C3_SCL
+Removed Member From Class: ClassName=J24_Nets Member=STM_I2C3_SDA
+Removed Member From Class: ClassName=J29_Nets Member=STM_IO_A1
+Removed Member From Class: ClassName=J28_Nets Member=STM_IO_B0
+Removed Member From Class: ClassName=J29_Nets Member=STM_IO_B1
+Removed Member From Class: ClassName=J29_Nets Member=STM_IO_B2
+Removed Member From Class: ClassName=J28_Nets Member=STM_IO_C4
+Removed Member From Class: ClassName=J29_Nets Member=STM_IO_C5
+Removed Member From Class: ClassName=J25_Nets Member=STM_IO_C8
+Removed Member From Class: ClassName=J25_Nets Member=STM_SPI2_MISO
+Removed Member From Class: ClassName=J24_Nets Member=STM_SPI2_MOSI
+Removed Member From Class: ClassName=J28_Nets Member=STM_SPI2_NSS
+Removed Member From Class: ClassName=J24_Nets Member=STM_SPI2_SCK
+Removed Member From Class: ClassName=J28_Nets Member=STM_SYS_WKP
+Removed Member From Class: ClassName=J25_Nets Member=STM_UART1_RX
+Removed Member From Class: ClassName=J24_Nets Member=STM_UART1_TX
+Removed Member From Class: ClassName=J29_Nets Member=STM_UART2_RX
+Removed Member From Class: ClassName=J28_Nets Member=STM_UART2_TX
+Removed Member From Class: ClassName=J24_Nets Member=STM_UART6_RX
+Removed Member From Class: ClassName=J25_Nets Member=STM_UART6_TX
+Added Pin To Net: NetName=ESP_RX0 Pin=J28-4
+Added Pin To Net: NetName=ESP_IO2 Pin=J28-5
+Added Pin To Net: NetName=ESP_TX0 Pin=J29-4
+Added Pin To Net: NetName=ESP_IO1 Pin=J29-5
+Change Net Name : Old Net Name=STM_I2C3_SCL New Net Name=NetJ25_3
+Change Net Name : Old Net Name=STM_I2C3_SDA New Net Name=NetJ24_3
+Change Net Name : Old Net Name=STM_IO_B0 New Net Name=NetJ28_2
+Change Net Name : Old Net Name=STM_IO_B1 New Net Name=NetJ29_2
+Change Net Name : Old Net Name=STM_IO_B2 New Net Name=NetJ29_1
+Change Net Name : Old Net Name=STM_IO_C4 New Net Name=NetJ28_3
+Change Net Name : Old Net Name=STM_IO_C5 New Net Name=NetJ29_3
+Change Net Name : Old Net Name=STM_IO_C8 New Net Name=NetJ25_4
+Change Net Name : Old Net Name=STM_SPI2_MISO New Net Name=NetJ25_6
+Change Net Name : Old Net Name=STM_SPI2_MOSI New Net Name=NetJ24_5
+Change Net Name : Old Net Name=STM_SPI2_NSS New Net Name=NetJ28_1
+Change Net Name : Old Net Name=STM_SPI2_SCK New Net Name=NetJ24_6
+Change Net Name : Old Net Name=STM_UART1_RX New Net Name=NetJ25_2
+Change Net Name : Old Net Name=STM_UART1_TX New Net Name=NetJ24_2
+Change Net Name : Old Net Name=STM_UART6_RX New Net Name=NetJ24_4
+Change Net Name : Old Net Name=STM_UART6_TX New Net Name=NetJ25_5
+Added Member To Class: ClassName=J29_Nets Member=Wire ESP_IO1
+Added Member To Class: ClassName=J28_Nets Member=Wire ESP_IO2
+Added Member To Class: ClassName=J28_Nets Member=Wire ESP_RX0
+Added Member To Class: ClassName=J29_Nets Member=Wire ESP_TX0
+Added Member To Class: ClassName=J24_Nets Member=Wire NetJ24_2
+Added Member To Class: ClassName=J24_Nets Member=Wire NetJ24_3
+Added Member To Class: ClassName=J24_Nets Member=Wire NetJ24_4
+Added Member To Class: ClassName=J24_Nets Member=Wire NetJ24_5
+Added Member To Class: ClassName=J24_Nets Member=Wire NetJ24_6
+Added Member To Class: ClassName=J25_Nets Member=Wire NetJ25_2
+Added Member To Class: ClassName=J25_Nets Member=Wire NetJ25_3
+Added Member To Class: ClassName=J25_Nets Member=Wire NetJ25_4
+Added Member To Class: ClassName=J25_Nets Member=Wire NetJ25_5
+Added Member To Class: ClassName=J25_Nets Member=Wire NetJ25_6
+Added Member To Class: ClassName=J28_Nets Member=Wire NetJ28_1
+Added Member To Class: ClassName=J28_Nets Member=Wire NetJ28_2
+Added Member To Class: ClassName=J28_Nets Member=Wire NetJ28_3
+Added Member To Class: ClassName=J29_Nets Member=Wire NetJ29_1
+Added Member To Class: ClassName=J29_Nets Member=Wire NetJ29_2
+Added Member To Class: ClassName=J29_Nets Member=Wire NetJ29_3

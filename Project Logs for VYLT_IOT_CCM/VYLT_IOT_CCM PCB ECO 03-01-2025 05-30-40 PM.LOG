@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=C61_Nets Member=NetC61_1
+Removed Member From Class: ClassName=R50_Nets Member=NetC61_1
+Removed Member From Class: ClassName=SW6_Nets Member=NetC61_1
+Added Pin To Net: NetName=NetC61_1 Pin=M2-3
+Change Net Name : Old Net Name=NetC61_1 New Net Name=ESP_EN
+Added Member To Class: ClassName=C61_Nets Member=Wire ESP_EN
+Added Member To Class: ClassName=R50_Nets Member=Wire ESP_EN
+Added Member To Class: ClassName=SW6_Nets Member=Wire ESP_EN

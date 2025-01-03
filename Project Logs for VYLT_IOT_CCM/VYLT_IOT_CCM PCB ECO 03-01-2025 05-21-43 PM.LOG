@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=J28_Nets Member=NetJ28_2
+Removed Member From Class: ClassName=J28_Nets Member=NetJ28_3
+Removed Member From Class: ClassName=J29_Nets Member=NetJ29_2
+Removed Member From Class: ClassName=J29_Nets Member=NetJ29_3
+Removed Member From Class: ClassName=M2_Nets Member=NetM2_23
+Removed Member From Class: ClassName=M2_Nets Member=NetM2_31
+Added Pin To Net: NetName=ESP_TCK Pin=J28-2
+Added Pin To Net: NetName=ESP_TDI Pin=J28-3
+Added Pin To Net: NetName=ESP_TDO Pin=J29-2
+Added Pin To Net: NetName=ESP_TMS Pin=J29-3
+Change Net Name : Old Net Name=NetM2_23 New Net Name=ESP_IO21
+Change Net Name : Old Net Name=NetM2_31 New Net Name=ESP_IO38
+Added Member To Class: ClassName=M2_Nets Member=Wire ESP_IO21
+Added Member To Class: ClassName=M2_Nets Member=Wire ESP_IO38
+Added Member To Class: ClassName=J28_Nets Member=Wire ESP_TCK
+Added Member To Class: ClassName=J28_Nets Member=Wire ESP_TDI
+Added Member To Class: ClassName=J29_Nets Member=Wire ESP_TDO
+Added Member To Class: ClassName=J29_Nets Member=Wire ESP_TMS
