@@ -1,22 +1,20 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: VYLT_IOT_CCM.PcbDoc   19-12-2024  05:44:48 PM
+NCDrill File Report For: VYLT_IOT_CCM.PcbDoc   18-02-2025  03:37:58 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : L1 to L4
-ASCII RoundHoles File : VYLT_IOT_CCM-RoundHoles.TXT
-ASCII SlotHoles File : VYLT_IOT_CCM-SlotHoles.TXT
+ASCII RoundHoles File : VYLT_IOT_CCM.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.254mm (10mil)                                           Round             73        PTH        107.18mm (4.22inch)
-T2      0.4mm (16mil)                                             Round             239       PTH        1014.58mm (39.94inch)
-T3      0.65mm (26mil)                                            Slot              12        PTH        250.22mm (9.85inch)
-T4      0.8mm (31mil)                                             Round             4         PTH        25.04mm (0.99inch)
-T5      0.81mm (32mil)                                            Round             102       PTH        668.72mm (26.33inch)
-T6      1.02mm (40mil)                                            Round             8         PTH        68.01mm (2.68inch)
-T7      1.1mm (43mil)                                             Round             20        PTH        66.04mm (2.60inch)
-T8      0.57mm (22mil)                                            Round             3         NPTH       95.44mm (3.76inch)
+T1      10mil (0.254mm)                                           Round             73        PTH        4.22inch (107.18mm)
+T2      16mil (0.406mm)                                           Round             202       PTH        35.23inch (894.92mm)
+T3      31mil (0.787mm)                                           Round             12        PTH        3.35inch (85.04mm)
+T4      32mil (0.813mm)                                           Round             102       PTH        26.13inch (663.64mm)
+T5      39mil (0.991mm)                                           Round             8         PTH        2.68inch (68.01mm)
+T6      43mil (1.092mm)                                           Round             20        PTH        2.50inch (63.50mm)
+T7      22mil (0.559mm)                                           Round             2         NPTH       1.33inch (33.79mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              461
+Totals                                                                              419
 
 Total Processing Time (hh:mm:ss) : 00:00:00

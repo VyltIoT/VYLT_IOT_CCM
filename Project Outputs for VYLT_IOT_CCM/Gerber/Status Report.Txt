@@ -1,13 +1,27 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [VYLT_IOT_CCM.PcbDoc]
-   Generated File[VYLT_IOT_CCM-RoundHoles.TXT]
-   Generated File[VYLT_IOT_CCM-SlotHoles.TXT]
-   Generated File[VYLT_IOT_CCM.LDP]
-   Generated File[VYLT_IOT_CCM.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [VYLT_IOT_CCM.PcbDoc]
+   Generated File[VYLT_IOT_CCM.GTO]
+   Generated File[VYLT_IOT_CCM.GTP]
+   Generated File[VYLT_IOT_CCM.GTS]
+   Generated File[VYLT_IOT_CCM.GTL]
+   Generated File[VYLT_IOT_CCM.G1]
+   Generated File[VYLT_IOT_CCM.G2]
+   Generated File[VYLT_IOT_CCM.GBL]
+   Generated File[VYLT_IOT_CCM.GBS]
+   Generated File[VYLT_IOT_CCM.GBP]
+   Generated File[VYLT_IOT_CCM.GBO]
+   Generated File[VYLT_IOT_CCM.GM3]
+   Generated File[VYLT_IOT_CCM.GM4]
+   Generated File[VYLT_IOT_CCM.GM5]
+   Generated File[VYLT_IOT_CCM.GM6]
+   Generated File[VYLT_IOT_CCM.GKO]
+   Generated File[VYLT_IOT_CCM.GPT]
+   Generated File[VYLT_IOT_CCM.GPB]
+   Generated File[VYLT_IOT_CCM.GM]
 
 
-Files Generated   : 4
+Files Generated   : 18
 Documents Printed : 0
 
-Finished Output Generation At 05:44:48 PM On 19-12-2024
+Finished Output Generation At 03:37:58 PM On 18-02-2025
