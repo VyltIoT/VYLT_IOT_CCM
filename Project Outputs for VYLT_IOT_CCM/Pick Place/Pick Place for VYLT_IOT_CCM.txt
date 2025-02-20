@@ -4,9 +4,9 @@ C:\Users\Satyam.DESKTOP-S570OAU\OneDrive - Vylt Technologies Private Limited\Alt
 ========================================================================================================================
 File Design Information:
 
-Date:       18-02-25
-Time:       15:39
-Revision:   6d0fcf2e3da5a5eebe4b985b0d0e21f4125c18e2
+Date:       20-02-25
+Time:       14:16
+Revision:   84ea1694923526942e39711e9e9119949b45352b
 Variant:    No variations
 Units used: mm
 
@@ -60,7 +60,7 @@ U1         TopLayer    28.3325      67.1000      180      "5A 180KHz 36V Buck DC
 R2         TopLayer    29.9600      60.5000      180      RES_0603                                                                                               
 R1         TopLayer    33.7500      60.5000      180      RES_0603                                                                                               
 L1         TopLayer    11.7500      58.0500      270      IND_1212                                                                                               
-D1         TopLayer    13.7500      69.2500      180      ""                                                                                                     
+C          TopLayer    13.7500      69.2500      180      ""                                                                                                     
 C7         TopLayer    21.0000      57.0000      90       "Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density"                                          
 C6         TopLayer    18.9892      57.0000      90       "1uF 105 0805 (2012 metric) 50V X7R MLCC SMD"                                                          
 C5         TopLayer    24.0000      55.5000      90       "Electrolytic Capacitor Through Hole D10 P5.0"                                                         

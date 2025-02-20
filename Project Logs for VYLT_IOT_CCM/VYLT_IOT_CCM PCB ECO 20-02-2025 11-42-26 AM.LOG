@@ -1,0 +1,36 @@
+Removed Member From Class: ClassName=L1_Nets Member=NetD1_1
+Removed Member From Class: ClassName=U1_Nets Member=NetD1_1
+Change component parameters: Designator = "R51" ("R51"); Footprint = "RES_0603"; UniqueID = "\CHQEYRZD" ("\CHQEYRZD")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "AMS1117_SOT223"; UniqueID = "\JKMCSXDA" ("\JKMCSXDA")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "TI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT223"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier  1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier  Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5" ("U5"); Footprint = "AMS1117_SOT223"; UniqueID = "\FMGBWUAJ" ("\FMGBWUAJ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "TI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT223"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier  1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier  Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U7" ("U7"); Footprint = "AMS1117_SOT223"; UniqueID = "\KFYJUDHI" ("\KFYJUDHI")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "TI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT223"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier  1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier  Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U10" ("U10"); Footprint = "AMS1117_SOT223"; UniqueID = "\FJSYWWBB" ("\FJSYWWBB")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "TI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT223"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier  1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier  Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetC_1
+Added Class: Name=C_Nets
+Added Member To Class: ClassName=POWER Member=Component C2 ERP_102-2
+Added Member To Class: ClassName=L1_Nets Member=Wire NetC_1
+Added Member To Class: ClassName=U1_Nets Member=Wire NetC_1
