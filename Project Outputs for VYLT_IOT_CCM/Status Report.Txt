@@ -1,15 +1,16 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 02:16:36 PM On 20-02-2025
+Start Output Generation At 02:17:26 PM On 05-03-2025
 
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of PCB Document [VYLT_IOT_CCM.PcbDoc]
-   Generated File[Pick Place for VYLT_IOT_CCM.txt]
+Output: Copy Files
+Type  : Copy Files
+From  : Project [VYLT_IOT_CCM.PrjPcb]
+   Generated File[Bill of Materials-VYLT_IOT_CCM.xlsx]
+   Generated File[VYLT_IOT_CCM.zip]
    Generated File[Pick Place for VYLT_IOT_CCM.csv]
 
 
-Files Generated   : 2
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 02:16:37 PM On 20-02-2025
+Finished Output Generation At 02:17:26 PM On 05-03-2025
